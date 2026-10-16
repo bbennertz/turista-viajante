@@ -6,15 +6,17 @@ import { resolve } from "node:path";
 
 const CHROME = process.env.CHROME || "C:/Program Files/Google/Chrome/Application/chrome.exe";
 
-export async function launch({ width, height, scale = 1, profile, port = 9333 }) {
+export async function launch({ width, height, scale = 1, profile, port = 9333, gpu = false }) {
   profile = resolve(profile); // o Chrome exige caminho absoluto no perfil
   mkdirSync(profile, { recursive: true });
   const proc = spawn(
     CHROME,
     [
       "--headless=new", `--remote-debugging-port=${port}`, `--user-data-dir=${profile}`,
-      "--use-gl=angle", "--use-angle=swiftshader", "--enable-unsafe-swiftshader", "--ignore-gpu-blocklist",
-      "--hide-scrollbars", "--no-first-run", "--disable-background-timer-throttling",
+      // gpu: usa a placa de vídeo (bem mais rápido, para gravar tela); padrão: renderização por software
+      ...(gpu ? ["--use-angle=d3d11", "--ignore-gpu-blocklist", "--enable-gpu-rasterization"]
+              : ["--use-gl=angle", "--use-angle=swiftshader", "--enable-unsafe-swiftshader", "--ignore-gpu-blocklist"]),
+      "--hide-scrollbars", "--no-first-run", "--lang=pt-BR", "--disable-background-timer-throttling",
       "--disable-renderer-backgrounding", `--window-size=${width},${height}`, "about:blank",
     ],
     { stdio: "ignore" },
@@ -34,8 +36,11 @@ export async function launch({ width, height, scale = 1, profile, port = 9333 })
   let id = 0;
   const pending = new Map();
   const logs = [];
+  const listeners = new Map(); // evento -> funções (ex.: Page.screencastFrame)
+  const on = (event, fn) => listeners.set(event, [...(listeners.get(event) || []), fn]);
   ws.onmessage = (m) => {
     const msg = JSON.parse(m.data);
+    if (msg.method && listeners.has(msg.method)) listeners.get(msg.method).forEach((fn) => fn(msg.params));
     if (msg.id && pending.has(msg.id)) {
       const { res, rej } = pending.get(msg.id);
       pending.delete(msg.id);
@@ -82,5 +87,5 @@ export async function launch({ width, height, scale = 1, profile, port = 9333 })
     return Buffer.from(r.data, "base64");
   };
   const close = () => { try { ws.close(); } catch {} proc.kill(); };
-  return { send, evaluate, goto, waitFor, screenshot, close, logs };
+  return { send, evaluate, goto, waitFor, screenshot, close, logs, on };
 }

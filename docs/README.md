@@ -33,3 +33,15 @@ node docs/motion/render.mjs                                         # 600 quadro
 - No navegador, abra `motion.html` e rode `play()` no console para ver ao vivo.
 - Dependências: Node 22+ (cliente WebSocket nativo), Chrome, e `imageio-ffmpeg` (em `requirements-dev.txt`) só para
   codificar o MP4. `docs/motion/build/` fica fora do Git.
+
+## motion/screen.mjs: gravação do app em uso (1600×900, ~48 s)
+
+Grava o app de verdade rodando no Chrome (cursor, cliques, mapa, modal), com legendas em português e geolocalização
+simulada na Place d'Armes, em Montreal. Não mostra Genebra. O app e a API precisam estar no ar (ver README principal).
+
+```bash
+export FFMPEG="$(.venv/Scripts/python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')"
+node docs/motion/screen.mjs docs/motion/build/uso-no-pc.mp4        # --dry ensaia sem codificar
+```
+
+Usa a GPU (`--use-angle=d3d11`) para chegar a ~18 quadros/s; com renderização por software ficava em ~5.
