@@ -22,9 +22,7 @@ Como funciona:
 
 Para completar, deixei o front-end bonitinho e pedi pro Claude montar esse post.
 
-Próximos passos:
-- Contabilizar os deslocamentos em transporte público (hoje o app considera só a pé e de carro).
-- Expandir a base de pontos turísticos, que ainda é parcial em Montreal, e incluir mais cidades.
+Como próximos passos, quero contabilizar os deslocamentos em transporte público (hoje o app considera só a pé e de carro) e expandir a base de pontos turísticos, que ainda é parcial em Montreal, incluindo mais cidades.
 
 Agora consigo turistar e aplicar Pesquisa Operacional ao mesmo tempo.
 
@@ -49,9 +47,7 @@ How it works:
 
 To top it off, I made the front end look nice and asked Claude to write this post.
 
-Next steps:
-- Account for travel times by public transit (for now the app only covers walking and driving).
-- Expand the set of attractions, which is still partial for Montreal, and add more cities.
+As next steps, I want to account for travel times by public transit (for now the app only covers walking and driving) and expand the set of attractions, which is still partial for Montreal, adding more cities.
 
 Now I can be a tourist and apply Operations Research at the same time.
 
