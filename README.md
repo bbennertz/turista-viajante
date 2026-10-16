@@ -11,7 +11,7 @@ front de mapa. Nasceu de uma dor real: montar o roteiro de uma viagem e decidir 
 |---|---|
 | Florianópolis | pronta: 137 lugares (sem restaurantes) |
 | Montreal | em andamento: cobertura parcial, ainda classificando |
-| Genebra | configurada, sem dados ainda |
+| Genebra | configurada, ainda sem dados (fora da interface por enquanto) |
 
 ## Como usar
 
@@ -20,8 +20,8 @@ Com o app aberto (veja [Começando](#começando)):
 1. **Partida.** O navegador pergunta se pode usar sua localização como ponto de partida (o hotel). É opcional: se
    você negar, ou estiver a mais de 60 km da cidade, o app usa o centro dela. Em qualquer caso dá para **arrastar o
    marcador laranja (H)** no mapa, ou clicar em "Usar minha localização" para tentar de novo.
-2. **Cidade.** Escolha no topo. Cidades sem dados aparecem desabilitadas ("em breve"); "parcial" avisa que a lista
-   ainda não cobre tudo.
+2. **Cidade.** Escolha no topo; só aparecem as cidades que já têm dados, e "parcial" avisa que a lista ainda não
+   cobre tudo.
 3. **Dia.** Data, hora de saída, hora limite de volta e como você se desloca (**a pé** ou **de carro**).
 4. **Lugares.** Na aba *Lugares*, filtre por região, tag ("autêntico", "natureza", "cartão-postal"...) ou nome, e
    **marque** os que quer visitar, na lista ou clicando nos pontos do mapa. O medidor embaixo mostra quanto das horas

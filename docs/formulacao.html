@@ -16,7 +16,7 @@
   * { box-sizing: border-box; margin: 0; }
   html, body { width: 1080px; height: 1350px; background: var(--bg); color: var(--text);
     font: 26px/1.3 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; overflow: hidden; }
-  .page { position: relative; width: 1080px; height: 1350px; padding: 50px 64px 0; display: flex; flex-direction: column; gap: 20px; }
+  .page { position: relative; width: 1080px; height: 1350px; padding: 46px 64px 0; display: flex; flex-direction: column; gap: 16px; }
   .page::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 12px; background: linear-gradient(90deg, var(--accent), var(--sun)); }
 
   .brand { display: flex; align-items: center; gap: 12px; font-weight: 700; font-size: 24px; color: var(--muted); letter-spacing: .04em; }
@@ -24,24 +24,20 @@
   h1 em { font-style: normal; color: var(--accent); }
   .sub { font-size: 26px; color: var(--muted); margin-top: 6px; }
 
-  .card { background: var(--surface); border: 2px solid var(--border); border-radius: 22px; padding: 18px 28px 20px; }
+  .card { background: var(--surface); border: 2px solid var(--border); border-radius: 22px; padding: 16px 30px 18px; }
   .card h2, .model h2 { font-size: 20px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); margin-bottom: 8px; }
   .two { display: grid; grid-template-columns: 1fr 1fr; column-gap: 34px; }
-  .def { display: grid; grid-template-columns: 138px 1fr; gap: 5px 14px; align-items: baseline; font-size: 23px; }
+  .def { display: grid; grid-template-columns: 300px 1fr; gap: 6px 22px; align-items: baseline; font-size: 27px; }
   .def .k { text-align: right; }
-  .def .v { color: var(--muted); font-size: 21px; line-height: 1.2; }
+  .def .v { color: var(--muted); font-size: 23px; line-height: 1.22; }
 
   .model { background: var(--surface); border: 3px solid var(--accent); border-radius: 26px; padding: 20px 34px 18px; }
   .obj { font-size: 34px; margin: 0 0 2px; }
   .subj { font-size: 20px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 4px 0 2px; }
-  .cons { display: grid; grid-template-columns: 50px 1fr 330px; align-items: center; row-gap: 3px; font-size: 27px; }
+  .cons { display: grid; grid-template-columns: 50px 1fr 330px; align-items: center; row-gap: 2px; font-size: 26px; }
   .cons .n { color: var(--sun); font-weight: 800; font-size: 22px; }
   .cons .why { color: var(--muted); font-size: 20px; line-height: 1.15; }
 
-  .notes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-  .note { background: var(--accent-soft); border-radius: 18px; padding: 14px 20px; font-size: 21px; line-height: 1.25; }
-  .note b { display: block; color: var(--accent); font-size: 22px; margin-bottom: 3px; }
-  .note.sun { background: var(--sun-soft); } .note.sun b { color: #b24a1f; }
 
   .foot { margin-top: auto; margin-left: -64px; margin-right: -64px; padding: 18px 64px; background: var(--text); color: #eaf4f6;
     display: flex; justify-content: space-between; align-items: center; font-size: 22px; }
@@ -68,21 +64,22 @@
   </div>
 
   <div class="card">
-    <h2>Dados e variáveis</h2>
-    <div class="two">
-      <div class="def">
-        <span class="k">\(V=\{0\}\cup P\)</span><span class="v">0 = hotel; P = lugares marcados</span>
-        <span class="k">\(c_{ij}\)</span><span class="v">tempo de deslocamento i → j</span>
-        <span class="k">\(s_i\)</span><span class="v">duração da visita</span>
-        <span class="k">\(W_i\)</span><span class="v">chegadas permitidas: \(\bigcup_k [\,a_{ik},\,b_{ik}-s_i\,]\)</span>
-        <span class="k">\([T_{ini},T_{fim}]\)</span><span class="v">janela do dia</span>
-      </div>
-      <div class="def">
-        <span class="k">\(x_{ij}\in\{0,1\}\)</span><span class="v">vou direto de i para j</span>
-        <span class="k">\(t_i\in\mathbb{Z}_{\ge 0}\)</span><span class="v">hora de chegada em i</span>
-        <span class="k">\(t_{ret}\)</span><span class="v">hora de volta ao hotel</span>
-        <span class="k"></span><span class="v" style="margin-top:6px">Horário partido (9h–12h e 14h–18h) vira domínio de \(t_i\).</span>
-      </div>
+    <h2>Dados</h2>
+    <div class="def">
+      <span class="k">\(V=\{0\}\cup P\)</span><span class="v">0 é o hotel; P, os lugares marcados</span>
+      <span class="k">\(c_{ij}\)</span><span class="v">minutos de deslocamento de i a j</span>
+      <span class="k">\(s_i\)</span><span class="v">duração da visita em i</span>
+      <span class="k">\(W_i=\bigcup_k [\,a_{ik},\,b_{ik}-s_i\,]\)</span><span class="v">chegadas permitidas (horário de funcionamento)</span>
+      <span class="k">\([T_{ini},\,T_{fim}]\)</span><span class="v">janela do dia</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Variáveis</h2>
+    <div class="def">
+      <span class="k">\(x_{ij}\in\{0,1\}\)</span><span class="v">1 se vou direto de i para j</span>
+      <span class="k">\(t_i\in\mathbb{Z}_{\ge 0}\)</span><span class="v">hora de chegada em i</span>
+      <span class="k">\(t_{ret}\)</span><span class="v">hora de volta ao hotel</span>
     </div>
   </div>
 
@@ -98,12 +95,6 @@
       <span class="n">(5)</span><span>\(t_i\in W_i\quad \forall\, i\in P\)</span><span class="why">domínio não convexo</span>
       <span class="n">(6)</span><span>\(t_{ret}\le T_{fim}\)</span><span class="why">cabe no dia</span>
     </div>
-  </div>
-
-  <div class="notes">
-    <div class="note"><b>Duas prioridades</b>Como 2048 &gt; 1440 min/dia, o deslocamento vence sempre; no empate, volta mais cedo.</div>
-    <div class="note"><b>Sem MTZ, sem big-M</b>Cada condição vira uma implicação exata (<i>OnlyEnforceIf</i>), em vez de uma constante grande.</div>
-    <div class="note sun"><b>Não cabe? Ele explica</b>Devolve o menor subconjunto de lugares em conflito, não só "inviável".</div>
   </div>
 
   <div class="foot">

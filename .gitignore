@@ -20,3 +20,6 @@ data/cities/*/agent_trace.json
 
 # respostas brutas da API do Google salvas em testes manuais (têm reviews e nomes de autores)
 tests/pipeline/fixtures/
+
+# saídas da animação (quadros, vídeo, perfil do Chrome)
+docs/motion/build/

@@ -53,7 +53,8 @@ estilos, score, pool ou restaurantes na v1 sem o usuário pedir (decisão dele; 
 
 ## Material de divulgação
 
-`docs/` guarda a imagem da formulação (HTML + PNG; comando de renderização em `docs/README.md`).
+`docs/` guarda a imagem da formulação (HTML + PNG) e `docs/motion/` (animação em canvas -> MP4 via Chrome sem tela +
+ffmpeg); os comandos de renderização estão em `docs/README.md`. Não commite `docs/motion/build/`.
 
 ## Armadilhas
 

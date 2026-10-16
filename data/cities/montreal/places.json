@@ -5843,6 +5843,134 @@
   }
  },
  {
+  "id": "ChIJHVkpiTobyUwREByrOho4s4g",
+  "name": "Beaver Lake Fountain",
+  "lat": 45.4982104,
+  "lng": -73.59679919999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "tourist_attraction",
+  "rating": 4.8,
+  "n_reviews": 506,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.5,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJyXqXKAAZyUwRGaB4FskxFB8",
+  "name": "Festilumi Montréal",
+  "lat": 45.532851799999996,
+  "lng": -73.6497471,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "event_venue",
+  "rating": 4.4,
+  "n_reviews": 948,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     1095,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     1095,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     1095,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     1095,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     1095,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.3,
+   "culture": 0.7,
+   "nature": 0.2,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
   "id": "ChIJo8VGFV8ayUwRd3Nv-izcsIc",
   "name": "Fonderie Darling",
   "lat": 45.4976245,

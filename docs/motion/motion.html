@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Turista Viajante: motion (1080×1080, 30 fps, 20 s)</title>
+<style>
+  html, body { margin: 0; background: #f3eee3; }
+  canvas { display: block; width: 1080px; height: 1080px; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1080" height="1080"></canvas>
+<script>
+// Animação do app em Montreal. Cada quadro é uma função pura do tempo: draw(t), t em segundos (0–20).
+// Os dados (rota, horários, posições) vêm do app real: data.json (API) e build/pixels.json (mapa-base).
+// Para ver ao vivo: abra esta página e rode  play()  no console. Para gerar o MP4: node render.mjs.
+const W = 1080, H = 1080, DURATION = 20, FPS = 30;
+const C = { bg: "#f3eee3", surface: "#fffdf8", text: "#112b3a", muted: "#55707e", border: "#e2d9c8",
+  accent: "#0e7490", accentSoft: "#d9eef2", sun: "#f26b3a", ok: "#166a44", okSoft: "#ddf2e5", idle: "#6b7f8b" };
+const FONT = '"Segoe UI", system-ui, -apple-system, Roboto, sans-serif';
+
+const canvas = document.getElementById("c");
+const ctx = canvas.getContext("2d");
+let DATA, PX, BASE;
+
+const SHORT = {
+  "Notre-Dame Basilica of Montreal": "Basílica de Notre-Dame",
+  "Montreal Museum of Archaeology and History": "Museu Pointe-à-Callière",
+  "Bonsecours Market": "Mercado Bonsecours",
+  "Rue Saint Paul Street": "Rue Saint-Paul",
+  "Clock Tower": "Torre do Relógio",
+  "Vieux-Port de Montréal": "Vieux-Port",
+};
+
+// Nomes curtos para a linha do tempo (o cartão é estreito).
+const SHORT_TL = {
+  "Notre-Dame Basilica of Montreal": "Notre-Dame",
+  "Montreal Museum of Archaeology and History": "Pointe-à-Callière",
+  "Bonsecours Market": "Bonsecours",
+  "Rue Saint Paul Street": "Rue Saint-Paul",
+  "Clock Tower": "Torre do Relógio",
+  "Vieux-Port de Montréal": "Vieux-Port",
+};
+
+// ── utilidades de tempo e easing ────────────────────────────────────────────────
+const clamp01 = (x) => Math.min(1, Math.max(0, x));
+const prog = (t, a, b) => clamp01((t - a) / (b - a));
+const lerp = (a, b, x) => a + (b - a) * x;
+const easeOut = (x) => 1 - Math.pow(1 - x, 3);
+const easeInOut = (x) => (x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2);
+const easeBack = (x) => { const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+
+const fmtTime = (m) => `${String(Math.floor(m / 60)).padStart(2, "0")}:${String(m % 60).padStart(2, "0")}`;
+const fmtDur = (m) => (m < 60 ? `${m} min` : m % 60 === 0 ? `${m / 60}h` : `${Math.floor(m / 60)}h${String(m % 60).padStart(2, "0")}`);
+
+// ── primitivas de desenho ───────────────────────────────────────────────────────
+function rr(x, y, w, h, r) { ctx.beginPath(); ctx.roundRect(x, y, w, h, r); }
+function text(s, x, y, { size = 28, weight = 600, color = C.text, align = "left", alpha = 1, spacing = 0, base = "middle" } = {}) {
+  ctx.save();
+  ctx.globalAlpha *= alpha; ctx.fillStyle = color; ctx.textAlign = align; ctx.textBaseline = base;
+  ctx.font = `${weight} ${size}px ${FONT}`; ctx.letterSpacing = `${spacing}px`;
+  ctx.fillText(s, x, y);
+  ctx.restore();
+}
+function circle(x, y, r, fill, stroke, lw = 3) {
+  ctx.beginPath(); ctx.arc(x, y, Math.max(0, r), 0, Math.PI * 2);
+  if (fill) { ctx.fillStyle = fill; ctx.fill(); }
+  if (stroke) { ctx.strokeStyle = stroke; ctx.lineWidth = lw; ctx.stroke(); }
+}
+function logo(cx, cy, size) {
+  const r = size / 2;
+  const g = ctx.createLinearGradient(cx - r, cy + r, cx + r, cy - r);
+  g.addColorStop(0, C.sun); g.addColorStop(1, C.accent);
+  circle(cx, cy, r, g);
+  ctx.save(); ctx.translate(cx - r, cy - r); ctx.scale(size / 32, size / 32);
+  ctx.strokeStyle = "#fff"; ctx.lineWidth = 1.8; ctx.lineCap = "round"; ctx.setLineDash([2.2, 2.2]);
+  ctx.beginPath(); ctx.moveTo(7, 23); ctx.bezierCurveTo(11, 23, 11, 17, 15, 17); ctx.bezierCurveTo(19, 17, 19, 12, 22, 11); ctx.stroke();
+  ctx.setLineDash([]); ctx.fillStyle = "#fff";
+  ctx.beginPath(); ctx.moveTo(22, 5.5); ctx.bezierCurveTo(19.4, 5.5, 17.5, 7.5, 17.5, 10); ctx.bezierCurveTo(17.5, 13.2, 22, 17, 22, 17);
+  ctx.bezierCurveTo(22, 17, 26.5, 13.2, 26.5, 10); ctx.bezierCurveTo(26.5, 7.5, 24.6, 5.5, 22, 5.5); ctx.fill();
+  circle(22, 10, 1.7, C.accent);
+  ctx.restore();
+}
+function card(x, y, w, h, alpha = 1) {
+  ctx.save(); ctx.globalAlpha = alpha;
+  ctx.shadowColor = "rgba(17,43,58,0.22)"; ctx.shadowBlur = 36; ctx.shadowOffsetY = 12;
+  rr(x, y, w, h, 28); ctx.fillStyle = C.surface; ctx.fill();
+  ctx.shadowColor = "transparent"; ctx.strokeStyle = C.border; ctx.lineWidth = 2; ctx.stroke();
+  ctx.save(); rr(x, y, w, h, 28); ctx.clip();
+  const g = ctx.createLinearGradient(x, 0, x + w, 0); g.addColorStop(0, C.accent); g.addColorStop(1, C.sun);
+  ctx.fillStyle = g; ctx.fillRect(x, y, w, 9); ctx.restore();
+  ctx.restore();
+}
+function check(x, y, s, p) { // visto animado dentro de uma caixa s×s
+  if (p <= 0) return;
+  ctx.save(); ctx.strokeStyle = "#fff"; ctx.lineWidth = 4.5; ctx.lineCap = "round"; ctx.lineJoin = "round";
+  const pts = [[x + s * 0.24, y + s * 0.52], [x + s * 0.43, y + s * 0.71], [x + s * 0.77, y + s * 0.3]];
+  const l1 = Math.hypot(pts[1][0] - pts[0][0], pts[1][1] - pts[0][1]), l2 = Math.hypot(pts[2][0] - pts[1][0], pts[2][1] - pts[1][1]);
+  const d = (l1 + l2) * p;
+  ctx.beginPath(); ctx.moveTo(...pts[0]);
+  if (d <= l1) ctx.lineTo(lerp(pts[0][0], pts[1][0], d / l1), lerp(pts[0][1], pts[1][1], d / l1));
+  else { ctx.lineTo(...pts[1]); const q = (d - l1) / l2; ctx.lineTo(lerp(pts[1][0], pts[2][0], q), lerp(pts[1][1], pts[2][1], q)); }
+  ctx.stroke(); ctx.restore();
+}
+
+// ── cena ────────────────────────────────────────────────────────────────────────
+const TICK0 = 3.4, TICK_GAP = 0.75;          // marcação dos lugares
+const PRESS = 8.4, SOLVED = 9.9;             // botão e cálculo
+const MORPH0 = 10.6, ROUTE0 = 11.0, ROUTE1 = 15.6; // cartão vira linha do tempo; rota se desenha
+const CARD = { x: 36, y: 118, w: 404, h: 790 };
+
+function routePath() { return [PX.hotel, ...PX.stops, PX.hotel]; }
+function cumulative(path) { const out = [0]; for (let i = 1; i < path.length; i++) out.push(out[i - 1] + Math.hypot(path[i][0] - path[i - 1][0], path[i][1] - path[i - 1][1])); return out; }
+
+function drawMapLayer(t) {
+  const s = 1 + 0.045 * easeInOut(prog(t, 2.4, 17));
+  ctx.save();
+  ctx.translate(700, 480); ctx.scale(s, s); ctx.translate(-700, -480);
+  ctx.drawImage(BASE, 0, 0, W, H);
+  ctx.fillStyle = "rgba(243,238,227,0.28)"; ctx.fillRect(0, 0, W, H); // toque de areia da paleta
+
+  // demais lugares (cinza), surgem em sequência
+  PX.others.forEach((p, i) => {
+    const a = easeBack(prog(t, 2.7 + i * 0.018, 3.2 + i * 0.018));
+    if (a > 0) circle(p[0], p[1], 7 * a, C.idle, "#fff", 2.5);
+  });
+
+  // pontos marcados: ficam teal quando a linha da lista é marcada, com um anel de pulso
+  const order = DATA.selection_order.map((s) => DATA.route.stops.findIndex((r) => r.place_id === s.id));
+  order.forEach((stopIdx, k) => {
+    const tk = TICK0 + k * TICK_GAP, p = PX.stops[stopIdx];
+    const a = prog(t, tk, tk + 0.3);
+    if (a > 0) {
+      const ring = prog(t, tk, tk + 0.7);
+      if (ring < 1) { ctx.save(); ctx.globalAlpha = 0.55 * (1 - ring); circle(p[0], p[1], 10 + 34 * easeOut(ring), null, C.accent, 4); ctx.restore(); }
+      circle(p[0], p[1], lerp(7, 12, easeBack(a)), C.accent, "#fff", 3);
+    }
+  });
+
+  // rota
+  const path = routePath(), cum = cumulative(path), L = cum[cum.length - 1];
+  const rp = easeInOut(prog(t, ROUTE0, ROUTE1)), len = rp * L;
+  if (rp > 0) {
+    ctx.save(); ctx.lineCap = "round"; ctx.lineJoin = "round";
+    const trace = () => {
+      ctx.beginPath(); ctx.moveTo(...path[0]);
+      for (let i = 1; i < path.length; i++) {
+        if (len >= cum[i]) ctx.lineTo(...path[i]);
+        else { const q = (len - cum[i - 1]) / (cum[i] - cum[i - 1]); if (q > 0) ctx.lineTo(lerp(path[i - 1][0], path[i][0], q), lerp(path[i - 1][1], path[i][1], q)); break; }
+      }
+    };
+    ctx.setLineDash([]); ctx.strokeStyle = "rgba(255,255,255,0.95)"; ctx.lineWidth = 11; trace(); ctx.stroke();
+    ctx.setLineDash([16, 11]); ctx.lineDashOffset = -t * 40; ctx.strokeStyle = C.accent; ctx.lineWidth = 6.5; trace(); ctx.stroke();
+    ctx.restore();
+  }
+
+  // marcadores numerados, ao chegarem na linha
+  PX.stops.forEach((p, i) => {
+    const reach = cum[i + 1] / L, tp = ROUTE0 + (ROUTE1 - ROUTE0) * invEase(reach);
+    const a = easeBack(prog(t, tp, tp + 0.4));
+    if (a > 0) { circle(p[0], p[1], 19 * a, C.accent, "#fff", 4); text(String(i + 1), p[0], p[1] + 1, { size: 22 * a, weight: 800, color: "#fff", align: "center" }); }
+  });
+
+  // hotel
+  const ha = easeBack(prog(t, 2.5, 3.1));
+  if (ha > 0) { circle(PX.hotel[0], PX.hotel[1], 20 * ha, C.sun, "#fff", 4); text("H", PX.hotel[0], PX.hotel[1] + 1, { size: 23 * ha, weight: 800, color: "#fff", align: "center" }); }
+  ctx.restore();
+}
+function invEase(y) { // inversa numérica de easeInOut (0..1)
+  let lo = 0, hi = 1; for (let i = 0; i < 30; i++) { const m = (lo + hi) / 2; if (easeInOut(m) < y) lo = m; else hi = m; } return (lo + hi) / 2;
+}
+
+function drawSelectionCard(t, alpha) {
+  const { x, y, w } = CARD, count = DATA.selection_order.filter((_, k) => t >= TICK0 + k * TICK_GAP).length;
+  ctx.save(); ctx.globalAlpha = alpha;
+  text("Lugares", x + 30, y + 50, { size: 36, weight: 800 });
+  text("Vieux-Montréal", x + 32, y + 86, { size: 21, weight: 500, color: C.muted });
+  const bp = count > 0 ? easeBack(prog(t, TICK0 + (count - 1) * TICK_GAP, TICK0 + (count - 1) * TICK_GAP + 0.3)) : 1;
+  circle(x + w - 52, y + 56, 24 * (0.85 + 0.15 * bp), C.accentSoft); text(String(count), x + w - 52, y + 57, { size: 26, weight: 800, color: C.accent, align: "center" });
+  DATA.selection_order.forEach((s, k) => {
+    const ry = y + 108 + k * 84, enter = easeOut(prog(t, 2.8 + k * 0.09, 3.3 + k * 0.09));
+    const tk = TICK0 + k * TICK_GAP, on = prog(t, tk, tk + 0.25);
+    ctx.save(); ctx.globalAlpha *= enter; ctx.translate(-26 * (1 - enter), 0);
+    if (on > 0) { ctx.save(); ctx.globalAlpha *= on; rr(x + 14, ry, w - 28, 74, 18); ctx.fillStyle = C.accentSoft; ctx.fill(); ctx.restore(); }
+    rr(x + 30, ry + 19, 36, 36, 9); ctx.fillStyle = on > 0 ? C.accent : "#fff"; ctx.fill();
+    ctx.strokeStyle = on > 0 ? C.accent : "#b9c7cf"; ctx.lineWidth = 3; ctx.stroke();
+    check(x + 30, ry + 19, 36, prog(t, tk + 0.05, tk + 0.3));
+    text(SHORT[s.name] || s.name, x + 82, ry + 29, { size: 26, weight: 700 });
+    text(fmtDur(s.duration_min), x + 82, ry + 57, { size: 22, weight: 500, color: C.muted });
+    ctx.restore();
+  });
+  // botão "Montar roteiro"
+  const by = y + CARD.h - 100, bw = w - 60;
+  const press = prog(t, PRESS, PRESS + 0.25), pscale = 1 - 0.04 * Math.sin(Math.PI * press);
+  const solving = t >= PRESS + 0.3 && t < SOLVED, solved = t >= SOLVED;
+  ctx.save(); ctx.translate(x + 30 + bw / 2, by + 32); ctx.scale(pscale, pscale); ctx.translate(-(x + 30 + bw / 2), -(by + 32));
+  rr(x + 30, by, bw, 64, 20);
+  ctx.fillStyle = solved ? C.okSoft : C.accent; ctx.globalAlpha *= count === 0 ? 0.45 : 1; ctx.fill();
+  ctx.globalAlpha = alpha;
+  if (press > 0 && press < 1 || (t >= PRESS && t < PRESS + 0.7)) { // onda do clique
+    const rp = prog(t, PRESS, PRESS + 0.7); ctx.save(); rr(x + 30, by, bw, 64, 20); ctx.clip();
+    ctx.globalAlpha = 0.35 * (1 - rp); circle(x + 30 + bw * 0.5, by + 32, bw * 0.6 * easeOut(rp), "#fff"); ctx.restore();
+  }
+  if (solving) {
+    const a = t * 7; ctx.save(); ctx.strokeStyle = "#fff"; ctx.lineWidth = 4; ctx.lineCap = "round";
+    ctx.beginPath(); ctx.arc(x + 30 + bw / 2 - 98, by + 32, 11, a, a + 4.2); ctx.stroke(); ctx.restore();
+    text("Calculando…", x + 30 + bw / 2 + 12, by + 33, { size: 27, weight: 700, color: "#fff", align: "center" });
+  } else if (solved) {
+    const p = easeBack(prog(t, SOLVED, SOLVED + 0.4));
+    text("✓ Ótimo · 1h06 a pé", x + 30 + bw / 2, by + 33, { size: 27 * (0.9 + 0.1 * p), weight: 800, color: C.ok, align: "center" });
+  } else {
+    text(count > 0 ? `Montar roteiro · ${count} ${count === 1 ? "lugar" : "lugares"}` : "Montar roteiro", x + 30 + bw / 2, by + 33, { size: 27, weight: 700, color: "#fff", align: "center" });
+  }
+  ctx.restore(); ctx.restore();
+}
+
+function drawTimelineCard(t, alpha) {
+  const { x, y, w } = CARD, R = DATA.route, path = routePath(), cum = cumulative(path), L = cum[cum.length - 1];
+  ctx.save(); ctx.globalAlpha = alpha;
+  text("Roteiro", x + 30, y + 58, { size: 36, weight: 800 });
+  rr(x + w - 118, y + 38, 88, 40, 20); ctx.fillStyle = C.okSoft; ctx.fill(); text("ótimo", x + w - 74, y + 58, { size: 22, weight: 800, color: C.ok, align: "center" });
+  text("sáb., 17/10 · a pé", x + 30, y + 98, { size: 22, weight: 500, color: C.muted });
+  const rows = [{ t: R.depart, label: "Saída do hotel", hotel: true }, ...R.stops.map((s, i) => ({ t: s.arrive, label: SHORT_TL[s.name] || SHORT[s.name] || s.name, n: i + 1, walk: s.travel_min })), { t: R.back, label: "Volta ao hotel", hotel: true, walk: R.back_travel_min }];
+  rows.forEach((r, i) => {
+    const reach = i === 0 ? 0 : cum[Math.min(i, cum.length - 1)] / L, tp = i === 0 ? MORPH0 + 0.2 : ROUTE0 + (ROUTE1 - ROUTE0) * invEase(reach);
+    const a = easeOut(prog(t, tp, tp + 0.4)); if (a <= 0) return;
+    const ry = y + 134 + i * 62;
+    ctx.save(); ctx.globalAlpha *= a; ctx.translate(-22 * (1 - a), 0);
+    text(fmtTime(r.t), x + 30, ry + 22, { size: 26, weight: 800 });
+    const bx = x + 148;
+    if (r.hotel) { circle(bx, ry + 22, 15, C.sun); text("H", bx, ry + 23, { size: 17, weight: 800, color: "#fff", align: "center" }); }
+    else { circle(bx, ry + 22, 15, C.accent); text(String(r.n), bx, ry + 23, { size: 18, weight: 800, color: "#fff", align: "center" }); }
+    text(r.label, x + 176, ry + 20, { size: 25, weight: 700 });
+    if (r.walk) text(`+${r.walk} min a pé`, x + 176, ry + 46, { size: 19, weight: 500, color: C.muted });
+    ctx.restore();
+  });
+  // resumo e botão do Google Maps
+  const sp = easeOut(prog(t, 15.9, 16.4));
+  const sy = y + 134 + 8 * 62 + 6;
+  ctx.save(); ctx.globalAlpha *= sp;
+  text("6 lugares · 1h06 andando", x + 30, sy + 14, { size: 25, weight: 800 });
+  text("volta ao hotel às 17:06", x + 30, sy + 44, { size: 23, weight: 500, color: C.muted });
+  ctx.restore();
+  const bp = easeOut(prog(t, 16.9, 17.3)), gp = prog(t, 17.6, 17.85), gs = 1 - 0.04 * Math.sin(Math.PI * gp);
+  if (bp > 0) {
+    const by = y + CARD.h - 78, bw = w - 60; ctx.save(); ctx.globalAlpha *= bp;
+    ctx.translate(x + 30 + bw / 2, by + 28); ctx.scale(gs, gs); ctx.translate(-(x + 30 + bw / 2), -(by + 28));
+    rr(x + 30, by, bw, 56, 18); ctx.fillStyle = gp >= 1 ? C.okSoft : C.surface; ctx.fill(); ctx.strokeStyle = gp >= 1 ? C.ok : C.accent; ctx.lineWidth = 3; ctx.stroke();
+    text(gp >= 1 ? "✓ Aberto no Google Maps" : "Abrir no Google Maps", x + 30 + bw / 2, by + 29, { size: 24, weight: 800, color: gp >= 1 ? C.ok : C.accent, align: "center" });
+    ctx.restore();
+  }
+  ctx.restore();
+}
+
+function drawCards(t) {
+  const slide = easeOut(prog(t, 2.5, 3.2));
+  if (slide <= 0) return;
+  const dx = -(CARD.w + 80) * (1 - slide);
+  ctx.save(); ctx.translate(dx, 0); card(CARD.x, CARD.y, CARD.w, CARD.h);
+  const m = easeInOut(prog(t, MORPH0, MORPH0 + 0.5));
+  if (m < 1) drawSelectionCard(t, 1 - m);
+  if (m > 0) drawTimelineCard(t, m);
+  ctx.restore();
+}
+
+function drawIntro(t) {
+  const fade = 1 - easeInOut(prog(t, 1.9, 2.6)); if (fade <= 0) return;
+  ctx.save(); ctx.globalAlpha = fade;
+  const g = ctx.createLinearGradient(0, 0, 0, H); g.addColorStop(0, "#f7f2e8"); g.addColorStop(1, "#e9e2d2"); ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+  const bar = ctx.createLinearGradient(0, 0, W, 0); bar.addColorStop(0, C.accent); bar.addColorStop(1, C.sun); ctx.fillStyle = bar; ctx.fillRect(0, 0, W, 14);
+  const lp = easeBack(prog(t, 0.1, 0.8)); logo(W / 2, 390, 150 * lp);
+  const tp = easeOut(prog(t, 0.45, 1.05)); text("Turista Viajante", W / 2, 530 + 24 * (1 - tp), { size: 86, weight: 800, align: "center", alpha: tp });
+  const sp = easeOut(prog(t, 0.8, 1.4)); text("Montreal, em um dia", W / 2, 625 + 20 * (1 - sp), { size: 48, weight: 600, color: C.accent, align: "center", alpha: sp });
+  const dp = easeOut(prog(t, 1.1, 1.7)); text("Marque os lugares. O solver acha a melhor ordem.", W / 2, 710, { size: 32, weight: 500, color: C.muted, align: "center", alpha: dp });
+  ctx.restore();
+}
+
+function drawOutro(t) {
+  const a = easeInOut(prog(t, 18.3, 18.9)); if (a <= 0) return;
+  ctx.save(); ctx.globalAlpha = a;
+  const g = ctx.createLinearGradient(0, 0, 0, H); g.addColorStop(0, "#f7f2e8"); g.addColorStop(1, "#e9e2d2"); ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+  const bar = ctx.createLinearGradient(0, 0, W, 0); bar.addColorStop(0, C.accent); bar.addColorStop(1, C.sun); ctx.fillStyle = bar; ctx.fillRect(0, 0, W, 14);
+  const u = (d) => easeOut(prog(t, 18.6 + d, 19.1 + d));
+  logo(W / 2, 300, 128);
+  text("Turista Viajante", W / 2, 420 + 16 * (1 - u(0)), { size: 76, weight: 800, align: "center", alpha: u(0) });
+  text("O melhor caminho para o seu dia de viagem", W / 2, 500, { size: 38, weight: 600, color: C.accent, align: "center", alpha: u(0.1) });
+  text("github.com/bbennertz/turista-viajante", W / 2, 640, { size: 38, weight: 800, align: "center", alpha: u(0.2) });
+  const tags = ["Python", "OR-Tools CP-SAT", "FastAPI", "React", "MapLibre"];
+  ctx.save(); ctx.globalAlpha *= u(0.3); ctx.font = `700 25px ${FONT}`;
+  const widths = tags.map((s) => ctx.measureText(s).width + 44), total = widths.reduce((p, q) => p + q, 0) + 14 * (tags.length - 1);
+  let cx = (W - total) / 2; tags.forEach((s, i) => { rr(cx, 706, widths[i], 50, 25); ctx.fillStyle = C.accentSoft; ctx.fill(); text(s, cx + widths[i] / 2, 732, { size: 25, weight: 700, color: C.accent, align: "center" }); cx += widths[i] + 14; });
+  ctx.restore();
+  text("Dados do mapa © OpenStreetMap contributors · OpenFreeMap", W / 2, 1030, { size: 20, weight: 500, color: C.muted, align: "center", alpha: u(0.35) });
+  ctx.restore();
+}
+
+function draw(t) {
+  ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.globalAlpha = 1;
+  ctx.fillStyle = C.bg; ctx.fillRect(0, 0, W, H);
+  drawMapLayer(t);
+  text("© OpenStreetMap contributors · OpenFreeMap", W - 18, H - 16, { size: 15, weight: 500, color: "#3d5563", align: "right", alpha: 0.75 });
+  drawCards(t);
+  drawIntro(t);
+  drawOutro(t);
+}
+
+const loadImage = (src) => new Promise((res, rej) => { const i = new Image(); i.onload = () => res(i); i.onerror = rej; i.src = src; });
+async function init() {
+  DATA = await (await fetch("data.json")).json();
+  PX = await (await fetch("build/pixels.json")).json();
+  BASE = await loadImage("build/basemap.png");
+  await document.fonts.ready;
+  draw(0);
+  window.__ready = true;
+}
+function play() { const t0 = performance.now(); const tick = () => { const t = (performance.now() - t0) / 1000; draw(Math.min(t, DURATION)); if (t < DURATION) requestAnimationFrame(tick); }; tick(); }
+window.draw = draw; window.play = play; window.DURATION = DURATION; window.FPS = FPS;
+init();
+</script>
+</body>
+</html>

@@ -6,24 +6,22 @@ interface Props {
   onChange: (city: City) => void;
 }
 
-/** Escolha da cidade: todas visíveis; as que ainda não têm dados aparecem desabilitadas, com o motivo. */
+/** Escolha da cidade. Só aparecem as que já têm dados (as demais ficam fora da interface até ficarem prontas). */
 export function CitySwitch({ cities, currentId, onChange }: Props) {
   return (
     <div className="city-switch" role="radiogroup" aria-label="Cidade">
-      {cities.map((c) => (
+      {cities.filter((c) => c.ready).map((c) => (
         <button
           key={c.id}
           type="button"
           role="radio"
           aria-checked={c.id === currentId}
-          disabled={!c.ready}
           className={c.id === currentId ? "seg-on" : ""}
-          title={c.ready ? `${c.n_places} lugares${c.partial ? " (cobertura parcial)" : ""}` : "Em preparação"}
+          title={`${c.n_places} lugares${c.partial ? " (cobertura parcial)" : ""}`}
           onClick={() => onChange(c)}
         >
           <span>{c.name}</span>
-          {!c.ready && <span className="soon">em breve</span>}
-          {c.ready && c.partial && <span className="soon">parcial</span>}
+          {c.partial && <span className="soon">parcial</span>}
         </button>
       ))}
     </div>

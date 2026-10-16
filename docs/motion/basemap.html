@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>basemap</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<style>
+  html, body { margin: 0; width: 1080px; height: 1080px; overflow: hidden; background: #f3eee3; }
+  #map { position: absolute; inset: 0; }
+  #out { position: absolute; left: -9999px; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<pre id="out"></pre>
+<script>
+// Mapa-base da animação: mesmo estilo (OpenFreeMap positron) do app, enquadrado na rota com espaço à esquerda para o cartão.
+// Gera: a imagem (por screenshot do Chrome) e as posições em pixel (JSON no DOM) dos pontos, usadas pela animação.
+fetch('data.json').then(r => r.json()).then((d) => {
+  const stops = d.route.stops;
+  const b = new maplibregl.LngLatBounds([d.hotel.lng, d.hotel.lat], [d.hotel.lng, d.hotel.lat]);
+  stops.forEach(s => b.extend([s.lng, s.lat]));
+  const map = new maplibregl.Map({
+    container: 'map', style: 'https://tiles.openfreemap.org/styles/positron',
+    bounds: b, fitBoundsOptions: { padding: { left: 450, right: 80, top: 190, bottom: 230 } },
+    interactive: false, attributionControl: false, fadeDuration: 0, preserveDrawingBuffer: true,
+  });
+  map.on('idle', () => {
+    if (document.getElementById('out').textContent) return;
+    const px = (p) => { const q = map.project([p.lng, p.lat]); return [Math.round(q.x * 10) / 10, Math.round(q.y * 10) / 10]; };
+    document.getElementById('out').textContent = JSON.stringify({
+      zoom: map.getZoom(), hotel: px(d.hotel), stops: stops.map(px), others: d.others.map(px),
+    });
+    document.title = 'ready';
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,226 @@
+{
+ "city": "Montreal",
+ "date": "sábado, 17 de outubro",
+ "mode": "a pé",
+ "hotel": {
+  "lat": 45.5046,
+  "lng": -73.5568
+ },
+ "selection_order": [
+  {
+   "id": "ChIJPXGXWFcayUwRqpYNHZ_v_B8",
+   "name": "Notre-Dame Basilica of Montreal",
+   "duration_min": 60
+  },
+  {
+   "id": "ChIJy4EMO1gayUwR9Edi1pVv934",
+   "name": "Montreal Museum of Archaeology and History",
+   "duration_min": 90
+  },
+  {
+   "id": "ChIJH1lQy1UayUwRaUKBtKz7mOg",
+   "name": "Bonsecours Market",
+   "duration_min": 60
+  },
+  {
+   "id": "ChIJP2fRJgAbyUwR7WvwOdXa-Ws",
+   "name": "Rue Saint Paul Street",
+   "duration_min": 60
+  },
+  {
+   "id": "ChIJfTEP_v8ayUwRwXdj0_r-O0w",
+   "name": "Clock Tower",
+   "duration_min": 30
+  },
+  {
+   "id": "ChIJKSezr_gayUwRDnKQVi-nC4U",
+   "name": "Vieux-Port de Montréal",
+   "duration_min": 120
+  }
+ ],
+ "route": {
+  "status": "OPTIMAL",
+  "travel_total": 66,
+  "depart": 540,
+  "back": 1026,
+  "back_travel_min": 6,
+  "stops": [
+   {
+    "place_id": "ChIJPXGXWFcayUwRqpYNHZ_v_B8",
+    "name": "Notre-Dame Basilica of Montreal",
+    "lat": 45.5045254,
+    "lng": -73.5561204,
+    "arrive": 542,
+    "leave": 602,
+    "travel_min": 2
+   },
+   {
+    "place_id": "ChIJP2fRJgAbyUwR7WvwOdXa-Ws",
+    "name": "Rue Saint Paul Street",
+    "lat": 45.5067826,
+    "lng": -73.5528322,
+    "arrive": 608,
+    "leave": 668,
+    "travel_min": 6
+   },
+   {
+    "place_id": "ChIJH1lQy1UayUwRaUKBtKz7mOg",
+    "name": "Bonsecours Market",
+    "lat": 45.5089549,
+    "lng": -73.5514907,
+    "arrive": 672,
+    "leave": 732,
+    "travel_min": 4
+   },
+   {
+    "place_id": "ChIJfTEP_v8ayUwRwXdj0_r-O0w",
+    "name": "Clock Tower",
+    "lat": 45.512293299999996,
+    "lng": -73.5458355,
+    "arrive": 742,
+    "leave": 772,
+    "travel_min": 10
+   },
+   {
+    "place_id": "ChIJKSezr_gayUwRDnKQVi-nC4U",
+    "name": "Vieux-Port de Montréal",
+    "lat": 45.5124578,
+    "lng": -73.5484867,
+    "arrive": 786,
+    "leave": 906,
+    "travel_min": 14
+   },
+   {
+    "place_id": "ChIJy4EMO1gayUwR9Edi1pVv934",
+    "name": "Montreal Museum of Archaeology and History",
+    "lat": 45.5026511,
+    "lng": -73.5541668,
+    "arrive": 930,
+    "leave": 1020,
+    "travel_min": 24
+   }
+  ]
+ },
+ "others": [
+  {
+   "name": "Montreal Science Centre",
+   "lat": 45.504787400000005,
+   "lng": -73.55074309999999
+  },
+  {
+   "name": "The Biosphere, Environment Museum",
+   "lat": 45.513883299999996,
+   "lng": -73.5314408
+  },
+  {
+   "name": "Parc Jean-Drapeau",
+   "lat": 45.5139952,
+   "lng": -73.5338306
+  },
+  {
+   "name": "Bota Bota, spa-sur-l'eau",
+   "lat": 45.499865,
+   "lng": -73.5511057
+  },
+  {
+   "name": "La Grande Roue de Montréal",
+   "lat": 45.5087444,
+   "lng": -73.54884489999999
+  },
+  {
+   "name": "Museum of Illusions Montréal",
+   "lat": 45.505983,
+   "lng": -73.5576063
+  },
+  {
+   "name": "Expériences Infinity - Vieux-Port",
+   "lat": 45.50508980000001,
+   "lng": -73.55158589999999
+  },
+  {
+   "name": "Victoria Square",
+   "lat": 45.50162280000001,
+   "lng": -73.56192829999999
+  },
+  {
+   "name": "Voiles en Voiles",
+   "lat": 45.508561,
+   "lng": -73.550616
+  },
+  {
+   "name": "Jacques-Cartier Pier",
+   "lat": 45.5073279,
+   "lng": -73.54983779999999
+  },
+  {
+   "name": "SOS Labyrinthe - Vieux-Port de Montréal",
+   "lat": 45.5093343,
+   "lng": -73.5495122
+  },
+  {
+   "name": "L'expérience AURA | The AURA Experience",
+   "lat": 45.5044263,
+   "lng": -73.5559176
+  },
+  {
+   "name": "Complexe aquatique du parc Jean-Drapeau",
+   "lat": 45.51283,
+   "lng": -73.5345336
+  },
+  {
+   "name": "Piknic Électronik",
+   "lat": 45.5116297,
+   "lng": -73.5346024
+  },
+  {
+   "name": "Le Vieux Montréal",
+   "lat": 45.507453399999996,
+   "lng": -73.5544177
+  },
+  {
+   "name": "Vauquelin Place",
+   "lat": 45.5084724,
+   "lng": -73.5545197
+  },
+  {
+   "name": "Paix Park",
+   "lat": 45.5094308,
+   "lng": -73.5621357
+  },
+  {
+   "name": "Jean-Paul-Riopelle Place",
+   "lat": 45.503270799999996,
+   "lng": -73.56100680000002
+  },
+  {
+   "name": "Old Montreal City",
+   "lat": 45.507453399999996,
+   "lng": -73.5544177
+  },
+  {
+   "name": "Fonderie Darling",
+   "lat": 45.4976245,
+   "lng": -73.5568013
+  },
+  {
+   "name": "Espace 67",
+   "lat": 45.5110457,
+   "lng": -73.5339496
+  },
+  {
+   "name": "J'MTL Sign",
+   "lat": 45.5083968,
+   "lng": -73.5490083
+  },
+  {
+   "name": "Arts Court",
+   "lat": 45.5071806,
+   "lng": -73.55296489999999
+  },
+  {
+   "name": "Montréal en Histoires",
+   "lat": 45.5001767,
+   "lng": -73.5581378
+  }
+ ]
+}

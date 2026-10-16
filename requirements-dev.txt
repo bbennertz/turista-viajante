@@ -1,5 +1,6 @@
 -r requirements.txt
 pytest==9.1.1
+imageio-ffmpeg==0.6.0  # só para codificar o vídeo de divulgação (docs/motion)
 langgraph==1.2.15
 langchain-core==1.6.11
 langchain-groq==1.1.3
