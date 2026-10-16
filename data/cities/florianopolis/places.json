@@ -1,0 +1,11469 @@
+[
+ {
+  "id": "ChIJyyC-lSQ4J5URObP8qwGFiCQ",
+  "name": "Figueira Centenária",
+  "lat": -27.5977544,
+  "lng": -48.5500183,
+  "region": "Centro",
+  "primary_type": "tourist_attraction",
+  "rating": 4.7,
+  "n_reviews": 1291,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.8,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ428I3iQ4J5URj-6DSOT7D2g",
+  "name": "Praça XV de Novembro",
+  "lat": -27.5974667,
+  "lng": -48.549755999999995,
+  "region": "Centro",
+  "primary_type": "plaza",
+  "rating": 4.5,
+  "n_reviews": 12579,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.3,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJeYlVQyQ4J5URVxfI6zzue4g",
+  "name": "Largo da Alfândega",
+  "lat": -27.5976037,
+  "lng": -48.55196,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 771,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.2,
+   "culture": 0.8,
+   "nature": 0.3,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ3dmY5_Q3J5UR4EvvNz9ir_Y",
+  "name": "Praça da Comunidade e Mirante da Ponte Hercílio Luz",
+  "lat": -27.5935612,
+  "lng": -48.5616188,
+  "region": "Centro",
+  "primary_type": "scenic_spot",
+  "rating": 4.7,
+  "n_reviews": 2796,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.4,
+   "nature": 0.8,
+   "landmark": 0.8,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJr7EvSTA4J5URBFe9tFuM7As",
+  "name": "Museu Histórico de Santa Catarina - Palácio Cruz e Sousa",
+  "lat": -27.5967029,
+  "lng": -48.5500119,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 3718,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     990
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "5": [
+    [
+     600,
+     990
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ-2C8GiFIJ5URmaKMQ7Gmt0w",
+  "name": "Catedral Metropolitana de Florianópolis Nossa Senhora Do Desterro e Santa Catarina De Alexandria",
+  "lat": -27.596377,
+  "lng": -48.549287,
+  "region": "Centro",
+  "primary_type": "church",
+  "rating": 4.8,
+  "n_reviews": 2933,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     540,
+     660
+    ]
+   ]
+  },
+  "features": {
+   "category": "igreja_historico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJUSBSLCU4J5URcP4sz8K8cxI",
+  "name": "Museu Victor Meirelles",
+  "lat": -27.5979675,
+  "lng": -48.548929799999996,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.5,
+  "n_reviews": 204,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     600,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJNevjHno5J5URySX1moCN38o",
+  "name": "Da Praça",
+  "lat": -27.597424699999998,
+  "lng": -48.550371999999996,
+  "region": "Centro",
+  "primary_type": "coffee_shop",
+  "rating": 4.8,
+  "n_reviews": 2752,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     510,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     510,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     510,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     510,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     510,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     510,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJGxeoTTs4J5URUFeW38pmdck",
+  "name": "Casa da Memória",
+  "lat": -27.5963592,
+  "lng": -48.5488779,
+  "region": "Centro",
+  "primary_type": "history_museum",
+  "rating": 4.3,
+  "n_reviews": 43,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     780,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJKXdmrnc5J5UR9JDNC4aP1FE",
+  "name": "Café do Museu",
+  "lat": -27.597849999999998,
+  "lng": -48.54948400000001,
+  "region": "Centro",
+  "primary_type": "coffee_shop",
+  "rating": 4,
+  "n_reviews": 40,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     630,
+     900
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     630,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJT9vaPEY-J5URw8lOaG1oekM",
+  "name": "Canal da Barra",
+  "lat": -27.5738968,
+  "lng": -48.422337399999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "scenic_spot",
+  "rating": 4.8,
+  "n_reviews": 428,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJR4ZptEc-J5URdOOD3wCxZhw",
+  "name": "Prainha da Barra",
+  "lat": -27.574225499999997,
+  "lng": -48.421067099999995,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 9557,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.2,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJyaK1XzQ5J5URjNM3KzFbwjE",
+  "name": "Mirante do Morro da Lagoa da Conceição",
+  "lat": -27.6007367,
+  "lng": -48.4813383,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "scenic_spot",
+  "rating": 4.8,
+  "n_reviews": 18594,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "mirante",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ3zwW4tw-J5URaY-MotFFaiw",
+  "name": "Caminho da Costa da Lagoa ao Canto dos Araçás",
+  "lat": -27.585707499999998,
+  "lng": -48.4612633,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 3620,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.7,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJm1uYGIg_J5URcJKLhvcJ2s4",
+  "name": "Praia Barra da Lagoa",
+  "lat": -27.573907799999997,
+  "lng": -48.4239234,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 18047,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.9,
+   "gastronomy": 0.3,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJtyCt-l4_J5URuAOxqS8CgYY",
+  "name": "Cachoeira da Costa da Lagoa",
+  "lat": -27.543505999999997,
+  "lng": -48.4637987,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "tourist_attraction",
+  "rating": 4.7,
+  "n_reviews": 3910,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJAdPBuzo8J5URSPqfgWRnrII",
+  "name": "Dunas da Joaquina",
+  "lat": -27.6209666,
+  "lng": -48.453150699999995,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "park",
+  "rating": 4.8,
+  "n_reviews": 3999,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJh_dSpAcPJ5URmXJScKRzgqI",
+  "name": "Lagoa da Conceição",
+  "lat": -27.609142799999997,
+  "lng": -48.471343399999995,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "tourist_attraction",
+  "rating": 4.9,
+  "n_reviews": 170,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.3,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJlXla2Zc_J5UREVpUyRBJraI",
+  "name": "Praia da Barra da Lagoa",
+  "lat": -27.5734502,
+  "lng": -48.424938999999995,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "beach",
+  "rating": 4.8,
+  "n_reviews": 2194,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.4,
+   "culture": 0.6,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJM8IuKUY-J5URthqcCqsl9Yc",
+  "name": "Sambaqui da Prainha da Barra da Lagoa",
+  "lat": -27.573302899999998,
+  "lng": -48.421725099999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 61,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.9,
+   "landmark": 0.6,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJB543a1w9J5UR0jpTA4fWL98",
+  "name": "Praia do Capim Canudos",
+  "lat": -27.6215596,
+  "lng": -48.442377199999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "tourist_attraction",
+  "rating": 4.8,
+  "n_reviews": 50,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJtziawnw-J5URMppKkB3fJLI",
+  "name": "Trilha Praia do Gravatá",
+  "lat": -27.607526,
+  "lng": -48.4410569,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 7179,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 180,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ-T13xYI8J5URbmTNNotcMVM",
+  "name": "Trilha e Dunas do Campeche",
+  "lat": -27.6696369,
+  "lng": -48.4782679,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 117,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJbaYeWmg7J5URoztsg1NCVaY",
+  "name": "Pacuca - Parque Cultural do Campeche",
+  "lat": -27.6827725,
+  "lng": -48.4905373,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 257,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJw1frDQA7J5URiudZYbV2Ke0",
+  "name": "Praia do Campeche",
+  "lat": -27.7067975,
+  "lng": -48.4979464,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "tourist_attraction",
+  "rating": 4.8,
+  "n_reviews": 230,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJQSEXgtM9J5URB-2w3wV05hw",
+  "name": "Praia do Novo Campeche",
+  "lat": -27.666100099999998,
+  "lng": -48.4755307,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "tourist_attraction",
+  "rating": 4.8,
+  "n_reviews": 1846,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJTemQ_Kg7J5UR1u1Ew9nNpRM",
+  "name": "Campeche Brasa",
+  "lat": -27.6824645,
+  "lng": -48.4919346,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "restaurant",
+  "rating": 4.6,
+  "n_reviews": 120,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     960
+    ]
+   ],
+   "0": [
+    [
+     660,
+     960
+    ]
+   ],
+   "1": [
+    [
+     660,
+     960
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     660,
+     960
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     960
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     960
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     960
+    ],
+    [
+     1020,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJpZ1nLE0jJ5URNYDVxILxOMs",
+  "name": "Ilha do campeche",
+  "lat": -27.695365199999998,
+  "lng": -48.4660289,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "beach",
+  "rating": 4.7,
+  "n_reviews": 3548,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.9,
+   "landmark": 0.8,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJGf638kwjJ5URtkPOyVftgXQ",
+  "name": "Ilha do Campeche",
+  "lat": -27.696877500000003,
+  "lng": -48.4656081,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "island",
+  "rating": 4.7,
+  "n_reviews": 1544,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 240,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.6,
+   "nature": 0.9,
+   "landmark": 0.8,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ9ciufwk7J5URN79BVa-y54U",
+  "name": "Paradoxo de Fermi Bar",
+  "lat": -27.679554699999997,
+  "lng": -48.495906299999994,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "cocktail_bar",
+  "rating": 4.7,
+  "n_reviews": 358,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     690,
+     870
+    ],
+    [
+     1035,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     30
+    ],
+    [
+     690,
+     870
+    ],
+    [
+     1035,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     30
+    ],
+    [
+     690,
+     870
+    ],
+    [
+     1035,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     30
+    ],
+    [
+     690,
+     870
+    ],
+    [
+     1035,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     30
+    ],
+    [
+     690,
+     870
+    ],
+    [
+     1035,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     30
+    ],
+    [
+     690,
+     900
+    ],
+    [
+     1035,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJUaPxC8o7J5UR6tIwpWNSSbA",
+  "name": "Vizu Parrilla Bar",
+  "lat": -27.682686699999998,
+  "lng": -48.481861699999996,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "bar_and_grill",
+  "rating": 4.7,
+  "n_reviews": 2140,
+  "price_level": "PRICE_LEVEL_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     690,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     690,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.3,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJA9ZasVk7J5URM59o-uEPlqY",
+  "name": "Praia do Campeche",
+  "lat": -27.662215,
+  "lng": -48.473432599999995,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "beach",
+  "rating": 4.7,
+  "n_reviews": 9235,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.3,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJO1TmAt47J5URBkdQx_TLRm0",
+  "name": "KIKONI JAPAFOOD SUL DA ILHA",
+  "lat": -27.678148699999998,
+  "lng": -48.497802899999996,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "restaurant",
+  "rating": 4.6,
+  "n_reviews": 33,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     1080,
+     1350
+    ]
+   ],
+   "0": [
+    [
+     690,
+     840
+    ],
+    [
+     1080,
+     1350
+    ]
+   ],
+   "1": [
+    [
+     690,
+     840
+    ],
+    [
+     1080,
+     1350
+    ]
+   ],
+   "2": [
+    [
+     690,
+     840
+    ],
+    [
+     1080,
+     1350
+    ]
+   ],
+   "3": [
+    [
+     690,
+     840
+    ],
+    [
+     1080,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     690,
+     840
+    ],
+    [
+     1080,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     690,
+     840
+    ],
+    [
+     1080,
+     1350
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJm9d5uhI7J5URmxcUFAAhkHM",
+  "name": "Casa de Carnes Sul da Ilha | Açougue | Loja de Carnes | Produtos para Churrasco",
+  "lat": -27.683324499999998,
+  "lng": -48.490682,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "butcher_shop",
+  "rating": 4.7,
+  "n_reviews": 170,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     960
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ0Ymoi_okJ5URccKmUQYzuFE",
+  "name": "Sertão do Ribeirão",
+  "lat": -27.7490076,
+  "lng": -48.5484958,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "park",
+  "rating": 4.8,
+  "n_reviews": 353,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.2,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQyf2tA4wJ5URJmiuqEZMYRY",
+  "name": "Freguesia do Ribeirão",
+  "lat": -27.718262499999998,
+  "lng": -48.563621,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "scenic_spot",
+  "rating": 4.8,
+  "n_reviews": 1328,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.7,
+   "culture": 0.8,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJiZc2np46J5URSayqdznJ_gk",
+  "name": "Rancho Açoriano Ribeirão da Ilha",
+  "lat": -27.7043929,
+  "lng": -48.5562107,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "seafood_restaurant",
+  "rating": 4.8,
+  "n_reviews": 3981,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     960
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJp0zB1w4wJ5URHtGQ71WzQXo",
+  "name": "Ostradamus",
+  "lat": -27.7200219,
+  "lng": -48.5641994,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "restaurant",
+  "rating": 4.7,
+  "n_reviews": 10068,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJA_JBecYkJ5URvG3Vb87iKfI",
+  "name": "Mirante Morro das Pedras",
+  "lat": -27.720535,
+  "lng": -48.503310299999995,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "landmark",
+  "rating": 4.8,
+  "n_reviews": 4607,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "mirante",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJbSh0wBwkJ5URpJgx2hWgDnc",
+  "name": "Trilha Lagoinha do Leste",
+  "lat": -27.7788589,
+  "lng": -48.507219299999996,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 3011,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJEQixMA8wJ5URs3B8B6WB2hQ",
+  "name": "Praia do Ribeirão da Ilha",
+  "lat": -27.721340299999998,
+  "lng": -48.5648258,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "beach",
+  "rating": 4.8,
+  "n_reviews": 183,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.3,
+   "culture": 0.4,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJFbLlaMI_J5URAmqnpyp6-pU",
+  "name": "Mirante Ahau - Praia Mole",
+  "lat": -27.5973111,
+  "lng": -48.436646599999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "tourist_attraction",
+  "rating": 4.7,
+  "n_reviews": 13339,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "mirante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.8,
+   "gastronomy": 0.7,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.7,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJrchyzeIkJ5URmQsQML3zH4M",
+  "name": "Trilha Caminho da Gurita",
+  "lat": -27.7421829,
+  "lng": -48.5170208,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 663,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJyd0ugYtFJ5URkNp8JSINHjo",
+  "name": "Bosque Amoraeville",
+  "lat": -27.447045,
+  "lng": -48.499527,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "park",
+  "rating": 4.8,
+  "n_reviews": 375,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJTxP6WDpDJ5URkgeoVnd9EyI",
+  "name": "Eu Amo Canasvieiras",
+  "lat": -27.427397199999998,
+  "lng": -48.4584852,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "tourist_attraction",
+  "rating": 4.5,
+  "n_reviews": 99,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJxWgE0XRCJ5UR-l9Kn998qRQ",
+  "name": "Praia Ingleses Norte",
+  "lat": -27.4201393,
+  "lng": -48.4022979,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": null,
+  "rating": 4.7,
+  "n_reviews": 6436,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "praia",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.6,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJicdPKghDJ5URQu03csskCtM",
+  "name": "Parque das Famílias",
+  "lat": -27.423044599999997,
+  "lng": -48.4049279,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 89,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJi9rCj8FCJ5UReZ9KlsO0oe4",
+  "name": "Praia da Lagoinha do Norte",
+  "lat": -27.3891974,
+  "lng": -48.4218603,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 10050,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.8,
+   "gastronomy": 0.5,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJR3KUJ-hDJ5UR-QCIBAwxP3Q",
+  "name": "Praia de Canasvieiras",
+  "lat": -27.427230599999998,
+  "lng": -48.4585218,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "tourist_attraction",
+  "rating": 4.7,
+  "n_reviews": 3389,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJada49eJEJ5URIcF4fExxiy4",
+  "name": "Fortaleza de São José da Ponta Grossa",
+  "lat": -27.431650299999998,
+  "lng": -48.5177604,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": null,
+  "rating": 4.7,
+  "n_reviews": 13291,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     510,
+     1110
+    ]
+   ],
+   "1": [
+    [
+     510,
+     1110
+    ]
+   ],
+   "2": [
+    [
+     510,
+     1110
+    ]
+   ],
+   "3": [
+    [
+     510,
+     1110
+    ]
+   ],
+   "4": [
+    [
+     510,
+     1110
+    ]
+   ],
+   "5": [
+    [
+     510,
+     1110
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.8,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJmdMr33xDJ5URw1Clkg3RQMo",
+  "name": "Jardim dos Fuscas",
+  "lat": -27.425706299999998,
+  "lng": -48.4045254,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "cocktail_bar",
+  "rating": 4.9,
+  "n_reviews": 1997,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     1080,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.6,
+   "gastronomy": 0.7,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJZ9DHs1hGJ5URxaJsam4kAKI",
+  "name": "Praça Roldão da Rocha Pires",
+  "lat": -27.5074759,
+  "lng": -48.519545400000005,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 642,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.5,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJJxKMD19GJ5URBZ2Vw5lLaZ4",
+  "name": "Casa Açoriana Artes & Tramoias",
+  "lat": -27.507922399999998,
+  "lng": -48.518718799999995,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "art_gallery",
+  "rating": 4.6,
+  "n_reviews": 598,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJYZtoyv9GJ5URwB26sUDlMrw",
+  "name": "Casarão e Engenho dos Andrade",
+  "lat": -27.519660500000004,
+  "lng": -48.5163398,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 306,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     630,
+     1050
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJZXCgIfZGJ5UROgLNDggRCyc",
+  "name": "Igreja Nossa Senhora das Necessidades",
+  "lat": -27.5052941,
+  "lng": -48.518550600000005,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "church",
+  "rating": 4.8,
+  "n_reviews": 1031,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "igreja_historico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.9,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.8,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJs2EgLPhGJ5URjK7UFVpS0xE",
+  "name": "Praia de Santo Antônio de Lisboa",
+  "lat": -27.5077769,
+  "lng": -48.5198337,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": null,
+  "rating": 4.7,
+  "n_reviews": 2014,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJxyMtF2BHJ5UR-DzGAeAi4pA",
+  "name": "Museu o Mundo Ovo de Eli Heil",
+  "lat": -27.521399,
+  "lng": -48.5149816,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "museum",
+  "rating": 4.3,
+  "n_reviews": 42,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 30.0,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJs7X-M3tGJ5UR2NuEedKrgPc",
+  "name": "Praia do Sambaqui",
+  "lat": -27.4946638,
+  "lng": -48.5251458,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "beach",
+  "rating": 4.7,
+  "n_reviews": 538,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.7,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJi9v0-KJHJ5URMIVhcZNWbkE",
+  "name": "Praia de Cacupé",
+  "lat": -27.5414635,
+  "lng": -48.526269,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "scenic_spot",
+  "rating": 4.7,
+  "n_reviews": 539,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJg1SGaa9HJ5URjGtqHxvW9Mg",
+  "name": "Praia do Cacupé Pequeno",
+  "lat": -27.5310867,
+  "lng": -48.5246673,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "beach",
+  "rating": 4.7,
+  "n_reviews": 32,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ4RQRkQdFJ5URpb3tHJ9D7S4",
+  "name": "Praia da Daniela",
+  "lat": -27.445853399999997,
+  "lng": -48.527269499999996,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "tourist_attraction",
+  "rating": 4.7,
+  "n_reviews": 5853,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "praia",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJKQXXEyQ4J5URmhxOBg8l7QU",
+  "name": "Mercado Público de Florianópolis",
+  "lat": -27.5973775,
+  "lng": -48.5529167,
+  "region": "Centro",
+  "primary_type": "market",
+  "rating": 4.5,
+  "n_reviews": 97312,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.9,
+   "culture": 0.6,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJd18W5kBrJ5UR5oyHWEBjrPI",
+  "name": "Museu das Oficinas Líticas",
+  "lat": -27.4430038,
+  "lng": -48.3697464,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 37,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJX67ZZ15qJ5URp_R7p-yqHOw",
+  "name": "Museu Arqueológico Ao Ar Livre",
+  "lat": -27.466385,
+  "lng": -48.3768167,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 479,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJBd2PSRk4J5URHft5r5-TiLk",
+  "name": "Museu do Homem do Sambaqui",
+  "lat": -27.588913800000004,
+  "lng": -48.5538983,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.6,
+  "n_reviews": 236,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     960
+    ]
+   ],
+   "2": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     960
+    ]
+   ],
+   "3": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     960
+    ]
+   ],
+   "4": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ9YVBtbg-J5URXK-75hMbQ8Q",
+  "name": "Sambaqui da Ponta das Almas",
+  "lat": -27.5952701,
+  "lng": -48.4594512,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "park",
+  "rating": 4.8,
+  "n_reviews": 501,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ8SDI3JdrJ5URJvT-qUgGI5U",
+  "name": "Museu do Naufrágio. ONG PAS. Projeto de arqueologia subaquática",
+  "lat": -27.4438457,
+  "lng": -48.370419899999995,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "museum",
+  "rating": 4.9,
+  "n_reviews": 36,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     480,
+     720
+    ]
+   ],
+   "2": [
+    [
+     480,
+     720
+    ]
+   ],
+   "3": [
+    [
+     480,
+     720
+    ]
+   ],
+   "4": [
+    [
+     480,
+     720
+    ]
+   ],
+   "5": [
+    [
+     480,
+     720
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.2,
+   "landmark": 0.6,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJZTiQcHE4J5URaxHLVpWydm4",
+  "name": "MIS - Museu da Imagem e do Som de Santa Catarina",
+  "lat": -27.577425299999998,
+  "lng": -48.5261017,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.5,
+  "n_reviews": 117,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.5,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJyyC-lSQ4J5URLT9ba6HhAOQ",
+  "name": "Museu de Arte de Santa Catarina",
+  "lat": -27.5776295,
+  "lng": -48.5260693,
+  "region": "Centro",
+  "primary_type": "art_museum",
+  "rating": 4.7,
+  "n_reviews": 1298,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJMdLjwEU7J5URk7TxZwRo1h0",
+  "name": "Trilhas da Lagoa Pequena",
+  "lat": -27.660672599999998,
+  "lng": -48.4790345,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "hiking_area",
+  "rating": 4.7,
+  "n_reviews": 111,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 45,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ0xGubAA7J5URYKL69PpIhAU",
+  "name": "Passarela Campeche Leste",
+  "lat": -27.672527799999997,
+  "lng": -48.4809196,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 84,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ-YnZ-Hs8J5UR8EIfwkO391I",
+  "name": "Parque das Dunas e Trilha para a Praia",
+  "lat": -27.6548667,
+  "lng": -48.4724304,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 248,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJx9elFAA9J5URj5hMJDtPH2U",
+  "name": "Passarela Novo Campeche - Acesso praia",
+  "lat": -27.6656752,
+  "lng": -48.4766173,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "hiking_area",
+  "rating": 5,
+  "n_reviews": 43,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJQ7kArnY7J5URpOcVHr6b5Z4",
+  "name": "Morro do Lampião",
+  "lat": -27.670985899999998,
+  "lng": -48.493091799999995,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "nature_preserve",
+  "rating": 4.9,
+  "n_reviews": 1220,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJD0H-eEU5J5URB9IgjuiIPSc",
+  "name": "Cachoeira do Poção",
+  "lat": -27.615246,
+  "lng": -48.505148999999996,
+  "region": "Centro",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 346,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJOQEzytQjJ5URde7LjkRW4Og",
+  "name": "Sítio arqueológico da Ilha do Campeche",
+  "lat": -27.695285799999997,
+  "lng": -48.46606,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 48,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 30.0,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJBc1hESkjJ5URoUvRVexaw94",
+  "name": "Ilha do Campeche",
+  "lat": -27.695964099999998,
+  "lng": -48.464626499999994,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "nature_preserve",
+  "rating": 4.8,
+  "n_reviews": 166,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJM7eEsBE7J5UR4hdFP4U4nSs",
+  "name": "Praça do Campeche",
+  "lat": -27.7020421,
+  "lng": -48.496682199999995,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 143,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJDTWTgu0lJ5URfhJ6LnvqMqg",
+  "name": "Trilha ao Morro da Coroa / Mirante",
+  "lat": -27.778343099999997,
+  "lng": -48.488244300000005,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 152,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.7,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJX51aIv9HJ5URXPi9C-96jPQ",
+  "name": "Donna Padoca",
+  "lat": -27.503023900000002,
+  "lng": -48.515820299999994,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 322,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     390,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     390,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     390,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     390,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     390,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJnViL2UZHJ5URf6sLJjZfDpo",
+  "name": "Santo Appetito Bistrô & Café",
+  "lat": -27.507922399999998,
+  "lng": -48.518718799999995,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "bistro",
+  "rating": 4.8,
+  "n_reviews": 864,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     600,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.2,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJv-f1uPBGJ5URiV4CTr8x4-U",
+  "name": "Café François Corporate Park/SC-401",
+  "lat": -27.50849,
+  "lng": -48.512876000000006,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "bakery",
+  "rating": 4.6,
+  "n_reviews": 2821,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJa0TNGA04J5URaNJL4Mc6rME",
+  "name": "Família Lorenzi Pães Artesanais",
+  "lat": -27.5754538,
+  "lng": -48.540208799999995,
+  "region": "Centro",
+  "primary_type": "bakery",
+  "rating": 4.7,
+  "n_reviews": 1514,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJAwyoOeg5J5UR1u_BELY4gWE",
+  "name": "Kompaan Padaria Artesanal",
+  "lat": -27.6005239,
+  "lng": -48.500409499999996,
+  "region": "Centro",
+  "primary_type": "bakery",
+  "rating": 4.9,
+  "n_reviews": 359,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     840
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJO8jxMWZHJ5UR-QRIiLi0Fv4",
+  "name": "O Padeiro De Sevilha",
+  "lat": -27.539634200000002,
+  "lng": -48.505893,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "bakery",
+  "rating": 4.4,
+  "n_reviews": 4127,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     510,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "5": [
+    [
+     450,
+     1170
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ4YPHd0w5J5UR7ILsUHSKDPE",
+  "name": "Casa Storino Padaria Artesanal",
+  "lat": -27.585105499999997,
+  "lng": -48.4974547,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "bakery",
+  "rating": 4.8,
+  "n_reviews": 98,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "1": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     540,
+     720
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJHcpZhwY5J5URwvNyIN8xDTQ",
+  "name": "Galeria Lama",
+  "lat": -27.599858899999997,
+  "lng": -48.5490532,
+  "region": "Centro",
+  "primary_type": "cocktail_bar",
+  "rating": 4.7,
+  "n_reviews": 269,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "1": [
+    [
+     1080,
+     1410
+    ]
+   ],
+   "2": [
+    [
+     1080,
+     1410
+    ]
+   ],
+   "3": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     30
+    ],
+    [
+     1080,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     60
+    ],
+    [
+     1080,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     60
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.7,
+   "culture": 0.6,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJmwwYRz04J5URV_ghWn2JCwU",
+  "name": "Helena Fretta Galeria De Arte",
+  "lat": -27.5911135,
+  "lng": -48.5477827,
+  "region": "Centro",
+  "primary_type": "art_gallery",
+  "rating": 4.8,
+  "n_reviews": 100,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "5": [
+    [
+     540,
+     780
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJBzUUDLo-J5URy-23QmMnCz0",
+  "name": "Galeria de Arte Luciano Martins",
+  "lat": -27.591025899999998,
+  "lng": -48.5145324,
+  "region": "Centro",
+  "primary_type": "art_gallery",
+  "rating": 5,
+  "n_reviews": 96,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     840,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQ5IeqT9FJ5URI6zP4-6-T5w",
+  "name": "Galeria Venere",
+  "lat": -27.440317099999998,
+  "lng": -48.491398499999995,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "art_gallery",
+  "rating": 4.9,
+  "n_reviews": 25,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     840,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     840,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     840,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     840,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     840,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.3,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJN4d8QiQ4J5URPTwjpHHHaew",
+  "name": "Casa da Alfândega- Galeria do Artesanato Catarinense",
+  "lat": -27.5975865,
+  "lng": -48.5520558,
+  "region": "Centro",
+  "primary_type": null,
+  "rating": 4.3,
+  "n_reviews": 368,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     1075
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1075
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1075
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1075
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1075
+    ]
+   ],
+   "5": [
+    [
+     540,
+     780
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJC-BrWzs4J5UR8SZZPaVbcYg",
+  "name": "Fundação Cultural Badesc",
+  "lat": -27.5952462,
+  "lng": -48.5477321,
+  "region": "Centro",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 374,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ500FAhg_J5URyDlfj-RMgP0",
+  "name": "Restaurante Assador Brasa & Lenha",
+  "lat": -27.5752903,
+  "lng": -48.4248191,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.5,
+  "n_reviews": 319,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1410
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1410
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1410
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1410
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1410
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1410
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1410
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.6,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ9YFDdGI_J5UR9AUr7ezgTls",
+  "name": "Recanto da Lagoa Gastro Bar",
+  "lat": -27.609562099999998,
+  "lng": -48.4445191,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.7,
+  "n_reviews": 238,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.3,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJjfSht64_J5URw5cUuRoTpg0",
+  "name": "Zilá restaurante & eventos",
+  "lat": -27.6097139,
+  "lng": -48.4477044,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.8,
+  "n_reviews": 406,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     690,
+     1110
+    ]
+   ],
+   "0": [
+    [
+     690,
+     1110
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1290
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1290
+    ]
+   ],
+   "5": [
+    [
+     690,
+     1290
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.3,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJo3bzcXg9J5URvPDGFoWoAqY",
+  "name": "Restaurante Parador 714 - Lagoa",
+  "lat": -27.609629199999997,
+  "lng": -48.4455728,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.7,
+  "n_reviews": 220,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJy4-dFAA_J5URwCowXin4PnE",
+  "name": "Tempero da Lagoa",
+  "lat": -27.603669099999998,
+  "lng": -48.4646322,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.4,
+  "n_reviews": 41,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     690,
+     900
+    ]
+   ],
+   "1": [
+    [
+     690,
+     900
+    ]
+   ],
+   "2": [
+    [
+     690,
+     900
+    ]
+   ],
+   "3": [
+    [
+     690,
+     900
+    ]
+   ],
+   "4": [
+    [
+     690,
+     900
+    ]
+   ],
+   "5": [
+    [
+     690,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJI9U4TLo-J5URSCI2v2mbB8M",
+  "name": "Restaurante Querubim",
+  "lat": -27.605362699999997,
+  "lng": -48.4666083,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.4,
+  "n_reviews": 1559,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     0,
+     60
+    ],
+    [
+     675,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     675,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     675,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     675,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     675,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     675,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     60
+    ],
+    [
+     675,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJS2U83j0_J5URqlXkH2JCx_0",
+  "name": "Sabores da Lagoa",
+  "lat": -27.60954,
+  "lng": -48.4459953,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.7,
+  "n_reviews": 1373,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     600,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJefylzjQ_J5UReEWbeKbT7ek",
+  "name": "Galeteria Nonna Benedetta",
+  "lat": -27.6044955,
+  "lng": -48.463639799999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "italian_restaurant",
+  "rating": 4.8,
+  "n_reviews": 156,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     705,
+     960
+    ]
+   ],
+   "3": [
+    [
+     1140,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     1140,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     705,
+     900
+    ],
+    [
+     1140,
+     1350
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ2fsZ-YE-J5URwSNQd1RfRu4",
+  "name": "A Baleeira Restaurante na Lagoa da Conceição",
+  "lat": -27.6095917,
+  "lng": -48.4433815,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.5,
+  "n_reviews": 984,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJqYL51lU_J5URot6tmw9uvyM",
+  "name": "Bistrô Sete Ais",
+  "lat": -27.604141,
+  "lng": -48.4659766,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "bistro",
+  "rating": 4.8,
+  "n_reviews": 80,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "0": [
+    [
+     1140,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     1140,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     1140,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     1140,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     1140,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     1140,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJMx-yO3M_J5UR9Ywxba2qXMA",
+  "name": "Restaurante Sabor de Casa-Sob nova direção",
+  "lat": -27.5860648,
+  "lng": -48.433461400000006,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.9,
+  "n_reviews": 76,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     960
+    ]
+   ],
+   "0": [
+    [
+     660,
+     960
+    ]
+   ],
+   "1": [
+    [
+     660,
+     960
+    ]
+   ],
+   "2": [
+    [
+     660,
+     960
+    ]
+   ],
+   "4": [
+    [
+     660,
+     960
+    ]
+   ],
+   "5": [
+    [
+     660,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJpQr-POs_J5UR7959b2uNx5c",
+  "name": "Cofferi Café e Restaurante",
+  "lat": -27.6092385,
+  "lng": -48.4497614,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 5,
+  "n_reviews": 28,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     420,
+     1410
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1410
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1410
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1410
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1410
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1410
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1410
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.2,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJb3HdgLs-J5URzM_XXmGtRBI",
+  "name": "Restaurante Oliveira",
+  "lat": -27.604637999999998,
+  "lng": -48.46435100000001,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "seafood_restaurant",
+  "rating": 4.1,
+  "n_reviews": 1190,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.3,
+   "landmark": 0.4,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJxdvb7oI-J5URmkUIQDLCrAo",
+  "name": "Boka's Lagoa Restaurante",
+  "lat": -27.609581300000002,
+  "lng": -48.4471348,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 4.6,
+  "n_reviews": 12974,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.5,
+   "landmark": 0.4,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJG-ckymA-J5URvXXvGj7NDdk",
+  "name": "Restaurante Rancho de Canoa",
+  "lat": -27.588533599999998,
+  "lng": -48.434033299999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "seafood_restaurant",
+  "rating": 4.9,
+  "n_reviews": 10983,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.9,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJte9LLWc5J5URdGY7tfsb44U",
+  "name": "Green Lagoon Restaurante",
+  "lat": -27.6057061,
+  "lng": -48.4816285,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "thai_restaurant",
+  "rating": 4.8,
+  "n_reviews": 295,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "1": [
+    [
+     1170,
+     1350
+    ]
+   ],
+   "2": [
+    [
+     1170,
+     1350
+    ]
+   ],
+   "3": [
+    [
+     1170,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     1170,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     1170,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ__d004U_J5URAcQeIBW6SWA",
+  "name": "Quintal do Zélão - Restaurante e Marmitaria",
+  "lat": -27.575367399999998,
+  "lng": -48.4281994,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "restaurant",
+  "rating": 5,
+  "n_reviews": 27,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     60
+    ],
+    [
+     630,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJSd4vEw88J5URmCV383J2J8g",
+  "name": "Cordeiro",
+  "lat": -27.6313547,
+  "lng": -48.472091999999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "buffet_restaurant",
+  "rating": 4.7,
+  "n_reviews": 966,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     675,
+     900
+    ]
+   ],
+   "1": [
+    [
+     675,
+     900
+    ]
+   ],
+   "2": [
+    [
+     675,
+     900
+    ]
+   ],
+   "3": [
+    [
+     675,
+     900
+    ]
+   ],
+   "4": [
+    [
+     675,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJS8SIDns_J5URAbZeiYzBlEE",
+  "name": "O Araçá Botequim",
+  "lat": -27.6001059,
+  "lng": -48.470595599999996,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "cocktail_bar",
+  "rating": 4.6,
+  "n_reviews": 680,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     720,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     660,
+     900
+    ],
+    [
+     1080,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     660,
+     900
+    ],
+    [
+     1080,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     660,
+     900
+    ],
+    [
+     1080,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.7,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJAciTVLc-J5URjyc-E9pCfEQ",
+  "name": "Restaurante Lagoa da Conceição Colibri Garden",
+  "lat": -27.603741,
+  "lng": -48.4693872,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "meal_delivery",
+  "rating": 4.4,
+  "n_reviews": 557,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     660,
+     840
+    ]
+   ],
+   "1": [
+    [
+     660,
+     840
+    ]
+   ],
+   "2": [
+    [
+     660,
+     840
+    ]
+   ],
+   "3": [
+    [
+     660,
+     840
+    ]
+   ],
+   "4": [
+    [
+     660,
+     840
+    ]
+   ],
+   "5": [
+    [
+     660,
+     840
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ1_zYBl9EJ5URPJtD0CStecg",
+  "name": "Jurerê OPEN",
+  "lat": -27.4401929,
+  "lng": -48.5014946,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "business_center",
+  "rating": 4.6,
+  "n_reviews": 19293,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     720,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "mixed",
+   "authenticity": 0.2,
+   "touristy": 0.8,
+   "gastronomy": 0.7,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJqz7mcHE4J5UR3l16xaYzdKM",
+  "name": "Centro Integrado de Cultura (CIC)",
+  "lat": -27.5774576,
+  "lng": -48.526231599999996,
+  "region": "Centro",
+  "primary_type": "cultural_center",
+  "rating": 4.8,
+  "n_reviews": 837,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.1,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJo5ArTPpFJ5URAT-AW-UPIXA",
+  "name": "Café Cultura",
+  "lat": -27.439559499999998,
+  "lng": -48.500853500000005,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "coffee_shop",
+  "rating": 4.6,
+  "n_reviews": 2617,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 45,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJbwpEiC84J5URySaewzQtcDU",
+  "name": "Parque Metropolitano Francisco Dias Velho",
+  "lat": -27.5998548,
+  "lng": -48.5513561,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.2,
+  "n_reviews": 198,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJrbppFCw5J5UR2gdguGyhEOI",
+  "name": "Bico da Ponte",
+  "lat": -27.6152497,
+  "lng": -48.5444165,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.9,
+  "n_reviews": 20,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ0fFoPTs5J5URUnDsIZOKl9A",
+  "name": "Parque Natural Municipal do Morro da Cruz",
+  "lat": -27.5876113,
+  "lng": -48.536528499999996,
+  "region": "Centro",
+  "primary_type": "city_park",
+  "rating": 4.5,
+  "n_reviews": 238,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJH1rBKZE3J5URDhZ6RV68jgA",
+  "name": "Parque Ponta da Ilhota.",
+  "lat": -27.6060011,
+  "lng": -48.5744598,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 882,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQxZNl9s3J5URXGLMxB7UPoI",
+  "name": "Bosque Pedro Medeiros - Horto Florestal",
+  "lat": -27.5904632,
+  "lng": -48.584773399999996,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 403,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJRXRS_jw8J5URjDJfoEIDw6c",
+  "name": "Parque Natural Municipal das Dunas da Lagoa da Conceição",
+  "lat": -27.6263644,
+  "lng": -48.4561223,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "nature_preserve",
+  "rating": 4.9,
+  "n_reviews": 36,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJYcE0pUw5J5URm14mcUykz34",
+  "name": "Passarela de observação do manguezal",
+  "lat": -27.577321899999998,
+  "lng": -48.518997899999995,
+  "region": "Centro",
+  "primary_type": "nature_preserve",
+  "rating": 4.2,
+  "n_reviews": 134,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJmw5taQBFJ5URIG1mlNw2ZC4",
+  "name": "Parque Péricles de Freitas Druck",
+  "lat": -27.446128299999998,
+  "lng": -48.5049595,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "park",
+  "rating": 4.9,
+  "n_reviews": 46,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJe83cDfU3J5URabFSAvyAxBg",
+  "name": "Parque da Luz",
+  "lat": -27.5924206,
+  "lng": -48.5606079,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 10756,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJr-hqddc3J5UR_lbYZEjUIAw",
+  "name": "Praça do Canto",
+  "lat": -27.5880314,
+  "lng": -48.5901815,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 307,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJZ9YGyZCJoEgRC_cW2znBeXo",
+  "name": "Família na Trilha",
+  "lat": -27.594289,
+  "lng": -48.54568,
+  "region": "Centro",
+  "primary_type": null,
+  "rating": 5,
+  "n_reviews": 244,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     480,
+     720
+    ],
+    [
+     780,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     720
+    ],
+    [
+     780,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     720
+    ],
+    [
+     780,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     720
+    ],
+    [
+     780,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     720
+    ],
+    [
+     780,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJBXHKsv43J5URcbA6L2T3ZPc",
+  "name": "Parque dos cachorros",
+  "lat": -27.606343199999998,
+  "lng": -48.573303599999996,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.9,
+  "n_reviews": 164,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJe4rhlgI5J5URNdUX4yZu_IA",
+  "name": "Parque Municipal do Córrego Grande",
+  "lat": -27.5998141,
+  "lng": -48.5113754,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 8307,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     390,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     390,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     390,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     390,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     390,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     390,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJyXoo_8k7J5UR5Bkq7JnTT70",
+  "name": "Praça Manequinha",
+  "lat": -27.6641114,
+  "lng": -48.5379655,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "garden",
+  "rating": 4.8,
+  "n_reviews": 907,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.7,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJFW2UVqo5J5URXnPYEq9Zsyk",
+  "name": "Lago da UFSC",
+  "lat": -27.602169399999998,
+  "lng": -48.5209238,
+  "region": "Centro",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 232,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQWkG7JQ3J5URlrldBYIb-_A",
+  "name": "Parque de Coqueiros",
+  "lat": -27.601579899999997,
+  "lng": -48.5745417,
+  "region": "Centro",
+  "primary_type": "city_park",
+  "rating": 4.7,
+  "n_reviews": 18075,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.4,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJwYRTiu04J5URZ3UnQ3DLMqI",
+  "name": "Jardim Botânico de Florianópolis",
+  "lat": -27.579888999999998,
+  "lng": -48.5079827,
+  "region": "Centro",
+  "primary_type": "botanical_garden",
+  "rating": 4.5,
+  "n_reviews": 5744,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 40,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQxsLgyYpJ5URvhm_Q5p7xJ8",
+  "name": "Trilha Caminho dos Naufragados",
+  "lat": -27.8167156,
+  "lng": -48.5609932,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 539,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJSQPk-0trJ5URUxI_2lbv9dA",
+  "name": "Trilha ecológica da RPPN Morro das Aranhas",
+  "lat": -27.4824816,
+  "lng": -48.384229999999995,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 172,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ-ftwy74_J5URhZ6_61qOIvQ",
+  "name": "Trilha do Dólmen da Oração - IMMA",
+  "lat": -27.588581299999998,
+  "lng": -48.4341076,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 380,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 20.0,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJsbknXF5qJ5UR5Dnb6MdY75c",
+  "name": "Trilha do Morro das Aranhas",
+  "lat": -27.4683724,
+  "lng": -48.376064,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 2423,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.7,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJaf_MlpAoJ5URbCYMSceZOKs",
+  "name": "Farol de Naufragados",
+  "lat": -27.8356577,
+  "lng": -48.5698113,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "tourist_attraction",
+  "rating": 4.6,
+  "n_reviews": 363,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.8,
+   "landmark": 0.8,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJOUTReCdrJ5URTCJDkRCkYaw",
+  "name": "Trilha Costa do Moçambique / Santinho",
+  "lat": -27.481482399999997,
+  "lng": -48.3832087,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "hiking_area",
+  "rating": 4.7,
+  "n_reviews": 60,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 50,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJbWRXt0E-J5URWKg5TMXW4Gw",
+  "name": "Trilha da Boa Vista e Galheta",
+  "lat": -27.581258599999998,
+  "lng": -48.4218919,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 662,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJRcz_gfZqJ5URRe8b9azqUKs",
+  "name": "Trilha do Santinho",
+  "lat": -27.471645499999997,
+  "lng": -48.3743349,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 283,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJSbuCCWkkJ5URixoTTpM1dkg",
+  "name": "Trilha Praia do Matadeiro - Lagoinha do Leste",
+  "lat": -27.7576643,
+  "lng": -48.4960673,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 967,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJVaCsFpslJ5URW9-WZag1rTw",
+  "name": "Cachoeira da Solidão",
+  "lat": -27.7941444,
+  "lng": -48.5378977,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "tourist_attraction",
+  "rating": 4.7,
+  "n_reviews": 297,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJc10vgZVBJ5UR9nWO9U1YarU",
+  "name": "Trilha Costa da Lagoa via Ratones",
+  "lat": -27.521393300000003,
+  "lng": -48.456141599999995,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 83,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJNTuro4pqJ5UR0RdXdhX5K8c",
+  "name": "Mirante do Santinho",
+  "lat": -27.471493,
+  "lng": -48.379948,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "hiking_area",
+  "rating": 4.8,
+  "n_reviews": 124,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJLbJ14XVAJ5URHAvbZSaDZuo",
+  "name": "Parque Estadual do Rio Vermelho",
+  "lat": -27.5330774,
+  "lng": -48.4309661,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 3118,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 15.0,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJSfNZThI5J5URnwJCPlNdphw",
+  "name": "Trilha do Poção Córrego Grande",
+  "lat": -27.610404000000003,
+  "lng": -48.5066457,
+  "region": "Centro",
+  "primary_type": "hiking_area",
+  "rating": 4.7,
+  "n_reviews": 2021,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ5zZH_UM4J5URxHtESIdQaJA",
+  "name": "Mirante do Morro da Cruz",
+  "lat": -27.5884197,
+  "lng": -48.5337621,
+  "region": "Centro",
+  "primary_type": "scenic_spot",
+  "rating": 4.7,
+  "n_reviews": 6931,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "mirante",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ5wRJlHA_J5URw4zuvdDxoXg",
+  "name": "Trilha costa da lagoa",
+  "lat": -27.5691618,
+  "lng": -48.4605525,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "hiking_area",
+  "rating": 4.9,
+  "n_reviews": 150,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.3,
+   "culture": 0.7,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJh6PnJnNqJ5UROGDFC22VSpQ",
+  "name": "Dunas Ingleses/Moçambique",
+  "lat": -27.4567978,
+  "lng": -48.391520199999995,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "nature_preserve",
+  "rating": 4.8,
+  "n_reviews": 563,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJcWg8L04-J5URryKVhcNXXdQ",
+  "name": "Fundação Projeto Tamar - Florianópolis",
+  "lat": -27.5721551,
+  "lng": -48.4277699,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "non_profit_organization",
+  "rating": 4.7,
+  "n_reviews": 22358,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     570,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 44.0,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJtfqPeCMlJ5UR0R3s_usIWOg",
+  "name": "Lagoa do Peri",
+  "lat": -27.7263108,
+  "lng": -48.507363899999994,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "tourist_attraction",
+  "rating": 4.8,
+  "n_reviews": 8896,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJkUEL_ec3J5URB_bN4Lvq0Bo",
+  "name": "Ateliê Cuca",
+  "lat": -27.6060208,
+  "lng": -48.577143799999995,
+  "region": "Centro",
+  "primary_type": "art_studio",
+  "rating": 5,
+  "n_reviews": 21,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJkbixAfVGJ5UR7lsS5Y8x1bI",
+  "name": "ARTEEIRO arte e artesanato",
+  "lat": -27.507550400000003,
+  "lng": -48.5194067,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": null,
+  "rating": 2.2,
+  "n_reviews": 55,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     780,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.2,
+   "touristy": 0.1,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "baixa"
+  }
+ },
+ {
+  "id": "ChIJCZrgCqw3J5URRAi3MOVzS2M",
+  "name": "Instituto Collaço Paulo",
+  "lat": -27.614465799999998,
+  "lng": -48.586852,
+  "region": "Centro",
+  "primary_type": "art_museum",
+  "rating": 5,
+  "n_reviews": 89,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     780,
+     1110
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1110
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1110
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1110
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1110
+    ]
+   ],
+   "5": [
+    [
+     780,
+     1110
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJyWm2KfZGJ5URWIZyQ2nNEc0",
+  "name": "Casa Armação",
+  "lat": -27.5971358,
+  "lng": -48.54874660000001,
+  "region": "Centro",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.8,
+  "n_reviews": 36,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJm-2fGjs4J5URz41v937sRhI",
+  "name": "Teatro da UBRO",
+  "lat": -27.595936,
+  "lng": -48.5469881,
+  "region": "Centro",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.5,
+  "n_reviews": 415,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJPV5P-1Q4J5URqvIUUnAz2Lw",
+  "name": "Teatro Carmen Fossari (UFSC)",
+  "lat": -27.5978337,
+  "lng": -48.5215902,
+  "region": "Centro",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.6,
+  "n_reviews": 46,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1170
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1170
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJoaQZTDs4J5URkMW6wLspzQA",
+  "name": "Teatro Álvaro de Carvalho",
+  "lat": -27.595752299999997,
+  "lng": -48.5483623,
+  "region": "Centro",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.6,
+  "n_reviews": 1944,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     780,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ-8dAeac5J5UR2NeGnjAUErU",
+  "name": "OPIUM",
+  "lat": -27.5965071,
+  "lng": -48.5456318,
+  "region": "Centro",
+  "primary_type": "bar",
+  "rating": 4.7,
+  "n_reviews": 297,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "1": [
+    [
+     1200,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     120
+    ],
+    [
+     1200,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     120
+    ],
+    [
+     1200,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     120
+    ],
+    [
+     1320,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     240
+    ],
+    [
+     1320,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     240
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJxfac42Y4J5URQEALxuS2tgw",
+  "name": "Teatro Ademir Rosa",
+  "lat": -27.5776937,
+  "lng": -48.526382999999996,
+  "region": "Centro",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.8,
+  "n_reviews": 4989,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     840,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     840,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     840,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     840,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     840,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.2,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJqVeWTp44J5URF_7C4V3irgo",
+  "name": "Teatro Governador Pedro Ivo",
+  "lat": -27.5412622,
+  "lng": -48.5042507,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.6,
+  "n_reviews": 3970,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     780,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     780,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     780,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ2UJggLs-J5URLuD8inc2vxM",
+  "name": "Centro Cultural Bento Silvério",
+  "lat": -27.6042857,
+  "lng": -48.4645003,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "cultural_center",
+  "rating": 4.4,
+  "n_reviews": 61,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJA-bY8kc4J5UR4EPy8t5fnVg",
+  "name": "Centro Cultural Escrava Anastácia da Cap Nossa Senhora do Mont Serrat",
+  "lat": -27.5948204,
+  "lng": -48.5380883,
+  "region": "Centro",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 47,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJZyjrhyZIJ5URLD-gPa0KTGU",
+  "name": "Centro Cultural Anastácia",
+  "lat": -27.580171099999998,
+  "lng": -48.5861783,
+  "region": "Centro",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 332,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     480,
+     720
+    ],
+    [
+     810,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     720
+    ],
+    [
+     810,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     720
+    ],
+    [
+     810,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     720
+    ],
+    [
+     810,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     720
+    ],
+    [
+     810,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJx5feQqo5J5UR9iJtCaz4sCI",
+  "name": "Centro de Cultura e Eventos da UFSC",
+  "lat": -27.602212299999998,
+  "lng": -48.5201627,
+  "region": "Centro",
+  "primary_type": "event_venue",
+  "rating": 4.6,
+  "n_reviews": 3138,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJw3xxuf04J5URR0v_K7YKtYU",
+  "name": "Camerata Florianópolis",
+  "lat": -27.5944625,
+  "lng": -48.5120916,
+  "region": "Centro",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 58,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJz0YVHro-J5URhvfP4BiOdug",
+  "name": "Café Cultura",
+  "lat": -27.6042958,
+  "lng": -48.4674123,
+  "region": "Lagoa da Conceição e Barra da Lagoa",
+  "primary_type": "coffee_shop",
+  "rating": 4.6,
+  "n_reviews": 10505,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.7,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJV_nEeiE5J5URCl5585zOk88",
+  "name": "Sesc Museu de Florianópolis",
+  "lat": -27.5980687,
+  "lng": -48.5496644,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.8,
+  "n_reviews": 1134,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     960
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     600,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJZ0Q5ISU4J5URIWx0IhG2c5I",
+  "name": "Casa de Câmara e Cadeia",
+  "lat": -27.5980352,
+  "lng": -48.5497333,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.9,
+  "n_reviews": 20,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 10.0,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJfznlzTo4J5URvFLAXg6HBcw",
+  "name": "MESC - Museu da Escola Catarinense",
+  "lat": -27.598110799999997,
+  "lng": -48.5484131,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 665,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJyyC-lSQ4J5UR-fDmvzdB_jo",
+  "name": "Museu Tycho Brahe Fernandes Neto - Judiciário Catarinense",
+  "lat": -27.602484099999998,
+  "lng": -48.5479164,
+  "region": "Centro",
+  "primary_type": "history_museum",
+  "rating": 4.8,
+  "n_reviews": 44,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJh_Wx_i84J5URprFTgxGOeqQ",
+  "name": "Centro Cultural da Marinha em Santa Catarina (Temporariamente fechado para visitação em razão das obras de manutenção)",
+  "lat": -27.600306999999997,
+  "lng": -48.548995999999995,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 523,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     600,
+     990
+    ]
+   ],
+   "2": [
+    [
+     600,
+     990
+    ]
+   ],
+   "3": [
+    [
+     600,
+     990
+    ]
+   ],
+   "4": [
+    [
+     600,
+     990
+    ]
+   ],
+   "5": [
+    [
+     600,
+     990
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJeWHJUDw4J5URfqWt4fYy9YI",
+  "name": "IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional",
+  "lat": -27.5976207,
+  "lng": -48.5518663,
+  "region": "Centro",
+  "primary_type": "government_office",
+  "rating": 4.3,
+  "n_reviews": 60,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     780
+    ],
+    [
+     840,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     540,
+     780
+    ],
+    [
+     840,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     540,
+     780
+    ],
+    [
+     840,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     540,
+     780
+    ],
+    [
+     840,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     540,
+     780
+    ],
+    [
+     840,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.1,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ4QYBZU45J5URx3nm2K54hc0",
+  "name": "Memorial Miramar",
+  "lat": -27.598543,
+  "lng": -48.550773,
+  "region": "Centro",
+  "primary_type": "historical_landmark",
+  "rating": 4.1,
+  "n_reviews": 26,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.2,
+   "gastronomy": 0.1,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.8,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJByr1f_Q3J5URfpeDDgyHZI4",
+  "name": "Forte Santana do Estreito",
+  "lat": -27.5931978,
+  "lng": -48.5636535,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 258,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.9,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJERG7nKw5J5URxiDx1L4KWGs",
+  "name": "Museu UFSC",
+  "lat": -27.6023781,
+  "lng": -48.5239659,
+  "region": "Centro",
+  "primary_type": "museum",
+  "rating": 4.6,
+  "n_reviews": 136,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQ4K2CnVGJ5UR9E0nWDePUb8",
+  "name": "Rancho do Bastião",
+  "lat": -27.502526300000003,
+  "lng": -48.5132919,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "bar",
+  "rating": 4.7,
+  "n_reviews": 366,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     0,
+     180
+    ],
+    [
+     1170,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     1200,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     60
+    ],
+    [
+     1260,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": 30.0,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.7,
+   "culture": 0.5,
+   "nature": 0.3,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJVT6zWNZFJ5URg5XmvgDbuic",
+  "name": "Restaurante Restinga Recanto",
+  "lat": -27.4905206,
+  "lng": -48.536373399999995,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "seafood_restaurant",
+  "rating": 4.6,
+  "n_reviews": 2319,
+  "price_level": "PRICE_LEVEL_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.7,
+   "nature": 0.3,
+   "landmark": 0.4,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ53UNJV9GJ5URB5fTCan8lp0",
+  "name": "Amalfi Restaurante",
+  "lat": -27.506979599999998,
+  "lng": -48.5207195,
+  "region": "Santo Antônio de Lisboa e Noroeste",
+  "primary_type": "seafood_restaurant",
+  "rating": 4.5,
+  "n_reviews": 2596,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "0": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "2": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     690,
+     1350
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.6,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJNdehN643J5UR9DCM5geNDH8",
+  "name": "Seo Brazil",
+  "lat": -27.616564999999998,
+  "lng": -48.591837999999996,
+  "region": "Centro",
+  "primary_type": "bar",
+  "rating": 4.6,
+  "n_reviews": 777,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     0,
+     90
+    ],
+    [
+     690,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     1080,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     1140,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     90
+    ],
+    [
+     690,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.6,
+   "nature": 0.7,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJWVZuJyc4J5URSPKhNrgT6a0",
+  "name": "CentroSul",
+  "lat": -27.6019878,
+  "lng": -48.552082899999995,
+  "region": "Centro",
+  "primary_type": "convention_center",
+  "rating": 4.5,
+  "n_reviews": 6840,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.2,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJef6-xSQ4J5URu-m-iZTf7Gw",
+  "name": "Scuna Bar",
+  "lat": -27.5935554,
+  "lng": -48.562686899999996,
+  "region": "Centro",
+  "primary_type": "bar",
+  "rating": 4.5,
+  "n_reviews": 975,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "4": [
+    [
+     1200,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     180
+    ],
+    [
+     1320,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     180
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.6,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJef6-xSQ4J5UR_Gpn0cW6YBA",
+  "name": "Botequim Floripa",
+  "lat": -27.5918909,
+  "lng": -48.5519847,
+  "region": "Centro",
+  "primary_type": "pub",
+  "rating": 4.4,
+  "n_reviews": 1865,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "bar",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.8,
+   "gastronomy": 0.7,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJg7Ish_VEJ5URQN-rI4b6NEc",
+  "name": "300 Cosmo Beach Club",
+  "lat": -27.4372482,
+  "lng": -48.5015696,
+  "region": "Norte (Canasvieiras, Jurerê, Ingleses)",
+  "primary_type": "restaurant",
+  "rating": 4.3,
+  "n_reviews": 1872,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     0,
+     240
+    ],
+    [
+     660,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.8,
+   "gastronomy": 0.7,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJz7p56jE4J5URiYTeo1A3HIw",
+  "name": "Assembleia Legislativa do Estado de Santa Catarina",
+  "lat": -27.603410699999998,
+  "lng": -48.5476722,
+  "region": "Centro",
+  "primary_type": "government_office",
+  "rating": 4.2,
+  "n_reviews": 128,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJPyaKOA07J5URFl-BnVj0ay0",
+  "name": "Casa de Ana",
+  "lat": -27.6639004,
+  "lng": -48.4807448,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 263,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     570,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     570,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     570,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     570,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     570,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     570,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJGSruKzk7J5UR-TOX24ESLwQ",
+  "name": "Broddo | Coffee, Brunch & Asian Food - All Day",
+  "lat": -27.6764568,
+  "lng": -48.4997769,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "restaurant",
+  "rating": 5,
+  "n_reviews": 1183,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1350
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1350
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1350
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJy8QbjfI7J5URF8JcGg_MKQ4",
+  "name": "Fernanda Abrahão - Yoga e Terapias Integrativas",
+  "lat": -27.694730099999997,
+  "lng": -48.4944719,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": null,
+  "rating": 5,
+  "n_reviews": 48,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     450,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     540,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.4,
+   "nature": 0.0,
+   "landmark": 0.1,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ_4oxkV4kJ5URVYdApVEBE5Y",
+  "name": "Ilha do Campeche, Transporte Náutico - APAAPS",
+  "lat": -27.751284899999998,
+  "lng": -48.5018594,
+  "region": "Ribeirão da Ilha e Sudoeste",
+  "primary_type": "marina",
+  "rating": 4,
+  "n_reviews": 100,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     870
+    ]
+   ],
+   "0": [
+    [
+     540,
+     870
+    ]
+   ],
+   "1": [
+    [
+     540,
+     870
+    ]
+   ],
+   "2": [
+    [
+     540,
+     870
+    ]
+   ],
+   "3": [
+    [
+     540,
+     870
+    ]
+   ],
+   "4": [
+    [
+     540,
+     870
+    ]
+   ],
+   "5": [
+    [
+     540,
+     870
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 180.0,
+   "duration_min": 240,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJg_kFRmw7J5URcGRiVQ2sp1k",
+  "name": "Arte Capello Salão de Beleza",
+  "lat": -27.6801586,
+  "lng": -48.495110399999994,
+  "region": "Campeche e Sul da Ilha",
+  "primary_type": "beauty_salon",
+  "rating": 4.6,
+  "n_reviews": 148,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ }
+]

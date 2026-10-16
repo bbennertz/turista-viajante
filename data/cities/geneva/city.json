@@ -1,0 +1,20 @@
+{
+  "id": "geneva",
+  "name": "Genebra",
+  "language": "fr",
+  "seed_query": "que faire à {region} Genève",
+  "default_mode": "walk",
+  "max_searches": 30,
+  "target_candidates": 250,
+  "min_reviews": 20,
+  "regions": [
+    {"name": "Vieille-Ville e Centre", "lat": 46.2010, "lng": 6.1480, "radius_m": 1200},
+    {"name": "Pâquis e Gare Cornavin", "lat": 46.2100, "lng": 6.1520, "radius_m": 1200},
+    {"name": "Lac, Jet d'Eau e Eaux-Vives", "lat": 46.2060, "lng": 6.1590, "radius_m": 1800},
+    {"name": "Plainpalais e Carouge", "lat": 46.1940, "lng": 6.1420, "radius_m": 2200},
+    {"name": "Nations e Jardin Botanique", "lat": 46.2270, "lng": 6.1400, "radius_m": 2200},
+    {"name": "Champel e Acacias", "lat": 46.1900, "lng": 6.1600, "radius_m": 2200},
+    {"name": "Cologny, Genthod e Rive Nord", "lat": 46.2250, "lng": 6.1850, "radius_m": 3500}
+  ],
+  "bbox": [46.15, 46.27, 6.07, 6.22]
+}

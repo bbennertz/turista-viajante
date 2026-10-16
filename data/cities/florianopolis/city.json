@@ -1,0 +1,54 @@
+{
+  "id": "florianopolis",
+  "name": "Florianópolis",
+  "language": "pt-BR",
+  "seed_query": "o que fazer em {region}",
+  "default_mode": "car",
+  "max_searches": 30,
+  "target_candidates": 250,
+  "min_reviews": 20,
+  "regions": [
+    {
+      "name": "Centro",
+      "lat": -27.5969,
+      "lng": -48.5495,
+      "radius_m": 4500
+    },
+    {
+      "name": "Lagoa da Conceição e Barra da Lagoa",
+      "lat": -27.59,
+      "lng": -48.45,
+      "radius_m": 6500
+    },
+    {
+      "name": "Campeche e Sul da Ilha",
+      "lat": -27.68,
+      "lng": -48.48,
+      "radius_m": 7000
+    },
+    {
+      "name": "Ribeirão da Ilha e Sudoeste",
+      "lat": -27.73,
+      "lng": -48.56,
+      "radius_m": 6000
+    },
+    {
+      "name": "Norte (Canasvieiras, Jurerê, Ingleses)",
+      "lat": -27.44,
+      "lng": -48.43,
+      "radius_m": 9000
+    },
+    {
+      "name": "Santo Antônio de Lisboa e Noroeste",
+      "lat": -27.505,
+      "lng": -48.52,
+      "radius_m": 4000
+    }
+  ],
+  "bbox": [
+    -27.86,
+    -27.38,
+    -48.6,
+    -48.33
+  ]
+}

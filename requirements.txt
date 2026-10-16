@@ -1,0 +1,7 @@
+# Runtime da API (o que o Docker instala). Pipeline e testes: requirements-dev.txt
+ortools==9.15.6755
+numpy==2.5.4
+fastapi==0.143.2
+uvicorn==0.54.0
+pydantic==2.14.1
+httpx==0.28.1

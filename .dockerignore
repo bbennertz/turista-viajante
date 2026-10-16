@@ -1,0 +1,14 @@
+.venv
+**/node_modules
+web/dist
+**/__pycache__
+.env
+.git
+tests
+data/ledger.json
+data/*.log
+# dados brutos do Google e do LLM: o servidor só precisa de places.json, city.json e matrix_*.json
+data/cities/*/details
+data/cities/*/classified
+data/cities/*/candidates.json
+data/cities/*/agent_trace.json

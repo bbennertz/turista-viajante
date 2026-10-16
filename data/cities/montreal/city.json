@@ -1,0 +1,21 @@
+{
+  "id": "montreal",
+  "name": "Montreal",
+  "language": "en",
+  "seed_query": "things to do in {region} Montreal",
+  "default_mode": "walk",
+  "max_searches": 30,
+  "target_candidates": 250,
+  "min_reviews": 20,
+  "regions": [
+    {"name": "Vieux-Montréal e Vieux-Port", "lat": 45.5075, "lng": -73.5540, "radius_m": 1800},
+    {"name": "Centre-ville e Golden Square Mile", "lat": 45.5035, "lng": -73.5750, "radius_m": 2000},
+    {"name": "Quartier Latin e Village", "lat": 45.5155, "lng": -73.5605, "radius_m": 1600},
+    {"name": "Plateau Mont-Royal e Mile End", "lat": 45.5260, "lng": -73.5800, "radius_m": 2200},
+    {"name": "Mont-Royal e Outremont", "lat": 45.5050, "lng": -73.5880, "radius_m": 2500},
+    {"name": "Petite-Italie e Jean-Talon", "lat": 45.5340, "lng": -73.6110, "radius_m": 2200},
+    {"name": "Parc Jean-Drapeau e Griffintown", "lat": 45.4950, "lng": -73.5400, "radius_m": 3000},
+    {"name": "Hochelaga e Parc Olympique", "lat": 45.5600, "lng": -73.5480, "radius_m": 3500}
+  ],
+  "bbox": [45.40, 45.65, -73.98, -73.47]
+}

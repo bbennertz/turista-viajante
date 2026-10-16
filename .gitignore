@@ -1,0 +1,22 @@
+# ambiente e segredos
+.venv/
+.env
+.claude/
+__pycache__/
+.pytest_cache/
+web/node_modules/
+web/dist/
+
+# estado local do pipeline
+data/ledger.json
+data/*.log
+
+# dados brutos do Google e do LLM: ficam só na máquina de quem roda o pipeline.
+# (places.json, city.json, coverage.json e matrix_*.json são derivados e vão no repositório)
+data/cities/*/details/
+data/cities/*/classified/
+data/cities/*/candidates.json
+data/cities/*/agent_trace.json
+
+# respostas brutas da API do Google salvas em testes manuais (têm reviews e nomes de autores)
+tests/pipeline/fixtures/
