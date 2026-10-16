@@ -20,7 +20,7 @@ Como funciona:
 - Um modelo de otimização (CP-SAT, do OR-Tools) monta o roteiro de um dia: sai do hotel, respeita os horários de funcionamento, visita todos os lugares marcados e volta ao hotel, minimizando o deslocamento. Se não couber no dia, o app explica o porquê em vez de só dizer "não deu".
 - O resultado aparece no mapa, com o horário de chegada em cada lugar, e a rota abre direto no Google Maps.
 
-Para completar, deixei o front-end bonitinho.
+Para completar, deixei o front-end bonitinho e pedi pro Claude montar esse post.
 
 Agora consigo turistar e aplicar Pesquisa Operacional ao mesmo tempo.
 
@@ -43,7 +43,7 @@ How it works:
 - An optimization model (CP-SAT, from OR-Tools) builds a one-day route: it leaves the hotel, respects opening hours, visits every ticked place and returns to the hotel, minimizing travel. If it doesn't fit in the day, the app explains why instead of just saying "no solution".
 - The result shows on a map with the arrival time at each place, and the route opens straight in Google Maps.
 
-And I made the front end look nice, too.
+To top it off, I made the front end look nice and asked Claude to write this post.
 
 Now I can be a tourist and apply Operations Research at the same time.
 

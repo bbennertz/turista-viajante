@@ -1,6 +1,6 @@
 // Gravação de tela do app de verdade, no computador, em Montreal. Um script controla o Chrome (sem tela): move um
-// cursor visível, clica nos botões reais e grava o que o navegador mostra (screencast do Chrome). O vídeo sai em
-// 1920×1080, 30 fps, com legendas curtas por etapa (o LinkedIn toca sem som).
+// cursor visível, clica nos botões reais e grava o que o navegador mostra (screencast do Chrome). Estilo demonstração de
+// produto: zoom suave que acompanha a ação, sem abertura nem encerramento, legendas curtas (o LinkedIn toca sem som).
 //
 //   node docs/motion/screen.mjs [saida.mp4] [--dry]        (precisa do app em http://127.0.0.1:8000 e de FFMPEG)
 // --dry grava só as primeiras etapas, para testar taxa de quadros e visual.
@@ -41,7 +41,7 @@ try {
   if (!(await b.waitFor("document.querySelectorAll('.place').length > 0", 60000))) throw new Error("app não carregou");
   await sleep(2500); // tiles do mapa
 
-  // ── camadas de apresentação: cursor, legenda, abertura e encerramento (no "top layer", acima do pop-up do app) ──
+  // ── camadas de apresentação: cursor, legenda, (no "top layer", acima do pop-up do app) ──
   await b.evaluate(`(() => {
     const css = document.createElement('style');
     css.textContent = \`
@@ -55,35 +55,31 @@ try {
         display: flex; align-items: center; gap: 14px; white-space: nowrap; box-shadow: 0 8px 28px rgba(0,0,0,.3); }
       #__cap.on { opacity: 1; transform: translate(-50%, 0); }
       #__cap b { display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: #f26b3a; font-size: 24px; }
-      [popover].__scene { inset: 0; width: 100vw; height: 100vh; opacity: 0; transition: opacity .9s ease; pointer-events: none;
-        background: linear-gradient(180deg, #f7f2e8, #e9e2d2); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px;
-        font-family: 'Segoe UI', system-ui, sans-serif; }
-      [popover].__scene.on { opacity: 1; }
-      .__scene::before { content: ''; position: absolute; inset: 0 0 auto 0; height: 12px; background: linear-gradient(90deg, #0e7490, #f26b3a); }
-      .__scene h1 { margin: 0; font-size: 84px; font-weight: 800; color: #112b3a; letter-spacing: -0.02em; }
-      .__scene h2 { margin: 0; font-size: 40px; font-weight: 600; color: #0e7490; }
-      .__scene p { margin: 0; font-size: 30px; color: #55707e; }
-      .__scene .url { font-size: 38px; font-weight: 800; color: #112b3a; margin-top: 18px; }
-      .__scene .tags { display: flex; gap: 14px; margin-top: 10px; }
-      .__scene .tags span { background: #d9eef2; color: #0e7490; font-weight: 700; font-size: 24px; padding: 10px 22px; border-radius: 999px; }
     \`;
     document.head.appendChild(css);
     const mk = (id, cls, html) => { const e = document.createElement('div'); e.id = id; e.className = cls; e.setAttribute('popover', 'manual'); e.innerHTML = html; document.body.appendChild(e); return e; };
-    const logo = '<svg viewBox="0 0 32 32" width="130" height="130"><defs><linearGradient id="lg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#f26b3a"/><stop offset="1" stop-color="#0e7490"/></linearGradient></defs><circle cx="16" cy="16" r="15" fill="url(#lg)"/><path d="M7 23 C 11 23, 11 17, 15 17 S 19 12, 22 11" fill="none" stroke="#fff" stroke-width="1.8" stroke-dasharray="2.2 2.2" stroke-linecap="round"/><path d="M22 5.5c-2.6 0-4.5 2-4.5 4.5 0 3.2 4.5 7 4.5 7s4.5-3.8 4.5-7c0-2.5-1.9-4.5-4.5-4.5z" fill="#fff"/><circle cx="22" cy="10" r="1.7" fill="#0e7490"/></svg>';
-    const intro = mk('__intro', '__ov __scene on', logo + '<h1>Turista Viajante</h1><h2>Montreal, em um dia</h2><p>Marque os lugares. O solver acha a melhor ordem.</p>');
-    const outro = mk('__outro', '__ov __scene', logo + '<h1>Turista Viajante</h1><h2>O melhor caminho para o seu dia de viagem</h2><div class="url">github.com/bbennertz/turista-viajante</div><div class="tags"><span>Python</span><span>OR-Tools CP-SAT</span><span>FastAPI</span><span>React</span><span>MapLibre</span></div>');
     const cap = mk('__cap', '__ov', '<b></b><span></span>');
     const cur = mk('__cursor', '__ov', '<svg viewBox="0 0 24 24" width="34" height="34"><path d="M3 2l7.5 19 2.7-8.1L21 10z" fill="#fff" stroke="#111" stroke-width="1.6" stroke-linejoin="round"/></svg>');
-    const order = [cap, cur, intro, outro];
+    const order = [cap, cur];
     const show = (e) => { try { e.hidePopover(); } catch {} e.showPopover(); };
-    intro.style.transition = 'none'; intro.style.opacity = '1'; outro.style.opacity = '0';
     window.__retop = () => order.forEach(show);          // o pop-up do app entra no top layer: reabrimos as camadas acima dele
     window.__retop();
     window.__cursor = (x, y) => { cur.style.transform = 'translate(' + (x - 4) + 'px,' + (y - 3) + 'px)'; };
     window.__cursorShow = (on) => cur.classList.toggle('on', on);
     window.__ripple = (x, y) => { const r = document.createElement('div'); r.className = '__ov __ripple'; r.setAttribute('popover', 'manual'); r.style.left = x + 'px'; r.style.top = y + 'px'; document.body.appendChild(r); r.showPopover(); setTimeout(() => r.remove(), 750); };
     window.__caption = (n, text) => { if (!text) { cap.classList.remove('on'); return; } cap.querySelector('b').textContent = n; cap.querySelector('span').textContent = text; cap.classList.add('on'); show(cap); show(cur); };
-    window.__scene = (which, on) => { const e = document.getElementById(which); e.style.transition = 'opacity .9s ease'; e.style.opacity = on ? '1' : '0'; };
+    // zoom suave (estilo demonstração de produto): (x, y) em coordenadas de tela; centraliza o ponto e limita às bordas
+    window.__zs = { s: 1, tx: 0, ty: 0 };
+    window.__zoom = (s, x, y) => {
+      const z = window.__zs, W = innerWidth, H = innerHeight, el = document.documentElement;
+      if (s > 1) {
+        const lx = (x - z.tx) / z.s, ly = (y - z.ty) / z.s;
+        z.tx = Math.min(0, Math.max(W - s * W, W / 2 - s * lx)); z.ty = Math.min(0, Math.max(H - s * H, H / 2 - s * ly));
+      } else { z.tx = 0; z.ty = 0; }
+      z.s = s;
+      el.style.transformOrigin = '0 0'; el.style.transition = 'transform 1.1s cubic-bezier(.45,0,.2,1)';
+      el.style.transform = s > 1 ? 'translate(' + z.tx + 'px,' + z.ty + 'px) scale(' + s + ')' : 'none';
+    };
   })()`);
 
   // ── gravação ────────────────────────────────────────────────────────────────
@@ -119,30 +115,33 @@ try {
   const caption = (n, t) => b.evaluate(`__caption(${JSON.stringify(n)}, ${JSON.stringify(t)})`);
   const placeBox = (name) => `[...document.querySelectorAll('.place')].find((p) => p.querySelector('.place-name').textContent.trim() === ${JSON.stringify(name)})?.querySelector('input')`;
 
-  // abertura
-  await sleep(1900);
-  await b.evaluate(`__scene('__intro', false)`);
-  await sleep(1100);
   await b.evaluate(`__cursor(${cx}, ${cy}); __cursorShow(true)`);
+  const zoom = async (s, expr) => { const r = expr ? await rect(expr) : { x: 0, y: 0 }; await b.evaluate(`__zoom(${s}, ${r.x}, ${r.y})`); await sleep(1200); };
 
   // 1) cidade
   await caption("1", "Escolha a cidade");
   await sleep(700);
-  let p = await find(`[...document.querySelectorAll('.city-switch button')].find((x) => x.textContent.startsWith('Montreal'))`, "botão Montreal");
+  const CITY = `[...document.querySelectorAll('.city-switch button')].find((x) => x.textContent.startsWith('Montreal'))`;
+  await zoom(1.6, CITY);
+  let p = await find(CITY, "botão Montreal");
   await moveTo(p.x, p.y, 1100);
   await b.evaluate(`window.__geo = ${JSON.stringify(MONTREAL)}`);
   await click();
-  await sleep(3300); // mapa reenquadra e os tiles carregam, localização vira a partida
+  await zoom(1);
+  await sleep(2400); // mapa reenquadra e os tiles carregam, localização vira a partida
 
   // 2) partida
   await caption("2", "A partida vem da sua localização");
+  await zoom(1.6, `document.querySelector('.hotel-status')`);
   p = await find(`document.querySelector('.hotel-status')`, "linha da partida");
   await moveTo(p.x - 60, p.y, 800);
-  await sleep(1800);
+  await sleep(1200);
+  await zoom(1);
 
   if (!DRY) {
     // 3) lugares
     await caption("3", "Filtre e marque o que visitar");
+    await zoom(1.45, `document.querySelector('.places-pane')`);
     p = await find(`[...document.querySelectorAll('.chip')].find((x) => x.textContent.trim() === 'cartão-postal')`, "chip cartão-postal");
     await moveTo(p.x, p.y, 1000);
     await click();
@@ -155,17 +154,19 @@ try {
       await click();
       await sleep(380);
     }
-    await sleep(500);
+    await zoom(1);
 
     // 4) montar
     await caption("4", "O solver acha a melhor ordem");
+    await zoom(1.6, `document.querySelector('button.primary')`);
     p = await find(`document.querySelector('button.primary')`, "botão Montar roteiro");
     await moveTo(p.x, p.y, 1100);
     await click();
-    await sleep(1800);
+    await zoom(1);
+    await sleep(1000);
     await b.evaluate(`__retop()`);
     await caption("5", "Horário de chegada em cada lugar");
-    await sleep(4500);
+    await sleep(4200);
 
     // 5) mapa
     p = await find(`document.querySelector('dialog[open] button.primary')`, "Ver no mapa");
@@ -175,21 +176,20 @@ try {
     await b.evaluate(`__retop()`);
     await caption("6", "A rota, no mapa");
     await moveTo(cx - 120, cy - 260, 800);
-    await sleep(3300);
+    await sleep(2800);
 
     // 6) Google Maps
     await b.evaluate(`document.querySelector('.result a.btn')?.scrollIntoView({ block: 'center', behavior: 'smooth' })`);
     await sleep(900);
     await caption("7", "E abra a rota no Google Maps");
+    await zoom(1.6, `document.querySelector('.result a.btn')`);
     p = await find(`document.querySelector('.result a.btn')`, "Abrir no Google Maps");
     await moveTo(p.x, p.y, 900);
-    await sleep(2000);
+    await sleep(1600);
   }
 
-  // encerramento
   await caption("", "");
-  await b.evaluate(`__cursorShow(false); __scene('__outro', true)`);
-  await sleep(2800);
+  await sleep(600);
   await b.send("Page.stopScreencast");
   await sleep(300);
 } finally { b.close(); }
