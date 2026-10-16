@@ -22,6 +22,10 @@ Como funciona:
 
 Para completar, deixei o front-end bonitinho e pedi pro Claude montar esse post.
 
+Próximos passos:
+- Contabilizar os deslocamentos em transporte público (hoje o app considera só a pé e de carro).
+- Expandir a base de pontos turísticos, que ainda é parcial em Montreal, e incluir mais cidades.
+
 Agora consigo turistar e aplicar Pesquisa Operacional ao mesmo tempo.
 
 Código: github.com/bbennertz/turista-viajante
@@ -44,6 +48,10 @@ How it works:
 - The result shows on a map with the arrival time at each place, and the route opens straight in Google Maps.
 
 To top it off, I made the front end look nice and asked Claude to write this post.
+
+Next steps:
+- Account for travel times by public transit (for now the app only covers walking and driving).
+- Expand the set of attractions, which is still partial for Montreal, and add more cities.
 
 Now I can be a tourist and apply Operations Research at the same time.
 
