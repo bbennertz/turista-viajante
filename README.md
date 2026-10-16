@@ -13,6 +13,32 @@ front de mapa. Nasceu de uma dor real: montar o roteiro de uma viagem e decidir 
 | Montreal | em andamento: cobertura parcial, ainda classificando |
 | Genebra | configurada, sem dados ainda |
 
+## Como usar
+
+Com o app aberto (veja [Começando](#começando)):
+
+1. **Partida.** O navegador pergunta se pode usar sua localização como ponto de partida (o hotel). É opcional: se
+   você negar, ou estiver a mais de 60 km da cidade, o app usa o centro dela. Em qualquer caso dá para **arrastar o
+   marcador laranja (H)** no mapa, ou clicar em "Usar minha localização" para tentar de novo.
+2. **Cidade.** Escolha no topo. Cidades sem dados aparecem desabilitadas ("em breve"); "parcial" avisa que a lista
+   ainda não cobre tudo.
+3. **Dia.** Data, hora de saída, hora limite de volta e como você se desloca (**a pé** ou **de carro**).
+4. **Lugares.** Na aba *Lugares*, filtre por região, tag ("autêntico", "natureza", "cartão-postal"...) ou nome, e
+   **marque** os que quer visitar, na lista ou clicando nos pontos do mapa. O medidor embaixo mostra quanto das horas
+   do dia só as visitas já ocupam (sem contar o deslocamento).
+5. **Montar roteiro.** Abre um pop-up com a **hora de chegada em cada lugar**, o tempo de deslocamento entre eles,
+   as esperas (quando o lugar ainda não abriu) e a hora de volta ao hotel.
+6. **Usar o roteiro.** *Ver no mapa* mostra a rota numerada; *Copiar como texto* leva o plano para uma mensagem;
+   *Abrir no Google Maps* abre a rota hotel → paradas → hotel (acima de 9 paradas, o Google Maps limita, então o
+   botão se divide em partes encadeadas).
+
+**"Não cabe no dia".** Significa que não existe ordem que respeite os horários e a janela do dia. A mensagem diz
+por quê (por exemplo: "as visitas somam 300 min e o menor deslocamento possível é 247 min, mais que a janela de
+540 min"); tire um lugar, alargue o horário ou troque o dia.
+
+**Bom saber.** Lugar sem horário no Google é tratado como sempre aberto. Os tempos de deslocamento são
+estimativas do OSRM e podem diferir dos do Google Maps. O botão com a lua/sol alterna o tema claro/escuro.
+
 ## Como funciona
 
 ```
@@ -53,6 +79,8 @@ s.a. x forma um único circuito hamiltoniano por hotel ∪ P            (AddCirc
      t_início ≤ t_i ,  t_volta ≤ t_fim
 ```
 
+<p align="center"><img src="docs/formulacao.png" alt="Formulação matemática do modelo" width="520"></p>
+
 - **Lexicográfico em uma resolução:** o peso 2048 > 1440 min/dia faz o deslocamento ter prioridade estrita; em
   empate, vence quem volta ao hotel mais cedo.
 - **`AddCircuit` em vez de MTZ:** elimina subciclos sem restrições extras, e cada condição vira `OnlyEnforceIf`
@@ -85,6 +113,10 @@ dezenas de instâncias. Dados aleatórios, sem horários reais; com os de Floria
 
 - **Dados do Google Places** (API oficial), não scraping. As reviews vêm no máximo 5 por lugar, e ~80% são de 5
   estrelas, então o texto diz pouco sobre autenticidade; o classificador usa também nota, nº de avaliações e tipos.
+- **Só pedimos ao Google o que usamos.** Das reviews vêm apenas nota e texto: o campo `reviews` inteiro traria também
+  nome, foto e perfil de cada autor, que o projeto não usa e não guarda.
+- **Mapa-base do OpenFreeMap** (vetorial, dados do OpenStreetMap, sem chave de API; estilos claro e escuro). Os tiles
+  da CARTO foram testados e passaram a exigir chave.
 - **Restaurantes ficam fora** da lista (decisão de produto: o objetivo é rotear visitas).
 - **OSRM público** para as distâncias: gratuito, com perfil a pé e de carro. É um serviço compartilhado de uso
   justo e sem garantia; serve a esta fase, mas o caminho de produção é hospedar um OSRM próprio. Os tempos dele
@@ -97,23 +129,38 @@ dezenas de instâncias. Dados aleatórios, sem horários reais; com os de Floria
 - **Classificação sem gabarito humano.** Não há avaliação de acurácia das features do LLM (um juiz com modelo maior
   estava planejado e não foi feito).
 
-## Rodando
+## Começando
 
-Requisitos: Python 3.12, Node 20+.
+**O que você precisa ter:** Python 3.12 e Node 20 ou mais novo. **Não precisa de nenhuma chave de API** para usar o
+app com as cidades que já estão no repositório.
 
 ```bash
+# 1. ambiente Python
 python -m venv .venv
-.venv/Scripts/python -m pip install -r requirements-dev.txt      # Windows; em Linux/macOS: .venv/bin/python
+.venv/Scripts/python -m pip install -r requirements-dev.txt      # Windows; Linux/macOS: .venv/bin/python
+
+# 2. front-end (gera web/dist, que a API serve)
 cd web && npm install && npm run build && cd ..
-.venv/Scripts/python -m uvicorn api.main:app --port 8000          # abre http://127.0.0.1:8000
+
+# 3. rodar
+.venv/Scripts/python -m uvicorn api.main:app --port 8000
 ```
 
-O app já funciona com os dados de `data/cities/` do repositório; **não precisa de chaves** para usar. Para
-desenvolver o front: `cd web && npm run dev` (proxy de `/api` para a porta 8000).
+Abra **http://127.0.0.1:8000**. Para conferir que está tudo certo: `.venv/Scripts/python -m pytest tests -q` e
+`cd web && npm test` (nenhum usa rede).
 
-**Testes:** `.venv/Scripts/python -m pytest tests -q` (nenhum usa rede) e `cd web && npm test`.
+**Se algo não aparecer**
+- *A página abre em branco ou dá `{"detail":"Not Found"}`:* faltou o passo 2 (`npm run build`); a API só serve o
+  front se `web/dist` existir.
+- *Mudei o Python e nada mudou:* o servidor não recarrega sozinho; reinicie o `uvicorn`.
+- *A cidade não aparece na lista:* ela precisa de `places.json` **e** das matrizes `matrix_walk.json`/`matrix_car.json`
+  em `data/cities/<cidade>/`.
+- *O mapa mostra só o fundo, sem pontos:* o front foi construído sem o worker do MapLibre; use `npm run build` do
+  repositório (o import do worker está em `web/src/MapView.tsx`).
 
-### Criar ou atualizar uma cidade
+Para desenvolver o front com recarga automática: `cd web && npm run dev` (proxy de `/api` para a porta 8000).
+
+## Criar ou atualizar uma cidade
 
 Precisa de chaves no `.env` (o script `scripts/setup_keys.sh` guia a criação): `GOOGLE_PLACES_API_KEY` e
 `GROQ_API_KEY`. Crie `data/cities/<id>/city.json` (regiões, caixa geográfica, idioma) e rode:

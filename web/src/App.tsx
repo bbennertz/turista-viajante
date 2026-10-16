@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { getCities, getPlaces, planRoute } from "./api";
+import { LogoMark, ThemeToggle } from "./Brand";
 import { CitySwitch } from "./CitySwitch";
 import { locate } from "./geo";
 import { HotelRow, type HotelSource } from "./HotelRow";
@@ -7,6 +8,7 @@ import { MapView } from "./MapView";
 import { PlaceList } from "./PlaceList";
 import { ResultPanel } from "./ResultPanel";
 import { RouteModal } from "./RouteModal";
+import { useTheme } from "./theme";
 import { duration, toMinutes, tomorrow } from "./time";
 import type { City, LatLng, Mode, Place, RouteResult } from "./types";
 
@@ -23,6 +25,7 @@ interface Snapshot {
 }
 
 export default function App() {
+  const { theme, toggle: toggleTheme } = useTheme();
   const [cities, setCities] = useState<City[]>([]);
   const [city, setCity] = useState<City | null>(null);
   const [places, setPlaces] = useState<Place[]>([]);
@@ -170,8 +173,12 @@ export default function App() {
     <div className="app">
       <section className="panel" aria-label="Planejador">
         <header className="topbar">
-          <h1>Turista Viajante</h1>
+          <div className="brand">
+            <LogoMark />
+            <h1>Turista Viajante</h1>
+          </div>
           <CitySwitch cities={cities} currentId={city?.id} onChange={chooseCity} />
+          <ThemeToggle theme={theme} onToggle={toggleTheme} />
           
         </header>
 
@@ -358,6 +365,7 @@ export default function App() {
       <main className="map-col">
         <div className="map-wrap">
           <MapView
+            theme={theme}
             cityId={city?.id}
             places={places}
             selected={selected}

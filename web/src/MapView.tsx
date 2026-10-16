@@ -4,9 +4,11 @@ import "maplibre-gl/dist/maplibre-gl.css";
 // O Vite empacota o worker do MapLibre e entrega a URL final; sem isso o worker não carrega,
 // e os pontos e a linha do roteiro (fontes GeoJSON) nunca são desenhados.
 import workerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
+import type { Theme } from "./theme";
 import type { LatLng, Place, Stop } from "./types";
 
 interface Props {
+  theme: Theme;
   cityId?: string;
   places: Place[];
   selected: Set<string>;
@@ -18,20 +20,28 @@ interface Props {
 
 maplibregl.setWorkerUrl(workerUrl);
 
-const OSM_STYLE: maplibregl.StyleSpecification = {
-  version: 8,
-  sources: {
-    osm: {
-      type: "raster",
-      tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
-      tileSize: 256,
-      attribution: "© OpenStreetMap contributors",
-    },
-  },
-  layers: [{ id: "osm", type: "raster", source: "osm" }],
+// Mapa-base vetorial do OpenFreeMap (dados do OpenStreetMap), sem chave de API: um estilo claro e um escuro.
+// (Os tiles raster da CARTO foram testados e passaram a exigir chave.)
+const BASEMAPS: Record<Theme, string> = {
+  light: "https://tiles.openfreemap.org/styles/positron",
+  dark: "https://tiles.openfreemap.org/styles/dark",
 };
 
+const styleFor = (theme: Theme): string => BASEMAPS[theme];
+
 const EMPTY: GeoJSON.FeatureCollection = { type: "FeatureCollection", features: [] };
+
+/** Lê as cores do tema atual no CSS, para os pontos e a rota seguirem a paleta. */
+function mapColors() {
+  const css = getComputedStyle(document.documentElement);
+  const v = (name: string, fallback: string) => css.getPropertyValue(name).trim() || fallback;
+  return {
+    selected: v("--map-selected", "#0e7490"),
+    idle: v("--map-idle", "#6b7f8b"),
+    route: v("--map-route", "#0e7490"),
+    stroke: v("--map-stroke", "#ffffff"),
+  };
+}
 
 function markerElement(className: string, text: string, title: string): HTMLDivElement {
   const el = document.createElement("div");
@@ -41,14 +51,18 @@ function markerElement(className: string, text: string, title: string): HTMLDivE
   return el;
 }
 
-export function MapView({ cityId, places, selected, hotel, stops, onHotelChange, onToggle }: Props) {
+export function MapView({ theme, cityId, places, selected, hotel, stops, onHotelChange, onToggle }: Props) {
   const container = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const hotelMarker = useRef<maplibregl.Marker | null>(null);
   const stopMarkers = useRef<maplibregl.Marker[]>([]);
   const fitted = useRef(false);
   const lastCity = useRef<string | undefined>(undefined);
-  const [ready, setReady] = useState(false);
+  const appliedTheme = useRef<Theme>(theme);
+  const fittedStops = useRef<Stop[] | null>(null); // roteiro para o qual o mapa já foi enquadrado
+  // Cada vez que um estilo termina de carregar (inclusive ao trocar de tema) as camadas são recriadas;
+  // os efeitos de dados dependem disto para redesenhar pontos e rota.
+  const [styleVersion, setStyleVersion] = useState(0);
 
   // Callbacks sempre atuais, sem recriar o mapa.
   const handlers = useRef({ onToggle, onHotelChange });
@@ -58,7 +72,7 @@ export function MapView({ cityId, places, selected, hotel, stops, onHotelChange,
     if (!container.current) return;
     const map = new maplibregl.Map({
       container: container.current,
-      style: OSM_STYLE,
+      style: styleFor(theme),
       center: [hotel.lng, hotel.lat],
       zoom: 11,
     });
@@ -67,55 +81,72 @@ export function MapView({ cityId, places, selected, hotel, stops, onHotelChange,
 
     const popup = new maplibregl.Popup({ closeButton: false, closeOnClick: false, offset: 10 });
 
-    map.on("load", () => {
+    const addOverlay = () => {
+      const c = mapColors();
       map.addSource("places", { type: "geojson", data: EMPTY });
       map.addSource("route", { type: "geojson", data: EMPTY });
       map.addLayer({
         id: "route-line",
         type: "line",
         source: "route",
-        paint: { "line-color": "#2563eb", "line-width": 4, "line-opacity": 0.85, "line-dasharray": [2, 1.5] },
+        paint: { "line-color": c.route, "line-width": 4, "line-opacity": 0.9, "line-dasharray": [2, 1.5] },
       });
       map.addLayer({
         id: "places",
         type: "circle",
         source: "places",
         paint: {
-          "circle-color": ["case", ["get", "selected"], "#2563eb", "#64748b"],
+          "circle-color": ["case", ["get", "selected"], c.selected, c.idle],
           "circle-radius": ["case", ["get", "selected"], 8, 5],
-          "circle-stroke-color": "#ffffff",
+          "circle-stroke-color": c.stroke,
           "circle-stroke-width": 1.5,
-          "circle-opacity": ["case", ["get", "selected"], 1, 0.75],
+          "circle-opacity": ["case", ["get", "selected"], 1, 0.8],
         },
       });
-      map.on("click", "places", (e) => {
-        const id = e.features?.[0]?.properties?.id as string | undefined;
-        if (id) handlers.current.onToggle(id);
-      });
-      map.on("mousemove", "places", (e) => {
-        map.getCanvas().style.cursor = "pointer";
-        const f = e.features?.[0];
-        if (!f || f.geometry.type !== "Point") return;
-        popup
-          .setLngLat(f.geometry.coordinates as [number, number])
-          .setText(String(f.properties?.name))
-          .addTo(map);
-      });
-      map.on("mouseleave", "places", () => {
-        map.getCanvas().style.cursor = "";
-        popup.remove();
-      });
-      setReady(true);
+      setStyleVersion((n) => n + 1);
+    };
+    map.on("style.load", addOverlay);
+
+    // Registrados uma vez: os eventos por camada continuam valendo quando o estilo é trocado.
+    map.on("click", "places", (e) => {
+      const id = e.features?.[0]?.properties?.id as string | undefined;
+      if (id) handlers.current.onToggle(id);
+    });
+    map.on("mousemove", "places", (e) => {
+      map.getCanvas().style.cursor = "pointer";
+      const f = e.features?.[0];
+      if (!f || f.geometry.type !== "Point") return;
+      popup
+        .setLngLat(f.geometry.coordinates as [number, number])
+        .setText(String(f.properties?.name))
+        .addTo(map);
+    });
+    map.on("mouseleave", "places", () => {
+      map.getCanvas().style.cursor = "";
+      popup.remove();
     });
 
     return () => {
       map.remove();
       mapRef.current = null;
-      setReady(false);
+      hotelMarker.current = null;
+      stopMarkers.current = [];
+      setStyleVersion(0);
     };
-    // O mapa é criado uma vez; o centro inicial vem do hotel na montagem.
+    // O mapa é criado uma vez; o centro e o tema iniciais vêm da montagem.
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  // Troca de tema: novo mapa-base; o "style.load" recria as camadas.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || appliedTheme.current === theme) return;
+    appliedTheme.current = theme;
+    setStyleVersion(0);
+    map.setStyle(styleFor(theme));
+  }, [theme]);
+
+  const ready = styleVersion > 0;
 
   // Pontos dos lugares (cor/tamanho conforme marcados).
   useEffect(() => {
@@ -140,12 +171,12 @@ export function MapView({ cityId, places, selected, hotel, stops, onHotelChange,
       map.fitBounds(b, { padding: 50, duration: 0 });
       fitted.current = true;
     }
-  }, [ready, cityId, places, selected]);
+  }, [ready, styleVersion, cityId, places, selected]);
 
-  // Marcador do hotel, arrastável.
+  // Marcador do hotel, arrastável (é um elemento HTML: sobrevive à troca de estilo).
   useEffect(() => {
     const map = mapRef.current;
-    if (!ready || !map) return;
+    if (!map || !ready) return;
     if (!hotelMarker.current) {
       const marker = new maplibregl.Marker({
         element: markerElement("marker marker-hotel", "H", "Hotel: arraste para mudar"),
@@ -202,14 +233,16 @@ export function MapView({ cityId, places, selected, hotel, stops, onHotelChange,
           .addTo(map),
       );
     });
-    if (stops.length > 0) {
+    // Enquadra a rota só quando ela muda, não quando o tema troca o estilo.
+    if (stops.length > 0 && fittedStops.current !== stops) {
+      fittedStops.current = stops;
       const b = new maplibregl.LngLatBounds([hotel.lng, hotel.lat], [hotel.lng, hotel.lat]);
       stops.forEach((s) => b.extend([s.lng, s.lat]));
       map.fitBounds(b, { padding: { top: 70, bottom: 70, left: 70, right: 70 }, duration: 600, maxZoom: 15 });
     }
     // O hotel muda a linha só quando o roteiro é recalculado.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [ready, stops]);
+  }, [ready, styleVersion, stops]);
 
   return <div ref={container} className="map" role="application" aria-label="Mapa dos lugares" />;
 }

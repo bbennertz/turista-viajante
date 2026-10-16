@@ -35,3 +35,13 @@ def test_budget_exceeded_stops_the_batch_but_keeps_progress(tmp_path):
     with pytest.raises(BudgetExceeded):
         fetch_all(FakeClient(budget=2), CANDS, tmp_path)
     assert len(list((tmp_path / "details").glob("*.json"))) == 2
+
+
+def test_google_field_masks_never_request_review_authors_or_unused_fields():
+    from pipeline.places import DETAILS_MASK, SEARCH_MASK
+
+    fields = DETAILS_MASK.split(",")
+    assert "reviews" not in fields  # o campo inteiro traria nome, foto e perfil do autor
+    assert not any("author" in f.lower() for f in fields)
+    assert {"reviews.rating", "reviews.text"} <= set(fields)
+    assert "places.formattedAddress" not in SEARCH_MASK.split(",")

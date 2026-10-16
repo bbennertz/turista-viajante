@@ -51,6 +51,10 @@ menor subconjunto em conflito por remoção. Horário não convexo entra como do
 (decomposição lógica de Benders, 3 estágios), `scoring.py` (estilos/score/pool top-K), `api/itinerary.py`. Não reintroduza
 estilos, score, pool ou restaurantes na v1 sem o usuário pedir (decisão dele; "Como um local" está em `DISABLED_PRESETS`).
 
+## Material de divulgação
+
+`docs/` guarda a imagem da formulação (HTML + PNG; comando de renderização em `docs/README.md`).
+
 ## Armadilhas
 
 - **Unidades:** minutos desde 00:00; no solver `weekday` 0 = segunda, mas o Google numera 0 = domingo (convertido em
@@ -63,6 +67,13 @@ estilos, score, pool ou restaurantes na v1 sem o usuário pedir (decisão dele; 
   esconde os lugares novos em vez de quebrar. Depois de `merge`, refaça as matrizes.
 - **A API não pode importar langgraph/langchain** (a imagem Docker não os instala; há teste). Configuração de cidade
   usada pela API fica em `pipeline/city.py`, não em `agent.py`.
+- **Tema e mapa-base:** `web/src/theme.ts` (claro/escuro, escolha guardada em `localStorage`, senão segue o sistema); as cores
+  vêm de variáveis CSS (`--accent`, `--sun`, `--map-*`) e o mapa as lê ao recriar as camadas. O mapa-base é o vetorial do
+  OpenFreeMap (`positron`/`dark`, sem chave); os tiles raster da CARTO passaram a exigir chave. Ao trocar de estilo
+  (`setStyle`) as camadas somem e são recriadas no evento `style.load`.
+- **Google Places:** peça só os campos usados. Em `reviews` use `reviews.rating`/`reviews.text` (o campo inteiro traz nome,
+  foto e perfil dos autores); há teste. `places.json` nunca leva o campo `evidence` (trechos de reviews).
+- **Não commite dados brutos:** `details/`, `classified/`, `candidates.json` e respostas cruas da API ficam fora do Git.
 - **MapLibre 6 no Vite:** o worker precisa de `import ...maplibre-gl-worker.mjs?worker&url` + `setWorkerUrl`; sem isso
   os pontos e a linha do roteiro (fontes GeoJSON) nunca aparecem, só os tiles.
 - **Groq grátis:** 200 mil tokens/dia por modelo; o prompt usa `CONTRACT` compacto (não o JSON Schema) para caber.

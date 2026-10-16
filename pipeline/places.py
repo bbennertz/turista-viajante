@@ -27,7 +27,6 @@ SEARCH_MASK = ",".join(
     [
         "places.id",
         "places.displayName",
-        "places.formattedAddress",
         "places.location",
         "places.types",
         "places.primaryType",
@@ -39,18 +38,18 @@ SEARCH_MASK = ",".join(
         "nextPageToken",
     ]
 )
+# Só o que o código lê. De cada review pedimos apenas nota e texto: `reviews` inteiro traria também o
+# nome, a foto e o perfil de cada autor (dados pessoais que o projeto não usa). rating/userRatingCount/types
+# já vêm da busca.
 DETAILS_MASK = ",".join(
     [
         "id",
         "displayName",
-        "rating",
-        "userRatingCount",
         "priceLevel",
         "regularOpeningHours",
         "editorialSummary",
-        "reviews",
-        "types",
-        "primaryType",
+        "reviews.rating",
+        "reviews.text",
     ]
 )
 
