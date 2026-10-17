@@ -5971,6 +5971,3553 @@
   }
  },
  {
+  "id": "ChIJL3O5xlUayUwRBXKjtaRvRLU",
+  "name": "Tyrolienne MTL Zipline",
+  "lat": 45.5091757,
+  "lng": -73.55010709999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "tourist_attraction",
+  "rating": 4.6,
+  "n_reviews": 1368,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJN5XpkAscyUwRMzBA8xQI2Gk",
+  "name": "Olympic Park Esplanade",
+  "lat": 45.555864199999995,
+  "lng": -73.5524026,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "tourist_attraction",
+  "rating": 4.4,
+  "n_reviews": 736,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.8,
+   "gastronomy": 0.4,
+   "culture": 0.6,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJW7Yg-QocyUwRz9D3Is02NQ4",
+  "name": "Montreal Olympic Park",
+  "lat": 45.5565024,
+  "lng": -73.55121849999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "stadium",
+  "rating": 4.5,
+  "n_reviews": 16364,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.6,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJj7oy8F0ayUwR8gF5qXMJ3qk",
+  "name": "Planetarium",
+  "lat": 45.560736999999996,
+  "lng": -73.5504345,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "planetarium",
+  "rating": 4.3,
+  "n_reviews": 1730,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1035
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1035
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1035
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1245
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1245
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1245
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJW7Yg-QocyUwRVJVGPJ7N4qw",
+  "name": "Centre Sportif Du Parc Olympique",
+  "lat": 45.5596793,
+  "lng": -73.551613,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "sports_complex",
+  "rating": 4.4,
+  "n_reviews": 561,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJW7Yg-QocyUwRaZ6xhdFX5Co",
+  "name": "Olympic Stadium",
+  "lat": 45.5577438,
+  "lng": -73.5515478,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "stadium",
+  "rating": 4.4,
+  "n_reviews": 6622,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.2,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJA4fgwY8byUwRzyEnC8Gzy8I",
+  "name": "Parc Hochelaga",
+  "lat": 45.542014599999995,
+  "lng": -73.5443882,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.2,
+  "n_reviews": 275,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJp16gWxscyUwRzab5NRkZCVE",
+  "name": "Maisonneuve Park",
+  "lat": 45.561201,
+  "lng": -73.55485019999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 4526,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJjQqSQAocyUwRqrQv_9GpyqI",
+  "name": "Château Dufresne",
+  "lat": 45.5538867,
+  "lng": -73.55397119999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "museum",
+  "rating": 4.3,
+  "n_reviews": 575,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     570,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     570,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJXxrB23YcyUwR6a5Dw7M9g04",
+  "name": "Maisonneuve Market",
+  "lat": 45.5539746,
+  "lng": -73.5390458,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "farmers_market",
+  "rating": 4.4,
+  "n_reviews": 2437,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.7,
+   "culture": 0.4,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ18CmvosbyUwRGBqsvtOanKU",
+  "name": "Lalancette Park",
+  "lat": 45.5481158,
+  "lng": -73.5484006,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 813,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJM1xA5HgcyUwRjhh8IiX73hE",
+  "name": "Morgan Park",
+  "lat": 45.5513719,
+  "lng": -73.53275479999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 945,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJxWG3o8wdyUwRdD_QKww7yFg",
+  "name": "Vaisseau-d'Or Park",
+  "lat": 45.5890348,
+  "lng": -73.5352207,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 266,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.7,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ-YPIh5IbyUwRnCzjr33212s",
+  "name": "Raymond-Préfontaine Park",
+  "lat": 45.541661,
+  "lng": -73.55264319999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.1,
+  "n_reviews": 705,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJq0vNMnEcyUwR6vs_uZFIJ5E",
+  "name": "Ovila-Pelletier Park",
+  "lat": 45.554786299999996,
+  "lng": -73.5391278,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 170,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJofWkHkAcyUwRP2eFe-kJOo4",
+  "name": "Complexe Le 5600 | Espace à louer | Bureau à louer | Espace commercial à louer",
+  "lat": 45.567938999999996,
+  "lng": -73.5375081,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "amusement_center",
+  "rating": 4.3,
+  "n_reviews": 138,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     480,
+     960
+    ]
+   ],
+   "1": [
+    [
+     480,
+     960
+    ]
+   ],
+   "2": [
+    [
+     480,
+     960
+    ]
+   ],
+   "3": [
+    [
+     480,
+     960
+    ]
+   ],
+   "4": [
+    [
+     480,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.3,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJB3Yhha8dyUwRfzGxYrFTFuk",
+  "name": "Honoré Mercier Park",
+  "lat": 45.5937136,
+  "lng": -73.50952199999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 406,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJKbTvTxEdyUwRwi9hhNonOk4",
+  "name": "Vans Skatepark",
+  "lat": 45.5562508,
+  "lng": -73.55315,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "skateboard_park",
+  "rating": 4.7,
+  "n_reviews": 125,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJua6aOHgayUwR3JB44fRSrxw",
+  "name": "Marché Atwater",
+  "lat": 45.479520199999996,
+  "lng": -73.5769653,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "farmers_market",
+  "rating": 4.6,
+  "n_reviews": 12798,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.7,
+   "culture": 0.4,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJjx4FOvAZyUwRDaRsKbx6Hqs",
+  "name": "Jean-Brillant Neighbourhood Market",
+  "lat": 45.496345,
+  "lng": -73.6217323,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "farmers_market",
+  "rating": 4.5,
+  "n_reviews": 812,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJE82A-gUbyUwR_xPBj8XK4ZE",
+  "name": "Le Beau Marché",
+  "lat": 45.501992900000005,
+  "lng": -73.5586934,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "grocery_store",
+  "rating": 4.8,
+  "n_reviews": 281,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     510,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     450,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     510,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.7,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ4cOO1_UayUwRId7fTpGRbi0",
+  "name": "Marché des Éclusiers",
+  "lat": 45.498553199999996,
+  "lng": -73.55210699999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "restaurant",
+  "rating": 3.9,
+  "n_reviews": 1647,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     900,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     900,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     900,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "mixed",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.4,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJG-pc3LQbyUwRMotiYxuqdh8",
+  "name": "Epicerie Le Detour",
+  "lat": 45.4809893,
+  "lng": -73.5517594,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "grocery_store",
+  "rating": 4.8,
+  "n_reviews": 104,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.9,
+   "touristy": 0.1,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ3ygSJV8ayUwRF-H_OBxG5sE",
+  "name": "Dispensa Italian Grocery",
+  "lat": 45.498743399999995,
+  "lng": -73.5572091,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "grocery_store",
+  "rating": 4.8,
+  "n_reviews": 809,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     450,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ5Wb2mVYayUwRSCc50b1nKNs",
+  "name": "Marché Place Jacques-Cartier/ Cabane à Sucre",
+  "lat": 45.5080646,
+  "lng": -73.5535076,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "juice_shop",
+  "rating": 4.4,
+  "n_reviews": 80,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ8wXZXEMayUwRI_GvEEASNR4",
+  "name": "Artisans",
+  "lat": 45.5004506,
+  "lng": -73.5682945,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "restaurant",
+  "rating": 4.4,
+  "n_reviews": 421,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     450,
+     1110
+    ]
+   ],
+   "0": [
+    [
+     450,
+     1110
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1110
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1110
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1110
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1110
+    ]
+   ],
+   "5": [
+    [
+     450,
+     1110
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJgWuR9b0byUwRCKUXwcd510Y",
+  "name": "Solidaire Frontenac Market",
+  "lat": 45.5330413,
+  "lng": -73.5521368,
+  "region": "Quartier Latin e Village",
+  "primary_type": "farmers_market",
+  "rating": 4.6,
+  "n_reviews": 36,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 45,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.7,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJhTvfxc2_yUwRQ2QaQ09OFe8",
+  "name": "Marché Saint Laurent, Montréal",
+  "lat": 45.5050585,
+  "lng": -73.5569257,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "coffee_shop",
+  "rating": 4.7,
+  "n_reviews": 364,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJLQwPEhMZyUwR9ovZjPXRiTQ",
+  "name": "Birri",
+  "lat": 45.5355819,
+  "lng": -73.61561139999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "farmers_market",
+  "rating": 4.7,
+  "n_reviews": 65,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ-_-vfsAbyUwREHL9iidZSho",
+  "name": "Marché K",
+  "lat": 45.5170283,
+  "lng": -73.5671934,
+  "region": "Quartier Latin e Village",
+  "primary_type": "grocery_store",
+  "rating": 4.2,
+  "n_reviews": 258,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "mercado_feira",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJw_dQy1UayUwRfunVUG4af44",
+  "name": "Around Maple",
+  "lat": 45.5094156,
+  "lng": -73.55136759999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "grocery_store",
+  "rating": 4.3,
+  "n_reviews": 100,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJWZJIGDsbyUwRvowSZfOkFew",
+  "name": "Griffintown St. Ann's Park",
+  "lat": 45.4914291,
+  "lng": -73.5595945,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 29,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.1,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.5,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJUaUQuMMfyUwRQDtYldGt5h8",
+  "name": "Ruisseau-De Montigny Nature Park",
+  "lat": 45.622175,
+  "lng": -73.6074526,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 525,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ77LiZD8byUwRKyrYVE-FW9Y",
+  "name": "Parc Pointe-des-Seigneurs",
+  "lat": 45.486148199999995,
+  "lng": -73.56613759999999,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "park",
+  "rating": 4.1,
+  "n_reviews": 66,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.5,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJi2aLHV0fyUwRTbWV5jl26Ts",
+  "name": "Visitation Island Nature Park",
+  "lat": 45.578725899999995,
+  "lng": -73.65747979999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 3737,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ7ZM752IayUwRvYUYmeCSpa0",
+  "name": "Des Bassins Place | Lachine Canal National Historic Site",
+  "lat": 45.487570999999996,
+  "lng": -73.5631775,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 406,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJrZn6VxUQyUwRVOB6xL6rmXA",
+  "name": "Domaine Saint-Paul",
+  "lat": 45.45671910000001,
+  "lng": -73.5523229,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 139,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJJwUoasQiyUwRk1XalNWEwGc",
+  "name": "Parc-nature du Bois-de-Saraguay",
+  "lat": 45.5153932,
+  "lng": -73.7397733,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 393,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ-xGVGDgQyUwRMdQ8afACmOE",
+  "name": "Maynard-Ferguson Park",
+  "lat": 45.447225499999995,
+  "lng": -73.5582589,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 302,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJi6UyAYwZyUwRiorQm5xuHvM",
+  "name": "Tiohtià:ke Otsira'kéhne Park",
+  "lat": 45.5069277,
+  "lng": -73.61019689999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.8,
+  "n_reviews": 63,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJpZSgxWYWyUwRqu5bpkndNgw",
+  "name": "Stoney Point Park",
+  "lat": 45.4361869,
+  "lng": -73.7067589,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 539,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJV0S5MvQayUwRb-6TZ7OK1rc",
+  "name": "Lachine Canal National Historic Site",
+  "lat": 45.4943138,
+  "lng": -73.5522147,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "historical_landmark",
+  "rating": 4.5,
+  "n_reviews": 946,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.7,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ-cu7vHEiyUwRHVvFnvhSq6w",
+  "name": "Perry Island Park",
+  "lat": 45.5476637,
+  "lng": -73.6976632,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 183,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJIw5k4PsayUwRdW_Q-ZvwtMs",
+  "name": "Parc de Dieppe",
+  "lat": 45.50439840000001,
+  "lng": -73.5433486,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 821,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJh1rM48UfyUwRt2lVSkAdjL8",
+  "name": "Visitation Island Park",
+  "lat": 45.578826299999996,
+  "lng": -73.65738130000001,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 50,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.3,
+   "culture": 0.4,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJJxhJe4AayUwRjzcEQ4VWG0c",
+  "name": "St. Gabriel Park",
+  "lat": 45.4778471,
+  "lng": -73.5664089,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 134,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJl9xdi9Y8yUwR2N4_lnARqNM",
+  "name": "Bois-de-Liesse Nature Park",
+  "lat": 45.506366199999995,
+  "lng": -73.7635482,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 2482,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJrcyscDYayUwRRLro2ghS1bs",
+  "name": "MAI",
+  "lat": 45.5114729,
+  "lng": -73.5762883,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "cultural_center",
+  "rating": 4.6,
+  "n_reviews": 173,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     720,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ2Xj8rJQbyUwRo8GooAbZ25s",
+  "name": "Maison des Arts Participatifs",
+  "lat": 45.5271091,
+  "lng": -73.56938339999999,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 28,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     840,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     840,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     840,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     840,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     840,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ94jvCswbyUwRtWt5VAytRUA",
+  "name": "Livart | Centre d'art Montréal",
+  "lat": 45.520283899999995,
+  "lng": -73.5752006,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": null,
+  "rating": 4.5,
+  "n_reviews": 175,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJJSCQGXwZyUwRUoU4V761srk",
+  "name": "Galerie Simon Blais",
+  "lat": 45.5251593,
+  "lng": -73.5978489,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "art_gallery",
+  "rating": 4.7,
+  "n_reviews": 72,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJr_msrtEbyUwR3xef3NintJg",
+  "name": "Maison de la culture du Plateau-Mont-Royal",
+  "lat": 45.5249192,
+  "lng": -73.582589,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "cultural_center",
+  "rating": 4.6,
+  "n_reviews": 25,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     780,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.5,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJI74r2UwayUwRD6puQ8VocFk",
+  "name": "DAZIBAO",
+  "lat": 45.527535,
+  "lng": -73.59643,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "art_gallery",
+  "rating": 4.8,
+  "n_reviews": 20,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     720,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     720,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
   "id": "ChIJo8VGFV8ayUwRd3Nv-izcsIc",
   "name": "Fonderie Darling",
   "lat": 45.4976245,
@@ -6025,6 +9572,7978 @@
    "culture": 0.8,
    "nature": 0.0,
    "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJeTJpdIAZyUwRrjjgA6ihgEk",
+  "name": "Chez Leveque",
+  "lat": 45.518219800000004,
+  "lng": -73.59670059999999,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "french_restaurant",
+  "rating": 4.3,
+  "n_reviews": 700,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "mixed",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJj6goPXgZyUwRLBr2IgAtpCI",
+  "name": "Lester's Deli",
+  "lat": 45.52215940000001,
+  "lng": -73.6070932,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "deli",
+  "rating": 4.5,
+  "n_reviews": 1513,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ4W_gcgAZyUwR4uV0qgE4P8E",
+  "name": "Fal & Fel",
+  "lat": 45.5207653,
+  "lng": -73.61431619999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.9,
+  "n_reviews": 383,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     600,
+     960
+    ]
+   ],
+   "2": [
+    [
+     630,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     630,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     630,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     600,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJzau9oS0ZyUwREur54uHrA-Q",
+  "name": "Caméléon",
+  "lat": 45.519886199999995,
+  "lng": -73.6091691,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.8,
+  "n_reviews": 108,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     630,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     630,
+     900
+    ],
+    [
+     1020,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJoYK-GnYZyUwRLdfmsIrFRWE",
+  "name": "Bloomfield",
+  "lat": 45.5228071,
+  "lng": -73.6131,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.4,
+  "n_reviews": 597,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     600,
+     900
+    ]
+   ],
+   "2": [
+    [
+     600,
+     900
+    ]
+   ],
+   "3": [
+    [
+     600,
+     900
+    ]
+   ],
+   "4": [
+    [
+     600,
+     900
+    ]
+   ],
+   "5": [
+    [
+     600,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ7TqLUAAZyUwRTwJcGGvAUqE",
+  "name": "Myers",
+  "lat": 45.5245622,
+  "lng": -73.6115362,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.9,
+  "n_reviews": 68,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     660,
+     900
+    ]
+   ],
+   "2": [
+    [
+     660,
+     900
+    ],
+    [
+     1080,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     660,
+     900
+    ],
+    [
+     1080,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     660,
+     900
+    ],
+    [
+     1080,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJg0ahNJ0ZyUwRpv0slKVfjXY",
+  "name": "Brasserie Bernard",
+  "lat": 45.520077,
+  "lng": -73.6089706,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.5,
+  "n_reviews": 1424,
+  "price_level": "PRICE_LEVEL_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     1020,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     1020,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.9,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJm_plcYAZyUwRqtzJFLqPyEM",
+  "name": "Leméac",
+  "lat": 45.5182988,
+  "lng": -73.59726409999999,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "french_restaurant",
+  "rating": 4.6,
+  "n_reviews": 2913,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     600,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     690,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     600,
+     900
+    ],
+    [
+     1020,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJjaC1sBsZyUwRvbawx1jAGRw",
+  "name": "Restaurant Canada Best",
+  "lat": 45.5254933,
+  "lng": -73.6275902,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.8,
+  "n_reviews": 734,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "0": [
+    [
+     660,
+     1290
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1290
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1290
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1290
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1290
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJJVU3zYIZyUwRG0x52UQkUCU",
+  "name": "Café Souvenir",
+  "lat": 45.5197481,
+  "lng": -73.6092489,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "breakfast_restaurant",
+  "rating": 4.2,
+  "n_reviews": 385,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     540,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "mixed",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJp1RBJIMZyUwRuJ8e6IOEth4",
+  "name": "Thammada",
+  "lat": 45.520519199999995,
+  "lng": -73.60873219999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "thai_restaurant",
+  "rating": 4.4,
+  "n_reviews": 846,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     1020,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     1020,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     1020,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     1020,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     1020,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     1020,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     1020,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJE9BCanYZyUwROrTeFhErxEs",
+  "name": "Provisions Steakhouse",
+  "lat": 45.5233448,
+  "lng": -73.61210790000001,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.6,
+  "n_reviews": 443,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJNVw9hX8ZyUwRbsz0S4Rg6eY",
+  "name": "Damas",
+  "lat": 45.522568199999995,
+  "lng": -73.61322539999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "restaurant",
+  "rating": 4.7,
+  "n_reviews": 4348,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     600,
+     840
+    ],
+    [
+     1050,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     600,
+     840
+    ],
+    [
+     1050,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.4,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJP5zXL4AZyUwRdK-XEC0X_9k",
+  "name": "La Croissanterie Figaro",
+  "lat": 45.5194444,
+  "lng": -73.5986111,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "french_restaurant",
+  "rating": 4.2,
+  "n_reviews": 1480,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.7,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQVyryHkZyUwR8y1cPTISoOs",
+  "name": "HELM - Microbrasserie sur Bernard",
+  "lat": 45.524085299999996,
+  "lng": -73.6054267,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "brewpub",
+  "rating": 4.7,
+  "n_reviews": 4350,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     0,
+     180
+    ],
+    [
+     900,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     0,
+     60
+    ],
+    [
+     900,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     60
+    ],
+    [
+     900,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     60
+    ],
+    [
+     900,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     60
+    ],
+    [
+     900,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     180
+    ],
+    [
+     900,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     180
+    ],
+    [
+     900,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.6,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ7xZnvtcbyUwRzbFMFPBTPpM",
+  "name": "Il Pagliaccio",
+  "lat": 45.5193346,
+  "lng": -73.59633649999999,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "italian_restaurant",
+  "rating": 4.6,
+  "n_reviews": 200,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "1": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     1050,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     720,
+     870
+    ],
+    [
+     1050,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     720,
+     870
+    ],
+    [
+     1050,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     1050,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJA3_geaYQyUwRcp3stExyNmE",
+  "name": "La Cucina Di Tony",
+  "lat": 45.4776066,
+  "lng": -73.6046188,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "meal_takeaway",
+  "rating": 5,
+  "n_reviews": 26,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "0": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     540,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJF47_p1cayUwR1uC4VBovwI0",
+  "name": "Modavie",
+  "lat": 45.505464499999995,
+  "lng": -73.553962,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "french_restaurant",
+  "rating": 4.5,
+  "n_reviews": 8357,
+  "price_level": "PRICE_LEVEL_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     600,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     690,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     690,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     690,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.5,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJUx2e5HgZyUwRMUQfykhMgyg",
+  "name": "Barcola Bistro Audio - Italian Restaurant - Tasting Menu - Listening bar",
+  "lat": 45.5227766,
+  "lng": -73.602948,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "italian_restaurant",
+  "rating": 4.7,
+  "n_reviews": 272,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "2": [
+    [
+     1080,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     1080,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     1080,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     1080,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJi5muTFQayUwRNUBN7m-Nuo8",
+  "name": "Notre-Dame-de-Bon-Secours Chapel",
+  "lat": 45.509788099999994,
+  "lng": -73.55106599999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 1927,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJh3c0W1gayUwRvbTMXABWmJ4",
+  "name": "Place de la Grande-Paix-de-Montréal",
+  "lat": 45.501986599999995,
+  "lng": -73.5548823,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "historical_landmark",
+  "rating": 4.5,
+  "n_reviews": 340,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.3,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJy-9EIVQayUwRWX-tWXeh2cI",
+  "name": "Château Ramezay - Musée et site historique de Montréal",
+  "lat": 45.508749099999996,
+  "lng": -73.5531273,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "history_museum",
+  "rating": 4.5,
+  "n_reviews": 1670,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJDYiwzyQbyUwRxRWXhgmN5uw",
+  "name": "Place Royale",
+  "lat": 45.503383299999996,
+  "lng": -73.5546404,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "historical_landmark",
+  "rating": 4.6,
+  "n_reviews": 24,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ3XoYc1cayUwRZYiI1MdtZfw",
+  "name": "Cours Le Royer",
+  "lat": 45.505011499999995,
+  "lng": -73.554861,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "historical_landmark",
+  "rating": 4.7,
+  "n_reviews": 24,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJpVn8h1YayUwR7qA4GYdAphM",
+  "name": "Jardin Nelson",
+  "lat": 45.5079223,
+  "lng": -73.55265589999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "restaurant",
+  "rating": 4.4,
+  "n_reviews": 4225,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     690,
+     1260
+    ]
+   ],
+   "0": [
+    [
+     690,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     690,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     690,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     690,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJFZfK_lgayUwRedvZcBKwZQo",
+  "name": "BARROCO",
+  "lat": 45.501404099999995,
+  "lng": -73.5559468,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "french_restaurant",
+  "rating": 4.6,
+  "n_reviews": 1500,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     1020,
+     1350
+    ]
+   ],
+   "0": [
+    [
+     1020,
+     1350
+    ]
+   ],
+   "1": [
+    [
+     1020,
+     1350
+    ]
+   ],
+   "2": [
+    [
+     1020,
+     1350
+    ]
+   ],
+   "3": [
+    [
+     1020,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     1020,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     1020,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJs8CdvoIayUwRZWE2m8fUO5U",
+  "name": "Maison Saint-Gabriel",
+  "lat": 45.4759317,
+  "lng": -73.5559519,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "museum",
+  "rating": 4.7,
+  "n_reviews": 442,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJo7vqI1kayUwRXJhTv4KFuUU",
+  "name": "Holder",
+  "lat": 45.500484199999995,
+  "lng": -73.5574595,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "restaurant",
+  "rating": 4.5,
+  "n_reviews": 3119,
+  "price_level": "PRICE_LEVEL_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     1020,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     690,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     1020,
+     1350
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJewDxxFkayUwR2C3LVmMQGgY",
+  "name": "Restaurant Bonaparte",
+  "lat": 45.503330899999995,
+  "lng": -73.55614349999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "french_restaurant",
+  "rating": 4.6,
+  "n_reviews": 1735,
+  "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     1050,
+     1350
+    ]
+   ],
+   "0": [
+    [
+     1050,
+     1350
+    ]
+   ],
+   "1": [
+    [
+     1050,
+     1350
+    ]
+   ],
+   "2": [
+    [
+     690,
+     840
+    ],
+    [
+     1050,
+     1350
+    ]
+   ],
+   "3": [
+    [
+     690,
+     840
+    ],
+    [
+     1050,
+     1350
+    ]
+   ],
+   "4": [
+    [
+     690,
+     840
+    ],
+    [
+     1050,
+     1350
+    ]
+   ],
+   "5": [
+    [
+     1050,
+     1350
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.9,
+   "culture": 0.6,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJS38dKYQZyUwRv9IhTuYiKkI",
+  "name": "Réseau-Vert Linear Park",
+  "lat": 45.528858899999996,
+  "lng": -73.60055969999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 88,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.6,
+   "nature": 0.7,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJsWf9A80byUwRNzprofdx8Pk",
+  "name": "Açores Park",
+  "lat": 45.519332,
+  "lng": -73.5796077,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 59,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.2,
+   "gastronomy": 0.1,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJeVALXHsZyUwRmVd4Y_vLk5k",
+  "name": "Le Champ des possibles",
+  "lat": 45.5286439,
+  "lng": -73.59753549999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 159,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.4,
+   "nature": 0.7,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJa6oTfMYZyUwRE6QmghkJgB4",
+  "name": "Réseau des fermiers·ères de famille / Family farmers Network",
+  "lat": 45.5268258,
+  "lng": -73.5800083,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "farm",
+  "rating": 5,
+  "n_reviews": 409,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     960
+    ]
+   ],
+   "1": [
+    [
+     540,
+     960
+    ]
+   ],
+   "2": [
+    [
+     540,
+     960
+    ]
+   ],
+   "3": [
+    [
+     540,
+     960
+    ]
+   ],
+   "4": [
+    [
+     540,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.7,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJEeCih-obyUwR9XiTwJUYSFA",
+  "name": "Parc Baldwin",
+  "lat": 45.537104899999996,
+  "lng": -73.56777,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 1599,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJzWTII9EYyUwRRQGCXf6AUpw",
+  "name": "Saint-Sulpice community garden",
+  "lat": 45.5567905,
+  "lng": -73.63534969999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "garden",
+  "rating": 4.8,
+  "n_reviews": 36,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1230
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJWfRR-NEZyUwRXryTz2ZNb7w",
+  "name": "Parc de la Savane",
+  "lat": 45.4982762,
+  "lng": -73.65409799999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 132,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJbx2HKYQYyUwRABUMG4Zn-_4",
+  "name": "Jardin communautaire Marcelin-Wilson",
+  "lat": 45.53729,
+  "lng": -73.6827015,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "garden",
+  "rating": 4.5,
+  "n_reviews": 35,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1230
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1230
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.7,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJf6xqk2cbyUwRNIm85VahOoA",
+  "name": "Rosemont community garden",
+  "lat": 45.5656007,
+  "lng": -73.5691339,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "garden",
+  "rating": 4.5,
+  "n_reviews": 22,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJYxvO6hoZyUwRM8edPElZSEk",
+  "name": "Parc Jarry",
+  "lat": 45.535498399999994,
+  "lng": -73.62863449999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 8379,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     300,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     300,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     300,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     300,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     300,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     300,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     300,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJPw2U-74byUwRsx2sHntGQok",
+  "name": "Chat Des Artistes",
+  "lat": 45.5307604,
+  "lng": -73.558551,
+  "region": "Quartier Latin e Village",
+  "primary_type": "art_studio",
+  "rating": 4.6,
+  "n_reviews": 39,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJvfIbX6sbyUwR5K38Q8aqd_s",
+  "name": "L’Original galerie d'Art - studios de peinture d'artistes et salle d'événement pour location",
+  "lat": 45.523851,
+  "lng": -73.5821553,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "art_gallery",
+  "rating": 4.8,
+  "n_reviews": 131,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1110
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJd8TnWrwdyUwR_cD6VG5szyY",
+  "name": "Libellule en LIBERTÉ",
+  "lat": 45.57893610000001,
+  "lng": -73.5336057,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": null,
+  "rating": 5,
+  "n_reviews": 26,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.1,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJZZOsP5gbyUwR5xIfrtrhMaM",
+  "name": "Galerie d'art L’Original - Le street art des artistes des murales",
+  "lat": 45.503363,
+  "lng": -73.555013,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "art_gallery",
+  "rating": 4.9,
+  "n_reviews": 367,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "0": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1110
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1290
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.6,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJdVsSRWMayUwRVbMOZeSmF6c",
+  "name": "Montreal Art Center and Museum",
+  "lat": 45.4869734,
+  "lng": -73.56719439999999,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": null,
+  "rating": 4.3,
+  "n_reviews": 171,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     960
+    ]
+   ],
+   "0": [
+    [
+     600,
+     960
+    ]
+   ],
+   "1": [
+    [
+     600,
+     960
+    ]
+   ],
+   "2": [
+    [
+     600,
+     960
+    ]
+   ],
+   "3": [
+    [
+     600,
+     960
+    ]
+   ],
+   "4": [
+    [
+     600,
+     960
+    ]
+   ],
+   "5": [
+    [
+     600,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJm5N2JGQbyUwRWQSw_Zs1C2Y",
+  "name": "Montreal Chinatown",
+  "lat": 45.5076928,
+  "lng": -73.5601406,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "tourist_attraction",
+  "rating": 4.3,
+  "n_reviews": 1184,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.4,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJzRX8UVcayUwR2ieutAYTffU",
+  "name": "Place d’Armes",
+  "lat": 45.5048205,
+  "lng": -73.5572578,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "historical_landmark",
+  "rating": 4.7,
+  "n_reviews": 462,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.7,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJh-D2SFcayUwRr6g409ILZ8A",
+  "name": "Aldred Building",
+  "lat": 45.5052087,
+  "lng": -73.5567239,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "historical_landmark",
+  "rating": 4.4,
+  "n_reviews": 175,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.8,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJVRr2UVcayUwRYdEkBmklMJo",
+  "name": "Monument to Paul de Chomedey, Sieur de Maisonneuve",
+  "lat": 45.504792099999996,
+  "lng": -73.557243,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "tourist_attraction",
+  "rating": 4.6,
+  "n_reviews": 241,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 20,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.9,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJq9G7gmkbyUwRdkPIxdtjAso",
+  "name": "Marguerite Bourgeoys Park",
+  "lat": 45.4754279,
+  "lng": -73.5581547,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 102,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.6,
+   "nature": 0.7,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJmWt3WNMYyUwRfJKUFZxsrsA",
+  "name": "Frédéric Back Park",
+  "lat": 45.5603325,
+  "lng": -73.6166116,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 1399,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJTV4LPycXyUwRUb0aTUjTmHE",
+  "name": "Parc Maurice-Cullen",
+  "lat": 45.483472899999995,
+  "lng": -73.620054,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 35,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.1,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.7,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJsRIiiacRyUwR9xvJCxsu8ew",
+  "name": "Centre culturel et communautaire Henri-Lemieux",
+  "lat": 45.430704899999995,
+  "lng": -73.594208,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 106,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJqfA-hFYayUwR-LJr9ivOXzM",
+  "name": "Sacred Fire Productions Cultural space",
+  "lat": 45.498695,
+  "lng": -73.55408899999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "cultural_center",
+  "rating": 4.5,
+  "n_reviews": 84,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJJ1zNoHAayUwRKkkPetOXoEU",
+  "name": "CEDA",
+  "lat": 45.483702699999995,
+  "lng": -73.5769237,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "non_profit_organization",
+  "rating": 4.3,
+  "n_reviews": 190,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     510,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     510,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     510,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     510,
+     960
+    ]
+   ],
+   "4": [
+    [
+     510,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.2,
+   "gastronomy": 0.1,
+   "culture": 0.6,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ82vLo2oayUwRKHmwaGed-k8",
+  "name": "La Guilde",
+  "lat": 45.498976299999995,
+  "lng": -73.57909910000001,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "art_gallery",
+  "rating": 4.5,
+  "n_reviews": 78,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJZzeg5Dk8yUwR5d6yE_v9-fk",
+  "name": "Terra-Cotta Natural Park",
+  "lat": 45.4485191,
+  "lng": -73.80918989999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.7,
+  "n_reviews": 1000,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJWeR1Its6yUwRa0xzt7ciZaQ",
+  "name": "Bois-de-L'Île-Bizard Nature Park",
+  "lat": 45.515444699999996,
+  "lng": -73.8973769,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 1034,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 240,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJT9GjNBw6yUwR_pu4_FDm_aY",
+  "name": "Parc-nature du Cap-Saint-Jacques",
+  "lat": 45.4645516,
+  "lng": -73.93305230000001,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 2934,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJO9A1yXYiyUwRedCNfV-QnwU",
+  "name": "Mercy Park",
+  "lat": 45.546703900000004,
+  "lng": -73.6952455,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 1331,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJFUlSbCEeyUwRSWbSFxoodX0",
+  "name": "Bois-d'Anjou Nature Park",
+  "lat": 45.630358699999995,
+  "lng": -73.5680574,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 3.8,
+  "n_reviews": 34,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJuw-5UHUZyUwRQwuzT6LcGzY",
+  "name": "Wooded area of ​​Marcel-Laurin Park",
+  "lat": 45.5056629,
+  "lng": -73.70744499999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "hiking_area",
+  "rating": 4.7,
+  "n_reviews": 20,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJf5jRIlkPyUwRaDhYZgY6kiY",
+  "name": "Parc écologique des Sansonnets",
+  "lat": 45.4499448,
+  "lng": -73.4776833,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 22,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.9,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJFSXEgo85yUwRtwBLXH7qUzI",
+  "name": "Parc-nature de l’Anse-à-l’Orme",
+  "lat": 45.45394590000001,
+  "lng": -73.9360135,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 573,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJJcYEQ8M5yUwR2nlYhrvcce4",
+  "name": "Arboretum Morgan",
+  "lat": 45.4288131,
+  "lng": -73.941391,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "national_park",
+  "rating": 4.5,
+  "n_reviews": 1043,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     960
+    ]
+   ],
+   "0": [
+    [
+     540,
+     960
+    ]
+   ],
+   "1": [
+    [
+     540,
+     960
+    ]
+   ],
+   "2": [
+    [
+     540,
+     960
+    ]
+   ],
+   "3": [
+    [
+     540,
+     960
+    ]
+   ],
+   "4": [
+    [
+     540,
+     960
+    ]
+   ],
+   "5": [
+    [
+     540,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 8.0,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJTX_CQKEbyUwRwuWKANBx-ZE",
+  "name": "Toonie Tours Montreal | Free Walking Tours, Private Tours, & more",
+  "lat": 45.4994744,
+  "lng": -73.5710617,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": null,
+  "rating": 4.8,
+  "n_reviews": 975,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 180,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.9,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.7,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJZ71Lfk8ayUwRXOfSNy-U_mI",
+  "name": "MICA - Institut d’art contemporain de Montréal",
+  "lat": 45.5057016,
+  "lng": -73.5671492,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "art_museum",
+  "rating": 4.6,
+  "n_reviews": 30,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     690,
+     1050
+    ]
+   ],
+   "2": [
+    [
+     690,
+     1050
+    ]
+   ],
+   "3": [
+    [
+     690,
+     1050
+    ]
+   ],
+   "4": [
+    [
+     690,
+     1050
+    ]
+   ],
+   "5": [
+    [
+     720,
+     1050
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ27NFC0AayUwRD3rF3q2CZQc",
+  "name": "Sculpture Garden - Montreal Museum of Fine Arts",
+  "lat": 45.499147199999996,
+  "lng": -73.5807094,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "art_museum",
+  "rating": 4.5,
+  "n_reviews": 67,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.7,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJwya0fEcYyUwRZ3CcONM5DxA",
+  "name": "Musée des métiers d'art du Québec",
+  "lat": 45.5116504,
+  "lng": -73.6714875,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "museum",
+  "rating": 4.5,
+  "n_reviews": 196,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJww7b-lgayUwRtC5zc92V2E8",
+  "name": "MEM - Centre des mémoires montréalaises",
+  "lat": 45.509253799999996,
+  "lng": -73.56317229999999,
+  "region": "Quartier Latin e Village",
+  "primary_type": "museum",
+  "rating": 4.5,
+  "n_reviews": 727,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     660,
+     1170
+    ]
+   ],
+   "3": [
+    [
+     660,
+     1170
+    ]
+   ],
+   "4": [
+    [
+     660,
+     1170
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1170
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 60.0,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJewCbJ0cayUwRkk-dMZ99ir4",
+  "name": "Redpath Museum",
+  "lat": 45.504467999999996,
+  "lng": -73.5773825,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "museum",
+  "rating": 4.6,
+  "n_reviews": 2393,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     540,
+     990
+    ]
+   ],
+   "2": [
+    [
+     540,
+     990
+    ]
+   ],
+   "3": [
+    [
+     540,
+     990
+    ]
+   ],
+   "4": [
+    [
+     540,
+     990
+    ]
+   ],
+   "5": [
+    [
+     600,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJJQj9HLqzt0wRcwdN4Ew7aNE",
+  "name": "McCord Stewart Museum",
+  "lat": 45.5043088,
+  "lng": -73.5734556,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "museum",
+  "rating": 4.4,
+  "n_reviews": 3325,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": 35.0,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJq6qmK0AayUwRUVZYXaRVbZg",
+  "name": "Michal and Renata Hornstein Pavilion for Peace",
+  "lat": 45.4987025,
+  "lng": -73.58002499999999,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "art_museum",
+  "rating": 4.6,
+  "n_reviews": 36,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ0S1pxg0byUwR2eJBBYhi4xQ",
+  "name": "Jean-Noël Desmarais Pavilion",
+  "lat": 45.4987182,
+  "lng": -73.5793879,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "art_museum",
+  "rating": 4.8,
+  "n_reviews": 79,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ1VV96IwbyUwRZpuBX9Mk6AI",
+  "name": "Musée Imaginarium",
+  "lat": 45.491962699999995,
+  "lng": -73.56184790000002,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "museum",
+  "rating": 4.6,
+  "n_reviews": 327,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     720,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ2w6tokgayUwRptEBw0-I6CU",
+  "name": "Maude Abbott Medical Museum",
+  "lat": 45.5078203,
+  "lng": -73.5797044,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "museum",
+  "rating": 4.8,
+  "n_reviews": 42,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJZwaPAVkayUwRhaGVnvz1Boc",
+  "name": "PHI",
+  "lat": 45.5014114,
+  "lng": -73.5562573,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "art_museum",
+  "rating": 4.4,
+  "n_reviews": 646,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     660,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     660,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJHd_0lZ0byUwRL8mkGnkeHkg",
+  "name": "OASIS immersion",
+  "lat": 45.503834600000005,
+  "lng": -73.56049349999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "art_museum",
+  "rating": 4.2,
+  "n_reviews": 2144,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     570,
+     720
+    ],
+    [
+     820,
+     1180
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1160
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1180
+    ]
+   ],
+   "5": [
+    [
+     570,
+     720
+    ],
+    [
+     820,
+     1180
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": true,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.5,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJQ7PmE1kayUwRjqhmFl_FEq4",
+  "name": "Centre International De",
+  "lat": 45.5009492,
+  "lng": -73.5578649,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "cultural_center",
+  "rating": 4.9,
+  "n_reviews": 21,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1050
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1050
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.9,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ8YSF0LMbyUwRyRhIbjtkIdU",
+  "name": "Centre Communautaire de Loisirs Sainte-Catherine d’Alexandrie (CCLSCA)",
+  "lat": 45.5187463,
+  "lng": -73.5605769,
+  "region": "Quartier Latin e Village",
+  "primary_type": "sports_activity_location",
+  "rating": 4.3,
+  "n_reviews": 180,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     540,
+     720
+    ],
+    [
+     780,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJO6HdNOwQyUwRpYB59__1xms",
+  "name": "Maison de la culture Marie-Uguay",
+  "lat": 45.4576802,
+  "lng": -73.59540559999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 20,
+  "price_level": null,
+  "windows": {
+   "1": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.6,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.8,
+   "nature": 0.0,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJd3VveRUZyUwR-1aG3diRVbQ",
+  "name": "Maison de la culture Villeray - St-Michel - Parc Extension",
+  "lat": 45.5417451,
+  "lng": -73.6133189,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "cultural_center",
+  "rating": 4.7,
+  "n_reviews": 236,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     780,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     720,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     780,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.6,
+   "culture": 0.9,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJl484DkMQyUwRtCR1q2pAunM",
+  "name": "Dock 5160 - Verdun Cultural Centre",
+  "lat": 45.4536387,
+  "lng": -73.5650069,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "performing_arts_theater",
+  "rating": 4.7,
+  "n_reviews": 325,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     720
+    ],
+    [
+     750,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     780,
+     1020
+    ],
+    [
+     1050,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     780,
+     1020
+    ],
+    [
+     1050,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     780,
+     1020
+    ],
+    [
+     1050,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     780,
+     1020
+    ],
+    [
+     1050,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     600,
+     720
+    ],
+    [
+     750,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.9,
+   "nature": 0.6,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJu2E5Jo4byUwRZ268Y1qk4AA",
+  "name": "Hochelaga Community Center",
+  "lat": 45.5411408,
+  "lng": -73.5461734,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "community_center",
+  "rating": 4.4,
+  "n_reviews": 79,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "outro",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.5,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJwYUN-vIbyUwRZXcD168ykEw",
+  "name": "Boulangerie Les Bébés Manchots",
+  "lat": 45.4897142,
+  "lng": -73.5816413,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "bakery",
+  "rating": 4.7,
+  "n_reviews": 91,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJXVhJtioayUwRQ4As35i50PM",
+  "name": "Farine & Vanille",
+  "lat": 45.5189652,
+  "lng": -73.5946912,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "bakery",
+  "rating": 4.6,
+  "n_reviews": 329,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     480,
+     840
+    ]
+   ],
+   "0": [
+    [
+     480,
+     840
+    ]
+   ],
+   "1": [
+    [
+     480,
+     840
+    ]
+   ],
+   "2": [
+    [
+     480,
+     840
+    ]
+   ],
+   "3": [
+    [
+     480,
+     840
+    ]
+   ],
+   "4": [
+    [
+     480,
+     840
+    ]
+   ],
+   "5": [
+    [
+     480,
+     840
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJubahVwAbyUwR1HGg8n1_RCM",
+  "name": "Louise Boulangerie Artisanale",
+  "lat": 45.4812394,
+  "lng": -73.5645488,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "bakery",
+  "rating": 4.6,
+  "n_reviews": 169,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     450,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     450,
+     1080
+    ]
+   ],
+   "1": [
+    [
+     450,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     450,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     450,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     450,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     450,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJJYd8aVYbyUwRWEOeInIxA9g",
+  "name": "La Cave à Manger BOULANGERIE Vieux-Montréal",
+  "lat": 45.509489300000006,
+  "lng": -73.5513948,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 1373,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ-WNZy5ARyUwRlyJi-HeN0Gc",
+  "name": "Bernice 🇨🇦",
+  "lat": 45.4697465,
+  "lng": -73.59256049999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "bakery",
+  "rating": 4.8,
+  "n_reviews": 486,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "1": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJnYcnzXkZyUwRvqe92dWQeN0",
+  "name": "Boulangerie Cheskie",
+  "lat": 45.5239464,
+  "lng": -73.60513279999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "bakery",
+  "rating": 4.6,
+  "n_reviews": 1668,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJfVT8gMAyVUAR3ZF-GglEgys",
+  "name": "La Mie Matinale",
+  "lat": 45.5219382,
+  "lng": -73.5527287,
+  "region": "Quartier Latin e Village",
+  "primary_type": "bakery",
+  "rating": 4.6,
+  "n_reviews": 324,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     540,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     540,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "4": [
+    [
+     540,
+     1110
+    ]
+   ],
+   "5": [
+    [
+     540,
+     1110
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.7,
+   "touristy": 0.4,
+   "gastronomy": 0.8,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJSfP5v3kZyUwR8u_MhQHwhVg",
+  "name": "Boulangerie Capucine et Tournesol",
+  "lat": 45.52449980000001,
+  "lng": -73.6046262,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "bakery",
+  "rating": 4.9,
+  "n_reviews": 104,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJDabv4X0ZyUwRJrv2lBqRwuQ",
+  "name": "Guillaume",
+  "lat": 45.523504599999995,
+  "lng": -73.5942927,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 1847,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1140
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 20,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.3,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ35rXx2oayUwRZl0MvVl3-pc",
+  "name": "Plougastel",
+  "lat": 45.4969724,
+  "lng": -73.5818917,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "dessert_shop",
+  "rating": 4.6,
+  "n_reviews": 430,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     450,
+     960
+    ]
+   ],
+   "1": [
+    [
+     450,
+     960
+    ]
+   ],
+   "2": [
+    [
+     450,
+     960
+    ]
+   ],
+   "3": [
+    [
+     450,
+     960
+    ]
+   ],
+   "4": [
+    [
+     450,
+     960
+    ]
+   ],
+   "5": [
+    [
+     450,
+     960
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ7f_3CksXyUwRH0ImNszkudE",
+  "name": "La Meunerie Urbaine",
+  "lat": 45.4698127,
+  "lng": -73.62832089999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "bakery",
+  "rating": 4.7,
+  "n_reviews": 909,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJX8nyJGAayUwR_WwqG4I69BE",
+  "name": "La Bête à pain - Griffintown",
+  "lat": 45.493161,
+  "lng": -73.55850269999999,
+  "region": "Parc Jean-Drapeau e Griffintown",
+  "primary_type": "sandwich_shop",
+  "rating": 4.4,
+  "n_reviews": 1351,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1140
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.8,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJSVSTHloayUwRSQc3IAZaWO0",
+  "name": "Les Moulins La Fayette",
+  "lat": 45.5036189,
+  "lng": -73.55897139999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 384,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     540,
+     900
+    ]
+   ],
+   "0": [
+    [
+     480,
+     960
+    ]
+   ],
+   "1": [
+    [
+     480,
+     960
+    ]
+   ],
+   "2": [
+    [
+     480,
+     960
+    ]
+   ],
+   "3": [
+    [
+     480,
+     960
+    ]
+   ],
+   "4": [
+    [
+     480,
+     960
+    ]
+   ],
+   "5": [
+    [
+     540,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJx6lNc9MbyUwRL20W__KsRuI",
+  "name": "Hof Kelsten",
+  "lat": 45.5202665,
+  "lng": -73.5871044,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 939,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1020
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJdYu-JbcbyUwR9u1bCHdkMGs",
+  "name": "Boulangerie Pâtisserie La Cannoise",
+  "lat": 45.5223242,
+  "lng": -73.5618425,
+  "region": "Quartier Latin e Village",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 551,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     390,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     720,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     390,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     390,
+     1260
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.5,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJQVmL0QsZyUwRi5Hf1TGCW48",
+  "name": "Patisserie-Boulangerie Mimosa Bakery",
+  "lat": 45.526573899999995,
+  "lng": -73.62465999999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "bakery",
+  "rating": 4.8,
+  "n_reviews": 115,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "1": [
+    [
+     570,
+     900
+    ]
+   ],
+   "2": [
+    [
+     570,
+     900
+    ]
+   ],
+   "3": [
+    [
+     570,
+     900
+    ]
+   ],
+   "4": [
+    [
+     570,
+     900
+    ]
+   ],
+   "5": [
+    [
+     570,
+     900
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJQd_XgtEbyUwRhE5AXM08sQI",
+  "name": "Kouing Amann Bakery",
+  "lat": 45.5231238,
+  "lng": -73.5834671,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "pastry_shop",
+  "rating": 4.8,
+  "n_reviews": 2444,
+  "price_level": null,
+  "windows": {
+   "2": [
+    [
+     420,
+     900
+    ]
+   ],
+   "3": [
+    [
+     420,
+     900
+    ]
+   ],
+   "4": [
+    [
+     420,
+     900
+    ]
+   ],
+   "5": [
+    [
+     420,
+     990
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.6,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJlVWEt7UbyUwRkFtGBKtReFQ",
+  "name": "Carlota Boulangerie Mexicaine",
+  "lat": 45.520317,
+  "lng": -73.5908623,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "bakery",
+  "rating": 4.8,
+  "n_reviews": 497,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1080
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1080
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.9,
+   "culture": 0.2,
+   "nature": 0.0,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJWai8yuQYyUwRP3VWNOIZROo",
+  "name": "Old Country Bakery",
+  "lat": 45.5367537,
+  "lng": -73.6476045,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "bakery",
+  "rating": 4.6,
+  "n_reviews": 162,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "6": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1200
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 20,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJLa8WCQAbyUwRFHhtomd56c0",
+  "name": "Pâtisserie Bon Bon",
+  "lat": 45.508004799999995,
+  "lng": -73.56519039999999,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "bakery",
+  "rating": 4.5,
+  "n_reviews": 58,
+  "price_level": "PRICE_LEVEL_INEXPENSIVE",
+  "windows": {
+   "6": [
+    [
+     600,
+     1200
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1200
+    ]
+   ]
+  },
+  "features": {
+   "category": "cafe_padaria",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 15,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.9,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.2,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJXVEwYqMdyUwRk0ravyLLQeY",
+  "name": "Shade Garden",
+  "lat": 45.561739100000004,
+  "lng": -73.5618487,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "botanical_garden",
+  "rating": 4.5,
+  "n_reviews": 24,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.5,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJH_eC1s0byUwRX44ohrIT63c",
+  "name": "Terrasse Ciel Rose",
+  "lat": 45.514948100000005,
+  "lng": -73.5745846,
+  "region": "Quartier Latin e Village",
+  "primary_type": "restaurant",
+  "rating": 4.1,
+  "n_reviews": 511,
+  "price_level": "PRICE_LEVEL_MODERATE",
+  "windows": {
+   "2": [
+    [
+     1020,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     1020,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     1020,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     1020,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.3,
+   "touristy": 0.6,
+   "gastronomy": 0.7,
+   "culture": 0.1,
+   "nature": 0.0,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJv6cWWacQyUwRtC9soeasXTI",
+  "name": "Westmount Conservatory and Greenhouses",
+  "lat": 45.481254299999996,
+  "lng": -73.59953569999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "food",
+  "rating": 4.6,
+  "n_reviews": 162,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     600,
+     1020
+    ]
+   ],
+   "0": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "1": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "2": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "3": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "4": [
+    [
+     600,
+     1260
+    ]
+   ],
+   "5": [
+    [
+     600,
+     1020
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "mixed",
+   "authenticity": 0.8,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.5,
+   "nature": 0.7,
+   "landmark": 0.6,
+   "confidence": "alta"
+  }
+ },
+ {
+  "id": "ChIJ2Rtti1YayUwRhgdfCln5q84",
+  "name": "Terrasse Perché",
+  "lat": 45.5074319,
+  "lng": -73.5531458,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "restaurant",
+  "rating": 4.6,
+  "n_reviews": 2932,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     630,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     960,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     960,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     960,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     960,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     960,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     630,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "restaurante",
+   "is_dining": true,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 90,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.7,
+   "gastronomy": 0.8,
+   "culture": 0.3,
+   "nature": 0.9,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJx9JSiP0byUwRLiTtJOa-HpM",
+  "name": "Place Jacques-Cartier",
+  "lat": 45.50786360000001,
+  "lng": -73.5530105,
+  "region": "Vieux-Montréal e Vieux-Port",
+  "primary_type": "historical_landmark",
+  "rating": 4.7,
+  "n_reviews": 162,
+  "price_level": null,
+  "windows": null,
+  "features": {
+   "category": "marco_arquitetonico",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.8,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.9,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJr27reAUZyUwRylojqEh_Ws8",
+  "name": "Musée romeo's",
+  "lat": 45.5269824,
+  "lng": -73.5954089,
+  "region": "Plateau Mont-Royal e Mile End",
+  "primary_type": "art_museum",
+  "rating": 4.5,
+  "n_reviews": 75,
+  "price_level": null,
+  "windows": {
+   "0": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     0,
+     1440
+    ]
+   ],
+   "6": [
+    [
+     0,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "museu_galeria",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 30,
+   "setting": "indoor",
+   "authenticity": 0.8,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.7,
+   "nature": 0.0,
+   "landmark": 0.5,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJT3QEJXIRyUwReWfaRw_9xew",
+  "name": "Riverside Park",
+  "lat": 45.4209898,
+  "lng": -73.6116764,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 473,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     420,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     420,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJtQwPGzkcyUwRDFoWkdR-XkA",
+  "name": "Jean-Amyot Park",
+  "lat": 45.575841000000004,
+  "lng": -73.539627,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.2,
+  "n_reviews": 415,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.6,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJw7Ixw0IcyUwRXuEHkIO8C7g",
+  "name": "Rougemont Park",
+  "lat": 45.569542999999996,
+  "lng": -73.527689,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 130,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.7,
+   "touristy": 0.2,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJjwuM1PQQyUwRuv6tAfIx8WU",
+  "name": "Verendrye Park",
+  "lat": 45.458901,
+  "lng": -73.58156079999999,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 388,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.4,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.6,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJt6BIJsAZyUwRo6sZg2ybJWc",
+  "name": "Martin-Luther-King Park",
+  "lat": 45.502259599999995,
+  "lng": -73.63301659999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.5,
+  "n_reviews": 975,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "passeio_atividade",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJi9N69zoXyUwRF6X0Aj4yzRs",
+  "name": "Loyola Park",
+  "lat": 45.4608841,
+  "lng": -73.6458944,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "city_park",
+  "rating": 4.4,
+  "n_reviews": 549,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 120,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.9,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJNTmfj28ayUwRRyRSOo992xI",
+  "name": "Oscar Peterson Park",
+  "lat": 45.489095899999995,
+  "lng": -73.5743206,
+  "region": "Centre-ville e Golden Square Mile",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 322,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1380
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1380
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJyViCe0YXyUwRdLy_1CnN8nU",
+  "name": "Confederation Park",
+  "lat": 45.4723525,
+  "lng": -73.6394522,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 340,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.5,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJH20vSDMXyUwRktegT56LBio",
+  "name": "Parc Trenholme",
+  "lat": 45.460918,
+  "lng": -73.63231999999999,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 363,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.4,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.3,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ4aeZmZs8yUwRm3srhDNauKU",
+  "name": "Centennial Park",
+  "lat": 45.487293199999996,
+  "lng": -73.81884579999999,
+  "region": "Petite-Italie e Jean-Talon",
+  "primary_type": "park",
+  "rating": 4.6,
+  "n_reviews": 2277,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "0": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "1": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "2": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "3": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "4": [
+    [
+     480,
+     1320
+    ]
+   ],
+   "5": [
+    [
+     480,
+     1320
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.3,
+   "nature": 0.8,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJeU383LsQyUwRVEQJVdQVOEQ",
+  "name": "Parc Georges-Saint-Pierre",
+  "lat": 45.4685286,
+  "lng": -73.6080182,
+  "region": "Mont-Royal e Outremont",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 337,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.8,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.1,
+   "nature": 0.8,
+   "landmark": 0.2,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJ29jopSgcyUwRsbSifjUO8Jc",
+  "name": "Parc Louis-Riel",
+  "lat": 45.5815573,
+  "lng": -73.5545483,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.3,
+  "n_reviews": 616,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.5,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.4,
+   "confidence": "media"
+  }
+ },
+ {
+  "id": "ChIJZe6sv6YeyUwRiLheu-5pc5c",
+  "name": "Louisiane Park",
+  "lat": 45.5683326,
+  "lng": -73.57234509999999,
+  "region": "Hochelaga e Parc Olympique",
+  "primary_type": "park",
+  "rating": 4.4,
+  "n_reviews": 415,
+  "price_level": null,
+  "windows": {
+   "6": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "0": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "1": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "2": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "3": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "4": [
+    [
+     360,
+     1440
+    ]
+   ],
+   "5": [
+    [
+     360,
+     1440
+    ]
+   ]
+  },
+  "features": {
+   "category": "trilha_parque",
+   "is_dining": false,
+   "is_paid": false,
+   "est_price_brl": null,
+   "duration_min": 60,
+   "setting": "outdoor",
+   "authenticity": 0.6,
+   "touristy": 0.3,
+   "gastronomy": 0.0,
+   "culture": 0.2,
+   "nature": 0.8,
+   "landmark": 0.2,
    "confidence": "media"
   }
  }
